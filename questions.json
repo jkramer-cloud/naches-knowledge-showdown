@@ -1,0 +1,2736 @@
+{
+  "version": 1,
+  "sourceNote": "Original supplemental classroom practice. Teacher review recommended. Not official state standards questions.",
+  "questions": [
+    {
+      "id": "middle-1-1-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 1,
+      "clue": "What is 25% of 80?",
+      "answer": "20",
+      "wrong": [
+        "15",
+        "25",
+        "40"
+      ],
+      "why": "One quarter of 80 is 20."
+    },
+    {
+      "id": "middle-1-1-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 1,
+      "clue": "What is the product of 9 and 7?",
+      "answer": "63",
+      "wrong": [
+        "56",
+        "72",
+        "67"
+      ],
+      "why": "9 multiplied by 7 is 63."
+    },
+    {
+      "id": "middle-1-1-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 1,
+      "clue": "A square has side length 6 cm. What is its perimeter?",
+      "answer": "24 cm",
+      "wrong": [
+        "12 cm",
+        "36 cm",
+        "18 cm"
+      ],
+      "why": "Four sides of 6 cm total 24 cm."
+    },
+    {
+      "id": "middle-1-2-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 2,
+      "clue": "Which fraction equals 0.75?",
+      "answer": "3/4",
+      "wrong": [
+        "2/3",
+        "4/5",
+        "1/4"
+      ],
+      "why": "0.75 is 75/100, which simplifies to 3/4."
+    },
+    {
+      "id": "middle-1-2-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 2,
+      "clue": "What is 3/5 of 45?",
+      "answer": "27",
+      "wrong": [
+        "15",
+        "18",
+        "30"
+      ],
+      "why": "45 divided by 5 and multiplied by 3 is 27."
+    },
+    {
+      "id": "middle-1-2-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 2,
+      "clue": "A triangle has base 10 and height 6. What is its area?",
+      "answer": "30 square units",
+      "wrong": [
+        "60 square units",
+        "16 square units",
+        "40 square units"
+      ],
+      "why": "Triangle area is one half times base times height."
+    },
+    {
+      "id": "middle-1-3-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 3,
+      "clue": "Solve 4x + 6 = 30.",
+      "answer": "x = 6",
+      "wrong": [
+        "x = 9",
+        "x = 4",
+        "x = 8"
+      ],
+      "why": "Subtract 6 and divide 24 by 4."
+    },
+    {
+      "id": "middle-1-3-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 3,
+      "clue": "What is the mean of 5, 7, 10, and 14?",
+      "answer": "9",
+      "wrong": [
+        "8",
+        "10",
+        "12"
+      ],
+      "why": "The sum is 36; divide by four values."
+    },
+    {
+      "id": "middle-1-3-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 3,
+      "clue": "A $48 item is discounted by 25%. What is the sale price?",
+      "answer": "$36",
+      "wrong": [
+        "$12",
+        "$40",
+        "$42"
+      ],
+      "why": "A 25% discount is $12, leaving $36."
+    },
+    {
+      "id": "middle-1-4-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 4,
+      "clue": "A right triangle has legs 5 and 12. How long is the hypotenuse?",
+      "answer": "13",
+      "wrong": [
+        "17",
+        "11",
+        "10"
+      ],
+      "why": "The Pythagorean theorem gives √(25 + 144) = 13."
+    },
+    {
+      "id": "middle-1-4-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 4,
+      "clue": "What is 2 to the fifth power?",
+      "answer": "32",
+      "wrong": [
+        "10",
+        "16",
+        "64"
+      ],
+      "why": "Multiply five factors of 2 together."
+    },
+    {
+      "id": "middle-1-4-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 4,
+      "clue": "What is the probability of rolling an even number on a fair six-sided die?",
+      "answer": "1/2",
+      "wrong": [
+        "1/3",
+        "2/3",
+        "1/6"
+      ],
+      "why": "Three of six faces are even."
+    },
+    {
+      "id": "middle-1-5-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 5,
+      "clue": "A car travels 150 km in 2.5 hours. What is its average speed?",
+      "answer": "60 km/h",
+      "wrong": [
+        "75 km/h",
+        "50 km/h",
+        "375 km/h"
+      ],
+      "why": "Divide distance by elapsed time."
+    },
+    {
+      "id": "middle-1-5-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 5,
+      "clue": "The pattern 3, 7, 11, 15 follows which rule?",
+      "answer": "Add 4",
+      "wrong": [
+        "Multiply by 2",
+        "Add 3",
+        "Subtract 4"
+      ],
+      "why": "Each term increases by four."
+    },
+    {
+      "id": "middle-1-5-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 5,
+      "clue": "What is the volume of a rectangular prism 4 by 5 by 8 units?",
+      "answer": "160 cubic units",
+      "wrong": [
+        "80 cubic units",
+        "17 cubic units",
+        "40 cubic units"
+      ],
+      "why": "Multiply the three dimensions."
+    },
+    {
+      "id": "middle-2-1-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 1,
+      "clue": "Which force pulls objects toward Earth?",
+      "answer": "Gravity",
+      "wrong": [
+        "Friction",
+        "Magnetism",
+        "Buoyancy"
+      ],
+      "why": "Gravity attracts masses toward one another."
+    },
+    {
+      "id": "middle-2-1-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 1,
+      "clue": "What is the process of liquid water changing into gas?",
+      "answer": "Evaporation",
+      "wrong": [
+        "Condensation",
+        "Freezing",
+        "Deposition"
+      ],
+      "why": "Evaporation is the liquid-to-gas change."
+    },
+    {
+      "id": "middle-2-1-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 1,
+      "clue": "Which organ pumps blood through the human body?",
+      "answer": "Heart",
+      "wrong": [
+        "Liver",
+        "Lung",
+        "Stomach"
+      ],
+      "why": "The heart drives circulation."
+    },
+    {
+      "id": "middle-2-2-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 2,
+      "clue": "What is the basic unit of life?",
+      "answer": "Cell",
+      "wrong": [
+        "Atom",
+        "Tissue",
+        "Organ"
+      ],
+      "why": "Cells are the smallest structural units of living things."
+    },
+    {
+      "id": "middle-2-2-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 2,
+      "clue": "In a food chain, what is a plant usually classified as?",
+      "answer": "Producer",
+      "wrong": [
+        "Predator",
+        "Decomposer",
+        "Consumer"
+      ],
+      "why": "Plants use sunlight to make their own food."
+    },
+    {
+      "id": "middle-2-2-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 2,
+      "clue": "What type of energy is stored in a stretched rubber band?",
+      "answer": "Elastic potential energy",
+      "wrong": [
+        "Sound energy",
+        "Thermal energy",
+        "Nuclear energy"
+      ],
+      "why": "Stretching stores potential energy in the material."
+    },
+    {
+      "id": "middle-2-3-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 3,
+      "clue": "A substance with pH 3 is generally classified as what?",
+      "answer": "Acidic",
+      "wrong": [
+        "Neutral",
+        "Basic",
+        "Salty"
+      ],
+      "why": "Solutions below pH 7 are acidic."
+    },
+    {
+      "id": "middle-2-3-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 3,
+      "clue": "Which part of an atom has a negative electric charge?",
+      "answer": "Electron",
+      "wrong": [
+        "Proton",
+        "Neutron",
+        "Nucleus"
+      ],
+      "why": "An electron carries negative charge."
+    },
+    {
+      "id": "middle-2-3-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 3,
+      "clue": "When a surface rubs against another, which force opposes sliding?",
+      "answer": "Friction",
+      "wrong": [
+        "Gravity",
+        "Tension",
+        "Lift"
+      ],
+      "why": "Friction resists relative movement of surfaces."
+    },
+    {
+      "id": "middle-2-4-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 4,
+      "clue": "Why does a sealed syringe of air resist being compressed?",
+      "answer": "Gas particles move closer together and pressure rises",
+      "wrong": [
+        "Air becomes a solid",
+        "The air disappears",
+        "Gravity reverses"
+      ],
+      "why": "Compression reduces volume and raises gas pressure."
+    },
+    {
+      "id": "middle-2-4-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 4,
+      "clue": "Which is a chemical change?",
+      "answer": "Iron rusting",
+      "wrong": [
+        "Ice melting",
+        "Glass breaking",
+        "Water freezing"
+      ],
+      "why": "Rusting produces a new chemical substance."
+    },
+    {
+      "id": "middle-2-4-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 4,
+      "clue": "A circuit with a broken wire is described as what?",
+      "answer": "Open circuit",
+      "wrong": [
+        "Short circuit",
+        "Series circuit",
+        "Grounded circuit"
+      ],
+      "why": "An open circuit does not form a complete conducting path."
+    },
+    {
+      "id": "middle-2-5-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 5,
+      "clue": "When mass stays constant, doubling net force does what to acceleration?",
+      "answer": "Doubles it",
+      "wrong": [
+        "Halves it",
+        "Squares it",
+        "Leaves it unchanged"
+      ],
+      "why": "Newton's second law gives a = F/m."
+    },
+    {
+      "id": "middle-2-5-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 5,
+      "clue": "Which is evidence of a controlled experiment?",
+      "answer": "Only one independent variable is deliberately changed",
+      "wrong": [
+        "All variables change together",
+        "No measurements are taken",
+        "Only one trial is allowed"
+      ],
+      "why": "Changing one factor helps isolate causal effects."
+    },
+    {
+      "id": "middle-2-5-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 5,
+      "clue": "When energy transfers from a warmer object to a cooler object, that transfer is called what?",
+      "answer": "Heat",
+      "wrong": [
+        "Mass",
+        "Weight",
+        "Density"
+      ],
+      "why": "Heat is energy transferred due to a temperature difference."
+    },
+    {
+      "id": "middle-3-1-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 1,
+      "clue": "Which planet is called the Red Planet?",
+      "answer": "Mars",
+      "wrong": [
+        "Venus",
+        "Jupiter",
+        "Mercury"
+      ],
+      "why": "Iron oxide helps give Mars its reddish appearance."
+    },
+    {
+      "id": "middle-3-1-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 1,
+      "clue": "What causes daytime and nighttime on Earth?",
+      "answer": "Earth's rotation",
+      "wrong": [
+        "Earth's orbit around the Sun",
+        "The Moon's phases",
+        "Cloud movement"
+      ],
+      "why": "Rotation changes which hemisphere faces the Sun."
+    },
+    {
+      "id": "middle-3-1-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 1,
+      "clue": "Which object is at the center of our solar system?",
+      "answer": "The Sun",
+      "wrong": [
+        "Earth",
+        "The Moon",
+        "Jupiter"
+      ],
+      "why": "Planets orbit the Sun."
+    },
+    {
+      "id": "middle-3-2-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 2,
+      "clue": "What kind of rock forms when lava cools?",
+      "answer": "Igneous",
+      "wrong": [
+        "Sedimentary",
+        "Metamorphic",
+        "Fossil"
+      ],
+      "why": "Cooled magma or lava forms igneous rock."
+    },
+    {
+      "id": "middle-3-2-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 2,
+      "clue": "Which atmospheric layer has most everyday weather?",
+      "answer": "Troposphere",
+      "wrong": [
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "why": "Most clouds and weather develop in the troposphere."
+    },
+    {
+      "id": "middle-3-2-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 2,
+      "clue": "What is the name for Earth's natural satellite?",
+      "answer": "Moon",
+      "wrong": [
+        "Phobos",
+        "Europa",
+        "Titan"
+      ],
+      "why": "The Moon is Earth's natural satellite."
+    },
+    {
+      "id": "middle-3-3-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 3,
+      "clue": "Which tectonic boundary involves plates moving apart?",
+      "answer": "Divergent",
+      "wrong": [
+        "Convergent",
+        "Transform",
+        "Subduction only"
+      ],
+      "why": "Divergent boundaries separate and can form new crust."
+    },
+    {
+      "id": "middle-3-3-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 3,
+      "clue": "What term describes a huge rotating storm over warm tropical oceans?",
+      "answer": "Tropical cyclone",
+      "wrong": [
+        "Tornado",
+        "Blizzard",
+        "Dust storm"
+      ],
+      "why": "Tropical cyclones draw energy from warm ocean waters."
+    },
+    {
+      "id": "middle-3-3-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 3,
+      "clue": "Why do we experience seasons?",
+      "answer": "Earth's axis is tilted relative to its orbit",
+      "wrong": [
+        "Earth is much closer to the Sun in summer",
+        "The Moon blocks sunlight",
+        "Earth slows its rotation"
+      ],
+      "why": "Tilt changes Sun angle and daylight duration."
+    },
+    {
+      "id": "middle-3-4-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 4,
+      "clue": "Which instrument detects seismic waves from earthquakes?",
+      "answer": "Seismometer",
+      "wrong": [
+        "Barometer",
+        "Hygrometer",
+        "Anemometer"
+      ],
+      "why": "A seismometer records ground motion."
+    },
+    {
+      "id": "middle-3-4-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 4,
+      "clue": "Which process carries sediment away from a hillside?",
+      "answer": "Erosion",
+      "wrong": [
+        "Deposition",
+        "Condensation",
+        "Photosynthesis"
+      ],
+      "why": "Erosion removes and transports weathered materials."
+    },
+    {
+      "id": "middle-3-4-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 4,
+      "clue": "What mainly drives ocean surface tides?",
+      "answer": "Gravity from the Moon, with a contribution from the Sun",
+      "wrong": [
+        "Ocean temperature alone",
+        "Earth's magnetic field",
+        "Wind direction alone"
+      ],
+      "why": "Lunar and solar gravity create tidal forces."
+    },
+    {
+      "id": "middle-3-5-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 5,
+      "clue": "If a star's light shifts toward longer wavelengths due to motion away, what is that called?",
+      "answer": "Redshift",
+      "wrong": [
+        "Blueshift",
+        "Refraction",
+        "Reflection"
+      ],
+      "why": "Receding light sources exhibit Doppler redshift."
+    },
+    {
+      "id": "middle-3-5-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 5,
+      "clue": "What makes a scientific climate trend different from one day's weather?",
+      "answer": "It describes patterns over long periods",
+      "wrong": [
+        "It always includes snow",
+        "It predicts one hour exactly",
+        "It measures only wind"
+      ],
+      "why": "Climate is a long-term pattern of weather conditions."
+    },
+    {
+      "id": "middle-3-5-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 5,
+      "clue": "Where is new oceanic crust commonly formed?",
+      "answer": "Mid-ocean ridges",
+      "wrong": [
+        "Continental interiors",
+        "Desert dunes",
+        "River deltas"
+      ],
+      "why": "Seafloor spreading creates crust at divergent ridges."
+    },
+    {
+      "id": "middle-4-1-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 1,
+      "clue": "Which document begins with 'We the People'?",
+      "answer": "U.S. Constitution",
+      "wrong": [
+        "Declaration of Independence",
+        "Bill of Rights alone",
+        "Emancipation Proclamation"
+      ],
+      "why": "The Constitution's preamble starts with that phrase."
+    },
+    {
+      "id": "middle-4-1-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 1,
+      "clue": "What branch of the U.S. government interprets federal law?",
+      "answer": "Judicial branch",
+      "wrong": [
+        "Executive branch",
+        "Legislative branch",
+        "Treasury Department"
+      ],
+      "why": "Federal courts are in the judicial branch."
+    },
+    {
+      "id": "middle-4-1-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 1,
+      "clue": "Which explorer led the first expedition to circumnavigate Earth, although he died before it ended?",
+      "answer": "Ferdinand Magellan",
+      "wrong": [
+        "Christopher Columbus",
+        "Marco Polo",
+        "James Cook"
+      ],
+      "why": "Magellan led the expedition; Juan Sebastián Elcano completed it."
+    },
+    {
+      "id": "middle-4-2-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 2,
+      "clue": "What is the purpose of checks and balances?",
+      "answer": "Limit concentration of government power",
+      "wrong": [
+        "Give one branch total control",
+        "Replace elections",
+        "Remove courts"
+      ],
+      "why": "Each branch can restrain actions of the others."
+    },
+    {
+      "id": "middle-4-2-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 2,
+      "clue": "Which ancient civilization built the pyramids at Giza?",
+      "answer": "Ancient Egyptians",
+      "wrong": [
+        "Ancient Romans",
+        "Ancient Greeks",
+        "Maya"
+      ],
+      "why": "Giza's large pyramids are monuments of ancient Egypt."
+    },
+    {
+      "id": "middle-4-2-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 2,
+      "clue": "What do citizens usually do in a representative democracy?",
+      "answer": "Elect officials to make decisions",
+      "wrong": [
+        "Vote personally on every law",
+        "Choose hereditary rulers",
+        "Avoid public debate"
+      ],
+      "why": "Representatives act on behalf of voters."
+    },
+    {
+      "id": "middle-4-3-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 3,
+      "clue": "Which event began in 1775 and led to U.S. independence?",
+      "answer": "American Revolutionary War",
+      "wrong": [
+        "U.S. Civil War",
+        "War of 1812",
+        "World War I"
+      ],
+      "why": "The Revolutionary War began in 1775."
+    },
+    {
+      "id": "middle-4-3-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 3,
+      "clue": "What did the 19th Amendment prohibit denying on the basis of sex?",
+      "answer": "Voting rights",
+      "wrong": [
+        "Freedom of the press",
+        "Property ownership",
+        "Jury trials"
+      ],
+      "why": "The amendment protected voting rights regardless of sex."
+    },
+    {
+      "id": "middle-4-3-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 3,
+      "clue": "Which empire was centered in the city of Rome?",
+      "answer": "Roman Empire",
+      "wrong": [
+        "Ottoman Empire",
+        "Inca Empire",
+        "Mongol Empire"
+      ],
+      "why": "The Roman Empire grew from the city of Rome."
+    },
+    {
+      "id": "middle-4-4-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 4,
+      "clue": "What system divides power between national and state governments?",
+      "answer": "Federalism",
+      "wrong": [
+        "Monarchy",
+        "Direct democracy",
+        "Feudalism"
+      ],
+      "why": "Federalism shares governing authority across levels."
+    },
+    {
+      "id": "middle-4-4-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 4,
+      "clue": "What did the U.S. Civil War end with in 1865?",
+      "answer": "Defeat of the Confederacy",
+      "wrong": [
+        "Signing of the Constitution",
+        "End of World War II",
+        "Louisiana Purchase"
+      ],
+      "why": "Major Confederate armies surrendered in 1865."
+    },
+    {
+      "id": "middle-4-4-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 4,
+      "clue": "What is a primary historical source?",
+      "answer": "A diary written during an event",
+      "wrong": [
+        "A modern textbook summary",
+        "A documentary made a century later",
+        "An encyclopedia overview"
+      ],
+      "why": "Primary sources originate from the period or participants studied."
+    },
+    {
+      "id": "middle-4-5-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 5,
+      "clue": "Which Supreme Court case declared segregated public schools unconstitutional in 1954?",
+      "answer": "Brown v. Board of Education",
+      "wrong": [
+        "Marbury v. Madison",
+        "Miranda v. Arizona",
+        "Plessy v. Ferguson"
+      ],
+      "why": "Brown rejected racial segregation in public education."
+    },
+    {
+      "id": "middle-4-5-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 5,
+      "clue": "What is the purpose of a constitutional amendment?",
+      "answer": "Change the Constitution through its formal process",
+      "wrong": [
+        "Replace local ordinances daily",
+        "Elect federal judges",
+        "Set gas prices"
+      ],
+      "why": "Amendments alter the nation's foundational legal framework."
+    },
+    {
+      "id": "middle-4-5-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 5,
+      "clue": "Why do historians compare multiple accounts of the same event?",
+      "answer": "To identify perspectives and corroborate evidence",
+      "wrong": [
+        "To select the longest account",
+        "To avoid discussing bias",
+        "To guarantee perfect objectivity"
+      ],
+      "why": "Comparison can reveal agreement, conflict, and source limitations."
+    },
+    {
+      "id": "middle-5-1-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 1,
+      "clue": "Which word is a synonym of 'rapid'?",
+      "answer": "Fast",
+      "wrong": [
+        "Silent",
+        "Heavy",
+        "Gentle"
+      ],
+      "why": "Rapid and fast both describe speed."
+    },
+    {
+      "id": "middle-5-1-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 1,
+      "clue": "Which punctuation mark usually ends a direct question?",
+      "answer": "Question mark",
+      "wrong": [
+        "Colon",
+        "Comma",
+        "Semicolon"
+      ],
+      "why": "A question mark indicates direct inquiry."
+    },
+    {
+      "id": "middle-5-1-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 1,
+      "clue": "What is the plural of 'mouse' when referring to animals?",
+      "answer": "Mice",
+      "wrong": [
+        "Mouses",
+        "Mouse's",
+        "Mices"
+      ],
+      "why": "The irregular plural is mice."
+    },
+    {
+      "id": "middle-5-2-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 2,
+      "clue": "Which prefix means 'again'?",
+      "answer": "Re-",
+      "wrong": [
+        "Un-",
+        "Pre-",
+        "Dis-"
+      ],
+      "why": "Re- indicates repetition, as in rewrite."
+    },
+    {
+      "id": "middle-5-2-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 2,
+      "clue": "In 'The bright lantern glowed,' which word is an adjective?",
+      "answer": "Bright",
+      "wrong": [
+        "Lantern",
+        "Glowed",
+        "The"
+      ],
+      "why": "Bright describes the noun lantern."
+    },
+    {
+      "id": "middle-5-2-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 2,
+      "clue": "Which word means the opposite of 'scarce'?",
+      "answer": "Abundant",
+      "wrong": [
+        "Rare",
+        "Limited",
+        "Sparse"
+      ],
+      "why": "Abundant describes a large supply."
+    },
+    {
+      "id": "middle-5-3-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 3,
+      "clue": "What is the main purpose of a topic sentence?",
+      "answer": "State a paragraph's central idea",
+      "wrong": [
+        "List every source",
+        "End a novel",
+        "Show quotation marks"
+      ],
+      "why": "A topic sentence introduces the paragraph's main point."
+    },
+    {
+      "id": "middle-5-3-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 3,
+      "clue": "Which word uses a root meaning 'life'?",
+      "answer": "Biology",
+      "wrong": [
+        "Geography",
+        "Astronomy",
+        "Geometry"
+      ],
+      "why": "Bio- comes from a root meaning life."
+    },
+    {
+      "id": "middle-5-3-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 3,
+      "clue": "Which sentence uses the apostrophe correctly?",
+      "answer": "The student's notebook is blue.",
+      "wrong": [
+        "The students notebook is blue.",
+        "The students's notebook is blue.",
+        "The student,s notebook is blue."
+      ],
+      "why": "A singular possessive noun takes apostrophe-s."
+    },
+    {
+      "id": "middle-5-4-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 4,
+      "clue": "What literary device compares things using 'like' or 'as'?",
+      "answer": "Simile",
+      "wrong": [
+        "Metaphor",
+        "Alliteration",
+        "Onomatopoeia"
+      ],
+      "why": "A simile uses an explicit comparison."
+    },
+    {
+      "id": "middle-5-4-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 4,
+      "clue": "What is an inference?",
+      "answer": "A conclusion drawn from evidence and reasoning",
+      "wrong": [
+        "A copied sentence",
+        "An unsupported guess stated as fact",
+        "A dictionary entry"
+      ],
+      "why": "Inference uses clues to reason beyond stated details."
+    },
+    {
+      "id": "middle-5-4-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 4,
+      "clue": "Which source is strongest for checking a current scientific claim?",
+      "answer": "A recent peer-reviewed research article",
+      "wrong": [
+        "An anonymous rumor",
+        "An undated advertisement",
+        "A fictional story"
+      ],
+      "why": "Scientific review and methodology help assess claims."
+    },
+    {
+      "id": "middle-5-5-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 5,
+      "clue": "Which sentence has a dependent clause?",
+      "answer": "Although it rained, we hiked.",
+      "wrong": [
+        "We hiked and we rested.",
+        "The trail was steep.",
+        "They carried water."
+      ],
+      "why": "'Although it rained' cannot stand alone."
+    },
+    {
+      "id": "middle-5-5-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 5,
+      "clue": "What is the author's tone?",
+      "answer": "The attitude conveyed toward the subject",
+      "wrong": [
+        "The number of paragraphs",
+        "The page's font size",
+        "The story's location"
+      ],
+      "why": "Tone is the attitude suggested by word choice and style."
+    },
+    {
+      "id": "middle-5-5-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 5,
+      "clue": "Which technique strengthens an argument most?",
+      "answer": "Relevant evidence with clear reasoning",
+      "wrong": [
+        "Repeated slogans without support",
+        "A larger typeface",
+        "An unrelated anecdote"
+      ],
+      "why": "Evidence tied to the claim makes reasoning stronger."
+    },
+    {
+      "id": "middle-6-1-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 1,
+      "clue": "What does a computer keyboard mainly provide?",
+      "answer": "Input",
+      "wrong": [
+        "Output only",
+        "Internet service",
+        "Electric storage"
+      ],
+      "why": "A keyboard sends input to a device."
+    },
+    {
+      "id": "middle-6-1-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 1,
+      "clue": "What is a strong password practice?",
+      "answer": "Use a long, unique passphrase",
+      "wrong": [
+        "Use your birthday only",
+        "Share with teammates",
+        "Reuse one password everywhere"
+      ],
+      "why": "Long unique credentials reduce risk of compromise."
+    },
+    {
+      "id": "middle-6-1-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 1,
+      "clue": "Which device displays a computer's visual output?",
+      "answer": "Monitor",
+      "wrong": [
+        "Mouse",
+        "Microphone",
+        "Scanner"
+      ],
+      "why": "A monitor shows visual output."
+    },
+    {
+      "id": "middle-6-2-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 2,
+      "clue": "What does a URL help identify?",
+      "answer": "The address of a web resource",
+      "wrong": [
+        "The age of a computer",
+        "The speed of a printer",
+        "The number of users online"
+      ],
+      "why": "A URL locates a resource on the web."
+    },
+    {
+      "id": "middle-6-2-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 2,
+      "clue": "Why should you check an article's publication date?",
+      "answer": "Its information may be outdated",
+      "wrong": [
+        "Dates make every source reliable",
+        "Old articles are always false",
+        "A date replaces evidence"
+      ],
+      "why": "Some facts and claims change over time."
+    },
+    {
+      "id": "middle-6-2-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 2,
+      "clue": "What is a spreadsheet cell?",
+      "answer": "One intersection of a row and column",
+      "wrong": [
+        "A whole keyboard",
+        "An internet tab",
+        "A computer virus"
+      ],
+      "why": "Cells store values or formulas in tables."
+    },
+    {
+      "id": "middle-6-3-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 3,
+      "clue": "What does 'phishing' usually involve?",
+      "answer": "Deceptive messages seeking information",
+      "wrong": [
+        "Updating software safely",
+        "Backing up a document",
+        "Compressing a photograph"
+      ],
+      "why": "Phishing impersonates trust to steal data or access."
+    },
+    {
+      "id": "middle-6-3-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 3,
+      "clue": "What is an algorithm?",
+      "answer": "A defined sequence of steps for a task",
+      "wrong": [
+        "A type of monitor",
+        "Only a mathematical graph",
+        "An encrypted photo"
+      ],
+      "why": "Algorithms specify processes or computations."
+    },
+    {
+      "id": "middle-6-3-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 3,
+      "clue": "Why use alt text for meaningful images?",
+      "answer": "Improve accessibility for screen reader users",
+      "wrong": [
+        "Make images load twice",
+        "Guarantee copyright permission",
+        "Remove image metadata"
+      ],
+      "why": "Alt text communicates important visual meaning."
+    },
+    {
+      "id": "middle-6-4-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 4,
+      "clue": "What does a conditional statement do in programming?",
+      "answer": "Chooses an action based on a condition",
+      "wrong": [
+        "Always repeats indefinitely",
+        "Deletes all data",
+        "Changes screen resolution"
+      ],
+      "why": "Conditionals branch based on whether conditions hold."
+    },
+    {
+      "id": "middle-6-4-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 4,
+      "clue": "Which file format commonly stores structured data as key-value pairs?",
+      "answer": "JSON",
+      "wrong": [
+        "JPEG",
+        "MP3",
+        "PNG"
+      ],
+      "why": "JSON represents structured data with objects and arrays."
+    },
+    {
+      "id": "middle-6-4-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 4,
+      "clue": "What is two-factor authentication?",
+      "answer": "Using two different verification factors",
+      "wrong": [
+        "Typing the password twice",
+        "Logging in from two tabs",
+        "Owning two keyboards"
+      ],
+      "why": "Multi-factor authentication uses distinct factor types."
+    },
+    {
+      "id": "middle-6-5-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 5,
+      "clue": "What is one limitation of a biased training data set?",
+      "answer": "A model may produce systematically unfair results",
+      "wrong": [
+        "It guarantees perfect predictions",
+        "It eliminates uncertainty",
+        "It cannot store numbers"
+      ],
+      "why": "Biased data can yield biased outputs."
+    },
+    {
+      "id": "middle-6-5-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 5,
+      "clue": "What does a Git commit record?",
+      "answer": "A snapshot of changes and associated metadata",
+      "wrong": [
+        "An internet speed test",
+        "A keyboard setting",
+        "A browser cookie"
+      ],
+      "why": "Commits preserve versioned changes."
+    },
+    {
+      "id": "middle-6-5-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 5,
+      "clue": "What is the key difference between correlation and causation?",
+      "answer": "Correlation alone does not establish cause",
+      "wrong": [
+        "They always mean the same thing",
+        "Causes never correlate",
+        "Correlation proves intent"
+      ],
+      "why": "A relationship does not by itself establish why it occurs."
+    },
+    {
+      "id": "high-1-1-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 1,
+      "clue": "Solve 3x - 7 = 11.",
+      "answer": "x = 6",
+      "wrong": [
+        "x = 4",
+        "x = 9",
+        "x = 18"
+      ],
+      "why": "Add 7 then divide by 3."
+    },
+    {
+      "id": "high-1-1-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 1,
+      "clue": "What is the slope of y = -2x + 5?",
+      "answer": "-2",
+      "wrong": [
+        "5",
+        "2",
+        "0"
+      ],
+      "why": "Slope is the coefficient of x."
+    },
+    {
+      "id": "high-1-1-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 1,
+      "clue": "What is the area of a circle with radius 3?",
+      "answer": "9π square units",
+      "wrong": [
+        "6π square units",
+        "3π square units",
+        "18π square units"
+      ],
+      "why": "Area is πr²."
+    },
+    {
+      "id": "high-1-2-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 2,
+      "clue": "Simplify (x + 2)(x + 3).",
+      "answer": "x² + 5x + 6",
+      "wrong": [
+        "x² + 6",
+        "x² + 6x + 5",
+        "2x + 5"
+      ],
+      "why": "Distribute both binomials."
+    },
+    {
+      "id": "high-1-2-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 2,
+      "clue": "For f(x) = x² - 4, what is f(3)?",
+      "answer": "5",
+      "wrong": [
+        "9",
+        "13",
+        "-5"
+      ],
+      "why": "3 squared minus 4 equals 5."
+    },
+    {
+      "id": "high-1-2-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 2,
+      "clue": "A line has slope 3 and y-intercept -4. What is its equation?",
+      "answer": "y = 3x - 4",
+      "wrong": [
+        "y = -4x + 3",
+        "y = 3x + 4",
+        "y = x - 4"
+      ],
+      "why": "Slope-intercept form is y = mx + b."
+    },
+    {
+      "id": "high-1-3-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 3,
+      "clue": "Solve x² - 9 = 0.",
+      "answer": "x = ±3",
+      "wrong": [
+        "x = 9 only",
+        "x = ±9",
+        "x = 3 only"
+      ],
+      "why": "Both positive and negative 3 square to 9."
+    },
+    {
+      "id": "high-1-3-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 3,
+      "clue": "What is the distance between (0,0) and (6,8)?",
+      "answer": "10",
+      "wrong": [
+        "12",
+        "14",
+        "8"
+      ],
+      "why": "The distance formula gives √(36+64)."
+    },
+    {
+      "id": "high-1-3-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 3,
+      "clue": "Which transformation preserves both angles and distances?",
+      "answer": "Translation",
+      "wrong": [
+        "Dilation by factor 2",
+        "Horizontal stretch",
+        "Nonuniform scaling"
+      ],
+      "why": "A translation is a rigid motion."
+    },
+    {
+      "id": "high-1-4-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 4,
+      "clue": "What is the discriminant of x² - 4x + 4 = 0?",
+      "answer": "0",
+      "wrong": [
+        "4",
+        "-4",
+        "16"
+      ],
+      "why": "b² - 4ac = 16 - 16."
+    },
+    {
+      "id": "high-1-4-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 4,
+      "clue": "Simplify log10(1000).",
+      "answer": "3",
+      "wrong": [
+        "10",
+        "100",
+        "2"
+      ],
+      "why": "10 cubed equals 1000."
+    },
+    {
+      "id": "high-1-4-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 4,
+      "clue": "If two similar triangles have side ratio 2:3, what is their area ratio?",
+      "answer": "4:9",
+      "wrong": [
+        "2:3",
+        "8:27",
+        "3:2"
+      ],
+      "why": "Area scales with the square of side lengths."
+    },
+    {
+      "id": "high-1-5-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 5,
+      "clue": "Solve the system x+y=7 and x-y=1.",
+      "answer": "x=4, y=3",
+      "wrong": [
+        "x=3, y=4",
+        "x=6, y=1",
+        "x=5, y=2"
+      ],
+      "why": "Adding equations gives 2x=8."
+    },
+    {
+      "id": "high-1-5-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 5,
+      "clue": "What is the vertex of y = (x - 2)² + 5?",
+      "answer": "(2,5)",
+      "wrong": [
+        "(-2,5)",
+        "(2,-5)",
+        "(5,2)"
+      ],
+      "why": "Vertex form is y=a(x-h)²+k."
+    },
+    {
+      "id": "high-1-5-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 5,
+      "clue": "If sin θ = 3/5 in a right triangle, which ratio is sin θ?",
+      "answer": "Opposite / hypotenuse",
+      "wrong": [
+        "Adjacent / hypotenuse",
+        "Opposite / adjacent",
+        "Hypotenuse / opposite"
+      ],
+      "why": "Sine compares the opposite side to the hypotenuse."
+    },
+    {
+      "id": "high-2-1-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 1,
+      "clue": "What is the atomic number of carbon?",
+      "answer": "6",
+      "wrong": [
+        "12",
+        "8",
+        "4"
+      ],
+      "why": "Carbon has six protons."
+    },
+    {
+      "id": "high-2-1-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 1,
+      "clue": "Which particle has a positive electric charge?",
+      "answer": "Proton",
+      "wrong": [
+        "Electron",
+        "Neutron",
+        "Photon"
+      ],
+      "why": "Protons carry positive charge."
+    },
+    {
+      "id": "high-2-1-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 1,
+      "clue": "What is the chemical formula for water?",
+      "answer": "H₂O",
+      "wrong": [
+        "CO₂",
+        "O₂",
+        "NaCl"
+      ],
+      "why": "Each water molecule contains two hydrogen atoms and one oxygen atom."
+    },
+    {
+      "id": "high-2-2-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 2,
+      "clue": "A neutral atom has 8 protons. How many electrons does it have?",
+      "answer": "8",
+      "wrong": [
+        "4",
+        "16",
+        "0"
+      ],
+      "why": "Neutral atoms have equal positive and negative charge."
+    },
+    {
+      "id": "high-2-2-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 2,
+      "clue": "Which element uses symbol Na?",
+      "answer": "Sodium",
+      "wrong": [
+        "Nitrogen",
+        "Neon",
+        "Nickel"
+      ],
+      "why": "Na comes from natrium, Latin for sodium."
+    },
+    {
+      "id": "high-2-2-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 2,
+      "clue": "What is the approximate pH of a neutral solution at 25°C?",
+      "answer": "7",
+      "wrong": [
+        "2",
+        "11",
+        "14"
+      ],
+      "why": "Neutral water is around pH 7 at this temperature."
+    },
+    {
+      "id": "high-2-3-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 3,
+      "clue": "What type of bond involves sharing pairs of electrons?",
+      "answer": "Covalent",
+      "wrong": [
+        "Ionic",
+        "Metallic only",
+        "Hydrogen bonding only"
+      ],
+      "why": "Covalent bonds share electrons."
+    },
+    {
+      "id": "high-2-3-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 3,
+      "clue": "What is a mole used to count in chemistry?",
+      "answer": "A specified number of particles",
+      "wrong": [
+        "Only a liquid's weight",
+        "An atom's charge",
+        "Only gas volume"
+      ],
+      "why": "One mole contains Avogadro's number of entities."
+    },
+    {
+      "id": "high-2-3-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 3,
+      "clue": "Which principle says atoms are conserved in ordinary chemical reactions?",
+      "answer": "Conservation of mass",
+      "wrong": [
+        "Boyle's law",
+        "Law of reflection",
+        "Archimedes' principle"
+      ],
+      "why": "Chemical reactions rearrange atoms rather than creating them."
+    },
+    {
+      "id": "high-2-4-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 4,
+      "clue": "What is the molar mass of H₂O, using H≈1 and O≈16?",
+      "answer": "18 g/mol",
+      "wrong": [
+        "16 g/mol",
+        "17 g/mol",
+        "20 g/mol"
+      ],
+      "why": "Two H atoms and one O atom yield about 18 g/mol."
+    },
+    {
+      "id": "high-2-4-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 4,
+      "clue": "Which reaction generally releases thermal energy to surroundings?",
+      "answer": "Exothermic",
+      "wrong": [
+        "Endothermic",
+        "Photochemical only",
+        "Isothermal always"
+      ],
+      "why": "An exothermic process transfers heat out."
+    },
+    {
+      "id": "high-2-4-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 4,
+      "clue": "What does a catalyst typically do?",
+      "answer": "Lower activation energy without being consumed overall",
+      "wrong": [
+        "Change conservation of mass",
+        "Create new atoms",
+        "Increase every reaction's final yield"
+      ],
+      "why": "A catalyst offers an alternate reaction pathway."
+    },
+    {
+      "id": "high-2-5-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 5,
+      "clue": "In a balanced chemical equation, coefficients represent what?",
+      "answer": "Relative particle or mole amounts",
+      "wrong": [
+        "Atomic numbers",
+        "Electron shells",
+        "Reaction temperatures"
+      ],
+      "why": "Balanced coefficients give stoichiometric ratios."
+    },
+    {
+      "id": "high-2-5-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 5,
+      "clue": "For N₂ + 3H₂ → 2NH₃, how many moles of H₂ react with 2 moles of N₂?",
+      "answer": "6 mol",
+      "wrong": [
+        "3 mol",
+        "2 mol",
+        "9 mol"
+      ],
+      "why": "The reaction needs three H₂ for each N₂."
+    },
+    {
+      "id": "high-2-5-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 5,
+      "clue": "Which property primarily determines an element's identity?",
+      "answer": "Number of protons",
+      "wrong": [
+        "Number of neutrons only",
+        "Mass of electrons",
+        "State of matter"
+      ],
+      "why": "Atomic number is the proton count."
+    },
+    {
+      "id": "high-3-1-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 1,
+      "clue": "Which organelle is the main site of photosynthesis in plant cells?",
+      "answer": "Chloroplast",
+      "wrong": [
+        "Mitochondrion",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "why": "Chloroplasts contain photosynthetic machinery."
+    },
+    {
+      "id": "high-3-1-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 1,
+      "clue": "What molecule carries genetic instructions in most organisms?",
+      "answer": "DNA",
+      "wrong": [
+        "Glucose",
+        "ATP",
+        "Starch"
+      ],
+      "why": "DNA stores inherited instructions."
+    },
+    {
+      "id": "high-3-1-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 1,
+      "clue": "Which body system transports oxygen in the blood?",
+      "answer": "Circulatory system",
+      "wrong": [
+        "Digestive system",
+        "Skeletal system",
+        "Integumentary system"
+      ],
+      "why": "Blood circulation distributes oxygen."
+    },
+    {
+      "id": "high-3-2-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 2,
+      "clue": "What is the functional unit of heredity?",
+      "answer": "Gene",
+      "wrong": [
+        "Organelle",
+        "Ribosome",
+        "Enzyme"
+      ],
+      "why": "Genes are hereditary DNA segments."
+    },
+    {
+      "id": "high-3-2-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 2,
+      "clue": "Which process divides one cell into two genetically similar daughter cells?",
+      "answer": "Mitosis",
+      "wrong": [
+        "Meiosis",
+        "Fertilization",
+        "Transcription"
+      ],
+      "why": "Mitosis segregates duplicated chromosomes."
+    },
+    {
+      "id": "high-3-2-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 2,
+      "clue": "What does a population mean in ecology?",
+      "answer": "Members of one species in a particular area",
+      "wrong": [
+        "All abiotic factors",
+        "Every ecosystem on Earth",
+        "One individual's organs"
+      ],
+      "why": "A population groups members of the same species."
+    },
+    {
+      "id": "high-3-3-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 3,
+      "clue": "What molecule do cells use as a common immediate energy carrier?",
+      "answer": "ATP",
+      "wrong": [
+        "DNA",
+        "Cellulose",
+        "Cholesterol"
+      ],
+      "why": "ATP transfers energy for cellular work."
+    },
+    {
+      "id": "high-3-3-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 3,
+      "clue": "What is the role of ribosomes?",
+      "answer": "Build proteins",
+      "wrong": [
+        "Store oxygen",
+        "Digest entire cells",
+        "Carry nerve signals"
+      ],
+      "why": "Ribosomes translate mRNA into polypeptides."
+    },
+    {
+      "id": "high-3-3-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 3,
+      "clue": "In a simple dominant/recessive trait, what is a heterozygous genotype?",
+      "answer": "Aa",
+      "wrong": [
+        "AA",
+        "aa",
+        "A only"
+      ],
+      "why": "Heterozygous means two different alleles."
+    },
+    {
+      "id": "high-3-4-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 4,
+      "clue": "In natural selection, which trait tends to become more common?",
+      "answer": "A heritable trait that improves reproductive success",
+      "wrong": [
+        "Every acquired habit",
+        "All mutations equally",
+        "Only the largest body size"
+      ],
+      "why": "Selection changes frequencies when inherited traits affect reproduction."
+    },
+    {
+      "id": "high-3-4-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 4,
+      "clue": "What is homeostasis?",
+      "answer": "Maintaining relatively stable internal conditions",
+      "wrong": [
+        "Stopping all metabolism",
+        "Evolution of new species",
+        "Production of identical gametes"
+      ],
+      "why": "Feedback systems help regulate internal variables."
+    },
+    {
+      "id": "high-3-4-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 4,
+      "clue": "Why are decomposers important?",
+      "answer": "They recycle nutrients from dead matter",
+      "wrong": [
+        "They create all solar energy",
+        "They stop photosynthesis",
+        "They remove oxygen permanently"
+      ],
+      "why": "Decomposition returns nutrients to ecosystems."
+    },
+    {
+      "id": "high-3-5-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 5,
+      "clue": "What is the usual direction of information flow in the central dogma?",
+      "answer": "DNA → RNA → protein",
+      "wrong": [
+        "Protein → RNA → DNA only",
+        "RNA → lipid → DNA",
+        "Glucose → DNA → protein"
+      ],
+      "why": "Gene expression generally transcribes DNA and translates RNA."
+    },
+    {
+      "id": "high-3-5-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 5,
+      "clue": "If Aa and Aa parents cross, what fraction of offspring genotypes is aa in a simple Mendelian model?",
+      "answer": "1/4",
+      "wrong": [
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "why": "Punnett-square combinations AA, Aa, Aa, aa give one aa in four."
+    },
+    {
+      "id": "high-3-5-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 5,
+      "clue": "What is the main source of energy for most terrestrial food webs?",
+      "answer": "Sunlight",
+      "wrong": [
+        "Geothermal heat alone",
+        "Moonlight",
+        "Soil minerals as fuel"
+      ],
+      "why": "Photosynthesis captures sunlight into chemical energy."
+    },
+    {
+      "id": "high-4-1-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 1,
+      "clue": "What is the SI unit of force?",
+      "answer": "Newton",
+      "wrong": [
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "why": "Force is measured in newtons."
+    },
+    {
+      "id": "high-4-1-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 1,
+      "clue": "What does speed measure?",
+      "answer": "Distance traveled per unit time",
+      "wrong": [
+        "Change in mass",
+        "Resistance to current",
+        "Force per area"
+      ],
+      "why": "Speed compares path length with elapsed time."
+    },
+    {
+      "id": "high-4-1-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 1,
+      "clue": "A stationary object has what velocity relative to the ground?",
+      "answer": "0 m/s",
+      "wrong": [
+        "9.8 m/s",
+        "1 m/s",
+        "100 m/s"
+      ],
+      "why": "No change in position means zero velocity."
+    },
+    {
+      "id": "high-4-2-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 2,
+      "clue": "What is the unit of electric current?",
+      "answer": "Ampere",
+      "wrong": [
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "why": "Current is measured in amperes."
+    },
+    {
+      "id": "high-4-2-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 2,
+      "clue": "A 2 kg object accelerates at 3 m/s². What net force acts on it?",
+      "answer": "6 N",
+      "wrong": [
+        "1.5 N",
+        "5 N",
+        "9 N"
+      ],
+      "why": "F=ma=2×3=6 N."
+    },
+    {
+      "id": "high-4-2-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 2,
+      "clue": "What is power in physics?",
+      "answer": "Energy transferred per unit time",
+      "wrong": [
+        "Force per unit length",
+        "Charge per unit mass",
+        "Velocity squared"
+      ],
+      "why": "Power describes the rate of energy transfer."
+    },
+    {
+      "id": "high-4-3-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 3,
+      "clue": "If a 12 V source is across a 4 Ω resistor, what current flows?",
+      "answer": "3 A",
+      "wrong": [
+        "48 A",
+        "8 A",
+        "0.33 A"
+      ],
+      "why": "Ohm's law gives I = V/R = 3 A."
+    },
+    {
+      "id": "high-4-3-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 3,
+      "clue": "What is the kinetic energy of a 2 kg object moving at 4 m/s?",
+      "answer": "16 J",
+      "wrong": [
+        "8 J",
+        "32 J",
+        "4 J"
+      ],
+      "why": "Kinetic energy is ½mv²."
+    },
+    {
+      "id": "high-4-3-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 3,
+      "clue": "What is the approximate acceleration of free fall near Earth's surface?",
+      "answer": "9.8 m/s² downward",
+      "wrong": [
+        "9.8 m/s upward",
+        "0.98 m/s² downward",
+        "98 m/s² downward"
+      ],
+      "why": "Near surface g is about 9.8 m/s² downward."
+    },
+    {
+      "id": "high-4-4-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 4,
+      "clue": "What is the momentum of a 5 kg mass moving at 3 m/s?",
+      "answer": "15 kg·m/s",
+      "wrong": [
+        "8 kg·m/s",
+        "1.67 kg·m/s",
+        "45 kg·m/s"
+      ],
+      "why": "Linear momentum is mass times velocity."
+    },
+    {
+      "id": "high-4-4-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 4,
+      "clue": "If work is 200 J over 10 seconds, what is average power?",
+      "answer": "20 W",
+      "wrong": [
+        "2 W",
+        "2000 W",
+        "210 W"
+      ],
+      "why": "Divide energy transferred by elapsed time."
+    },
+    {
+      "id": "high-4-4-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 4,
+      "clue": "Which quantity remains conserved in an isolated collision?",
+      "answer": "Total momentum",
+      "wrong": [
+        "Each object's speed",
+        "Each object's direction",
+        "All kinetic energy in every collision"
+      ],
+      "why": "Momentum is conserved even when kinetic energy is not."
+    },
+    {
+      "id": "high-4-5-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 5,
+      "clue": "A wave has frequency 5 Hz and wavelength 2 m. What is its speed?",
+      "answer": "10 m/s",
+      "wrong": [
+        "2.5 m/s",
+        "7 m/s",
+        "0.4 m/s"
+      ],
+      "why": "Wave speed v=fλ."
+    },
+    {
+      "id": "high-4-5-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 5,
+      "clue": "Two resistors of 3 Ω and 6 Ω are in series. What is their total resistance?",
+      "answer": "9 Ω",
+      "wrong": [
+        "2 Ω",
+        "18 Ω",
+        "3 Ω"
+      ],
+      "why": "Series resistances add."
+    },
+    {
+      "id": "high-4-5-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 5,
+      "clue": "Which design approach best isolates the cause of bridge failure?",
+      "answer": "Change one structural feature per test and record loads",
+      "wrong": [
+        "Change every material at once",
+        "Avoid collecting measurements",
+        "Use different loads without recording them"
+      ],
+      "why": "Controlled trials reveal how individual variables affect performance."
+    },
+    {
+      "id": "high-5-1-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 1,
+      "clue": "Which ancient civilization developed cuneiform writing?",
+      "answer": "Sumerians",
+      "wrong": [
+        "Aztecs",
+        "Vikings",
+        "Inca"
+      ],
+      "why": "Cuneiform originated in ancient Mesopotamia."
+    },
+    {
+      "id": "high-5-1-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 1,
+      "clue": "What is a constitutional democracy?",
+      "answer": "A democracy governed under constitutional limits",
+      "wrong": [
+        "A government without laws",
+        "Rule by one hereditary family",
+        "A state with no elections"
+      ],
+      "why": "Constitutional principles limit government authority."
+    },
+    {
+      "id": "high-5-1-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 1,
+      "clue": "Where did the Renaissance begin as a major cultural movement?",
+      "answer": "Italian city-states",
+      "wrong": [
+        "Japan",
+        "Canada",
+        "Australia"
+      ],
+      "why": "The European Renaissance began prominently in Italian centers."
+    },
+    {
+      "id": "high-5-2-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 2,
+      "clue": "What was a major long-term impact of the printing press in Europe?",
+      "answer": "Wider distribution of written ideas",
+      "wrong": [
+        "The end of all oral communication",
+        "Immediate universal literacy",
+        "The elimination of books"
+      ],
+      "why": "Printing expanded reproduction of texts."
+    },
+    {
+      "id": "high-5-2-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 2,
+      "clue": "Which document limited English royal power in 1215?",
+      "answer": "Magna Carta",
+      "wrong": [
+        "Treaty of Versailles",
+        "Declaration of Independence",
+        "Edict of Nantes"
+      ],
+      "why": "Magna Carta constrained the king and shaped later legal traditions."
+    },
+    {
+      "id": "high-5-2-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 2,
+      "clue": "Why do historians use geographic maps?",
+      "answer": "To study spatial relationships and change",
+      "wrong": [
+        "To eliminate all bias",
+        "To replace written evidence",
+        "To predict exact future events"
+      ],
+      "why": "Maps show the geographic dimensions of events."
+    },
+    {
+      "id": "high-5-3-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 3,
+      "clue": "Which 18th-century movement emphasized reason and debate about government?",
+      "answer": "Enlightenment",
+      "wrong": [
+        "Romanticism",
+        "Renaissance only",
+        "Cold War"
+      ],
+      "why": "Enlightenment writers debated reason and political authority."
+    },
+    {
+      "id": "high-5-3-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 3,
+      "clue": "What event is commonly used to mark the start of World War I in 1914?",
+      "answer": "Assassination of Archduke Franz Ferdinand",
+      "wrong": [
+        "Fall of Berlin Wall",
+        "Signing of the UN Charter",
+        "Moon landing"
+      ],
+      "why": "The assassination triggered a diplomatic crisis leading to war."
+    },
+    {
+      "id": "high-5-3-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 3,
+      "clue": "Which global conflict ended in 1945?",
+      "answer": "World War II",
+      "wrong": [
+        "World War I",
+        "The Crimean War",
+        "The Seven Years' War"
+      ],
+      "why": "Axis powers were defeated in 1945."
+    },
+    {
+      "id": "high-5-4-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 4,
+      "clue": "What was a central purpose of the United Nations when founded in 1945?",
+      "answer": "Promote peace and international cooperation",
+      "wrong": [
+        "Replace every national government",
+        "Control all private companies",
+        "End all borders"
+      ],
+      "why": "The UN was created to support collective peace and cooperation."
+    },
+    {
+      "id": "high-5-4-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 4,
+      "clue": "Which policy describes European powers controlling overseas colonies for economic and political aims?",
+      "answer": "Imperialism",
+      "wrong": [
+        "Isolationism",
+        "Federalism",
+        "Pacifism"
+      ],
+      "why": "Imperialism involves extending control over other territories."
+    },
+    {
+      "id": "high-5-4-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 4,
+      "clue": "Why is corroboration important when studying a historical source?",
+      "answer": "Other evidence can support or challenge an account",
+      "wrong": [
+        "A single source becomes automatically certain",
+        "It removes every possible interpretation",
+        "It substitutes for context"
+      ],
+      "why": "Corroboration checks claims against independent evidence."
+    },
+    {
+      "id": "high-5-5-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 5,
+      "clue": "Which process describes the end of colonial rule and creation of independent states?",
+      "answer": "Decolonization",
+      "wrong": [
+        "Industrialization",
+        "Urbanization",
+        "Feudalization"
+      ],
+      "why": "Many colonies gained independence after World War II."
+    },
+    {
+      "id": "high-5-5-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 5,
+      "clue": "What principle requires government powers to be exercised under established law?",
+      "answer": "Rule of law",
+      "wrong": [
+        "Divine right",
+        "Mercantilism",
+        "Autocracy"
+      ],
+      "why": "Rule of law subjects authorities to legal constraints."
+    },
+    {
+      "id": "high-5-5-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 5,
+      "clue": "Which method best distinguishes correlation from causation in historical analysis?",
+      "answer": "Assess mechanisms, timelines, and alternative explanations",
+      "wrong": [
+        "Assume simultaneous events always cause each other",
+        "Ignore competing evidence",
+        "Use only one firsthand witness"
+      ],
+      "why": "Causal claims need contextual evidence beyond timing."
+    },
+    {
+      "id": "high-6-1-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 1,
+      "clue": "What is a metaphor?",
+      "answer": "A direct comparison without 'like' or 'as'",
+      "wrong": [
+        "A list of dates",
+        "A type of rhyme only",
+        "A summary of facts"
+      ],
+      "why": "Metaphor identifies one thing in terms of another."
+    },
+    {
+      "id": "high-6-1-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 1,
+      "clue": "Who wrote the play Romeo and Juliet?",
+      "answer": "William Shakespeare",
+      "wrong": [
+        "Charles Dickens",
+        "Jane Austen",
+        "Mark Twain"
+      ],
+      "why": "Shakespeare wrote the tragedy."
+    },
+    {
+      "id": "high-6-1-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 1,
+      "clue": "What does a narrator do in a story?",
+      "answer": "Relates the events of the story",
+      "wrong": [
+        "Always writes the title",
+        "Only describes the setting",
+        "Prints the book"
+      ],
+      "why": "A narrator provides the narrative voice."
+    },
+    {
+      "id": "high-6-2-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 2,
+      "clue": "What is dramatic irony?",
+      "answer": "The audience knows something a character does not",
+      "wrong": [
+        "Every character knows the same information",
+        "A poem has no rhythm",
+        "The plot has no conflict"
+      ],
+      "why": "Dramatic irony involves unequal knowledge."
+    },
+    {
+      "id": "high-6-2-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 2,
+      "clue": "What type of word modifies a verb, adjective, or another adverb?",
+      "answer": "Adverb",
+      "wrong": [
+        "Noun",
+        "Pronoun",
+        "Preposition"
+      ],
+      "why": "Adverbs modify actions or qualities."
+    },
+    {
+      "id": "high-6-2-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 2,
+      "clue": "Who wrote the novel Frankenstein?",
+      "answer": "Mary Shelley",
+      "wrong": [
+        "Emily Brontë",
+        "Louisa May Alcott",
+        "Virginia Woolf"
+      ],
+      "why": "Mary Shelley published Frankenstein in 1818."
+    },
+    {
+      "id": "high-6-3-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 3,
+      "clue": "What is the central conflict in a narrative?",
+      "answer": "The main struggle driving the plot",
+      "wrong": [
+        "The book's page count",
+        "Its glossary",
+        "The author's biography"
+      ],
+      "why": "Conflict creates narrative tension."
+    },
+    {
+      "id": "high-6-3-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 3,
+      "clue": "What does a thesis statement generally do in an essay?",
+      "answer": "State the central argument or claim",
+      "wrong": [
+        "List random examples only",
+        "Quote every source",
+        "Provide a dictionary definition only"
+      ],
+      "why": "A thesis guides an essay's reasoning."
+    },
+    {
+      "id": "high-6-3-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 3,
+      "clue": "Which type of evidence best supports a literary interpretation?",
+      "answer": "A relevant passage with explanation",
+      "wrong": [
+        "A plot detail unrelated to the claim",
+        "The cover color alone",
+        "Personal certainty alone"
+      ],
+      "why": "Textual evidence and analysis support interpretation."
+    },
+    {
+      "id": "high-6-4-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 4,
+      "clue": "What is an unreliable narrator?",
+      "answer": "A storyteller whose account should be questioned",
+      "wrong": [
+        "Any narrator using first person",
+        "A narrator who uses dialogue",
+        "A character who speaks slowly"
+      ],
+      "why": "Narrators may be limited, deceptive, or mistaken."
+    },
+    {
+      "id": "high-6-4-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 4,
+      "clue": "What is enjambment in poetry?",
+      "answer": "A sentence or phrase continues past a line break",
+      "wrong": [
+        "Every line ends in a period",
+        "A poem has no meter",
+        "A rhyming couplet only"
+      ],
+      "why": "Enjambment carries syntax beyond a line ending."
+    },
+    {
+      "id": "high-6-4-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 4,
+      "clue": "Which fallacy attacks a person rather than their argument?",
+      "answer": "Ad hominem",
+      "wrong": [
+        "Straw man",
+        "False dilemma",
+        "Circular reasoning"
+      ],
+      "why": "Ad hominem targets the speaker instead of the claim."
+    },
+    {
+      "id": "high-6-5-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 5,
+      "clue": "What is the purpose of a counterargument in persuasive writing?",
+      "answer": "Address a plausible opposing position",
+      "wrong": [
+        "Remove the thesis",
+        "Replace all evidence",
+        "Only repeat the introduction"
+      ],
+      "why": "Responding to counterarguments strengthens reasoning."
+    },
+    {
+      "id": "high-6-5-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 5,
+      "clue": "How does motif differ from a theme?",
+      "answer": "A motif recurs; a theme is a broader idea or message",
+      "wrong": [
+        "A motif is always the title",
+        "A theme is always one repeated object",
+        "They are always identical"
+      ],
+      "why": "Motifs can reinforce thematic meanings."
+    },
+    {
+      "id": "high-6-5-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 5,
+      "clue": "Which approach most improves research source evaluation?",
+      "answer": "Compare authority, evidence, relevance, and potential bias",
+      "wrong": [
+        "Use whichever site ranks first",
+        "Count only the number of images",
+        "Avoid identifying authors"
+      ],
+      "why": "Source evaluation considers provenance and support."
+    },
+    {
+      "id": "high-7-1-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 1,
+      "clue": "What does a budget compare?",
+      "answer": "Income and planned expenses",
+      "wrong": [
+        "Only a person's age",
+        "Only tax rates",
+        "Only bank names"
+      ],
+      "why": "Budgets help plan resources and spending."
+    },
+    {
+      "id": "high-7-1-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 1,
+      "clue": "What does 'interest' generally mean on a savings account?",
+      "answer": "Money earned based on the deposited balance",
+      "wrong": [
+        "A required tax on every purchase",
+        "A type of debit card",
+        "A loan's principal only"
+      ],
+      "why": "Interest may be paid by a bank on deposits."
+    },
+    {
+      "id": "high-7-1-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 1,
+      "clue": "What is the median of 2, 5, and 10?",
+      "answer": "5",
+      "wrong": [
+        "2",
+        "10",
+        "17"
+      ],
+      "why": "The ordered middle value is 5."
+    },
+    {
+      "id": "high-7-2-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 2,
+      "clue": "What is simple interest on $1,000 at 5% for one year?",
+      "answer": "$50",
+      "wrong": [
+        "$5",
+        "$500",
+        "$1,050"
+      ],
+      "why": "1000 × 0.05 × 1 = 50."
+    },
+    {
+      "id": "high-7-2-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 2,
+      "clue": "What happens to a price after a 20% increase from $50?",
+      "answer": "$60",
+      "wrong": [
+        "$70",
+        "$55",
+        "$40"
+      ],
+      "why": "Twenty percent of 50 is 10."
+    },
+    {
+      "id": "high-7-2-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 2,
+      "clue": "Which graph best shows change over time?",
+      "answer": "Line graph",
+      "wrong": [
+        "Pie chart only",
+        "One static icon",
+        "A word cloud"
+      ],
+      "why": "Line graphs make time trends easier to see."
+    },
+    {
+      "id": "high-7-3-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 3,
+      "clue": "What is the mean of 12, 18, 20, and 30?",
+      "answer": "20",
+      "wrong": [
+        "18",
+        "22",
+        "80"
+      ],
+      "why": "The sum 80 divided by 4 is 20."
+    },
+    {
+      "id": "high-7-3-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 3,
+      "clue": "If prices rise generally, what happens to a fixed amount of money's purchasing power?",
+      "answer": "It tends to decrease",
+      "wrong": [
+        "It doubles automatically",
+        "It stays identical by definition",
+        "It becomes interest"
+      ],
+      "why": "Inflation reduces purchasing power of fixed cash."
+    },
+    {
+      "id": "high-7-3-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 3,
+      "clue": "How is net income related to gross income?",
+      "answer": "Net income is after deductions",
+      "wrong": [
+        "Net income is before deductions",
+        "Net income is always larger",
+        "They mean the same thing"
+      ],
+      "why": "Net pay reflects deductions from gross pay."
+    },
+    {
+      "id": "high-7-4-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 4,
+      "clue": "Which savings method grows interest on previously earned interest?",
+      "answer": "Compound interest",
+      "wrong": [
+        "Simple interest only",
+        "Fixed-price discount",
+        "Sales tax"
+      ],
+      "why": "Compounding earns interest on accumulated interest."
+    },
+    {
+      "id": "high-7-4-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 4,
+      "clue": "What is the opportunity cost of a decision?",
+      "answer": "Value of the next-best option forgone",
+      "wrong": [
+        "The cash paid only",
+        "The item's weight",
+        "The amount of sales tax"
+      ],
+      "why": "Opportunity cost reflects the alternative given up."
+    },
+    {
+      "id": "high-7-4-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 4,
+      "clue": "What does a high-interest debt generally do compared with low-interest debt?",
+      "answer": "Costs more to carry, all else equal",
+      "wrong": [
+        "Always costs less",
+        "Has no effect on repayment",
+        "Makes payments optional"
+      ],
+      "why": "Higher interest increases financing cost."
+    },
+    {
+      "id": "high-7-5-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 5,
+      "clue": "If an investment rises from $200 to $230, what is its percentage gain?",
+      "answer": "15%",
+      "wrong": [
+        "30%",
+        "13%",
+        "23%"
+      ],
+      "why": "The $30 increase divided by $200 is 15%."
+    },
+    {
+      "id": "high-7-5-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 5,
+      "clue": "Why can sampling bias distort survey results?",
+      "answer": "Some groups may be over- or underrepresented",
+      "wrong": [
+        "Every sample is a census",
+        "Bias eliminates variation",
+        "Samples cannot measure opinions"
+      ],
+      "why": "A biased sample can misrepresent the population."
+    },
+    {
+      "id": "high-7-5-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 5,
+      "clue": "What is a key advantage of diversification?",
+      "answer": "Spreading exposure across different investments",
+      "wrong": [
+        "Guaranteeing positive returns",
+        "Eliminating all possible losses",
+        "Making every asset identical"
+      ],
+      "why": "Diversification can reduce concentration risk but not all risk."
+    }
+  ]
+}
