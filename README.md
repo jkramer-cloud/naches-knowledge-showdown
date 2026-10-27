@@ -1,14 +1,24 @@
-# Naches Knowledge Showdown — Classroom Game Show Edition 1.1
+# Naches Knowledge Showdown — Classroom Game Show Edition 1.2
 
 A lightweight, same-device quiz game for **two or three teams**, designed for classroom Chromebooks, touchscreens, and GitHub Pages. The game uses its own Naches Valley theme and original questions; it is not an official or licensed *Jeopardy!* game.
 
-## What's new in 1.1
+## What's new in 1.2 — Fair-play question timers
+
+- **Mandatory reading period:** After selecting a clue, the full question appears with buzzers disabled for **7 seconds** by default. The reading countdown cannot be skipped by buzzing early with the keyboard or touch controls.
+- **Separate timed buzz window:** After reading, students have **8 seconds** by default to buzz. If no team buzzes, the clue closes with **zero points awarded or deducted**, reveals the correct answer, and returns to the board when you press the button.
+- **Short answer clock:** Once a team buzzes, its answer choices appear with **12 seconds** by default. If that player does not answer before time expires, the current wrong-answer point penalty applies; other teams may then attempt a timed steal.
+- **Large projector-friendly countdown:** A prominent seconds counter, circular progress ring, progress bar, and changing colors appear **to the right of the question** on desktops and below it on smaller screens.
+- **Teacher timing controls:** Choose reading time (3–15 sec), buzz time (4–15 sec), and answer time (5–20 sec) before starting. The board also has a collapsible control to adjust subsequent timers during the match.
+- **Valley Vault protection:** Wager clues also display a mandatory reading countdown before the chooser may answer.
+- **Save continuity:** Timers use absolute deadlines instead of restarting on every browser refresh. Changing input mode doesn't reset the active timer.
+
+## Features carried over from 1.1
 
 - **Custom buzzer keys:** Each team chooses any letter **A–Z** or digit **0–9** during setup. Duplicate assignments are rejected; the selected key is shown prominently on the buzzer.
 - **Input modes:** Keyboard, large touch/click buzzers, or both. Switch modes during a match using **Buzzers** near the top of the board or the control inside the clue dialog. Touch controls use large colored full-width buttons on narrow screens.
 - **510 questions** across **21 grade/category combinations**. All 13 existing school-subject categories now have **30 questions each**, twice the previous 15; four new categories for middle school and four for high school each include 15 more questions. The new categories are Pop Culture & Gaming, Music & Entertainment, Slang & Language, and Sports & Recreation.
 - **Category mix:** A balanced six-category board selects four academic and two age-relevant categories by default; you can manually choose any six.
-- **Answer counts:** Choose **4**, **5** (default), or **6** multiple-choice answers. The timer is 25 / 30 / 35 seconds, respectively. The existing questions retain their original three incorrect answers; additional options are selected from the related category's question bank. The 315 new questions include five authored distractors apiece. Teachers should review supplementary options, particularly for older questions.
+- **Answer counts:** Choose **4**, **5** (default), or **6** multiple-choice answers. Answer clock lengths are configured independently of the number of choices. The existing questions retain their original three incorrect answers; additional options are selected from the related category's question bank. The 315 new questions include five authored distractors apiece. Teachers should review supplementary options, particularly for older questions.
 - **Sound options:** Separate controls for success/failure sounds, synthesized applause, and an **original** low-volume, slightly cheesy Summit Finale thinking tune. All three are **off by default** for quiet classrooms. Browsers may require user interaction before audio plays.
 - **Existing features preserved:** Quick (18 clues) and Full (30 clues), hidden Valley Vault wagers, Summit Finale, local records, seen-question tracking, game resumes, and four visual themes.
 
@@ -39,11 +49,11 @@ If the URL is already in the Naches Learning Hub, **you do not need to change th
 1. Set **2 or 3 teams**, give them names, and select **different buzzer keys**. Letters, digit keys, and the numeric keypad are supported.
 2. Select **Keyboard**, **Touch**, or **Both**. For touchscreens, use **Touch** or **Both**. Switch mode any time during the game or during a buzzer question.
 3. Choose middle school (grades 5–8) or high school (grades 9–12), 4–6 answer options, Quick or Full, and six categories. The **Balanced** preset chooses two age-specific topics; **Custom** allows any six.
-4. Start a match. The active chooser selects a tile. For regular clues, players press their own key or tap their team button to buzz in. The first valid input gets the answer opportunity.
-5. Select the best answer before the countdown expires. A correct answer earns points; a wrong answer loses points, and other teams may try to steal.
-6. **Valley Vaults** award special wager-based questions to the chooser only, without buzzer competition.
+4. Start a match. The active chooser selects a tile. Every team reads the full question during a locked countdown (7 seconds by default); attempting to buzz during this stage does nothing. Then a second countdown begins and teams may press their key or tap their button to buzz. If nobody buzzes before the window closes, **nobody scores** and the answer is revealed.
+5. The first team that buzzes gets a shorter **answer countdown** (12 seconds by default). Select the best answer before it expires. Correct answers earn points; wrong answers or answer timeouts lose points, and other teams can try to steal within a new timed buzz window.
+6. **Valley Vaults** award special wager-based questions to the chooser only. The chooser must read the clue during the same locked reading countdown before answering.
 7. After the board or with **Go to finale**, enter each team's private wager and answer the final question individually. Reveal all scores together at the end.
-8. Scores and past question exposure are saved only in the current browser. The **Resume unfinished match** control is available after a refresh if local storage remains available.
+8. Scores and past question exposure are saved only in the current browser. The **Resume unfinished match** control restores the active question and saved timer settings if browser storage remains available. If the original timer has expired during the interruption, the game applies its timeout rule.
 
 ### Audio options
 
@@ -62,12 +72,10 @@ Question structure: `id`, `band` (`middle`/`high`), `category`, `tier` (1–5), 
 - Same-device game only; no synchronized buzzer hardware, online multiplayer, accounts, or central teacher dashboard.
 - Buzzers are processed in the order the browser receives their events. This is not a scientific reaction-time measurement.
 - Records use browser `localStorage`; private/incognito browsing, switching devices, or clearing browser data can remove progress.
-- An open question does not keep running while the page is closed; the current clue restarts its answering countdown when restored.
+- An open question retains its absolute countdown deadline. After a reload, an expired phase advances or times out immediately rather than granting extra time.
 - Load from GitHub Pages (or any static web server). Opening the HTML directly as `file://` may prevent `questions.json` from loading.
-- Tested programmatically in Chromium with the question bank loaded via an in-memory static-file substitute because this test environment blocks local server navigation. GitHub Pages deployment and physical school-device testing remain to be verified.
+- Tested in Chromium with the question bank and files loaded into an isolated browser page because this test environment blocks local server navigation. The reading lock, no-buzz zero-score outcome, wrong-answer timeout, timed steal, saved timer settings, and mobile width check passed. GitHub Pages deployment and physical school-device testing remain to be verified.
 
-## Testing included in the complete ZIP
+## Verification
 
-`test_showdown.py` checks key assignment validation, keyboard and touch buzzing, switching modes, six answers, simulated save/resume, audio toggles, mobile overflow, and Summit Finale transition.
-
-`test_complete.py` simulates **12 entire Quick matches** across two grade bands, 2/3 teams, and 4/5/6 answer choices, then validates **all 510 questions in all three answer modes** for exactly one correct option and no repeated options.
+The v1.2 build passed JavaScript syntax validation and an interactive Chromium test with the 510-question bank loaded in memory. Checks covered reading lock for both keyboard and touch, no-buzz expiration (zero points), answer timeout and deductions, timed steal rounds, saving/restoring timer settings in an isolated browser test, and a 390px mobile screen with no horizontal scrolling. The actual hosted GitHub Pages page and school Chromebooks still need a final classroom check.
