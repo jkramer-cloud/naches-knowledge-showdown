@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "sourceNote": "Original supplemental classroom practice. Teacher review recommended. Not official state standards questions.",
+  "version": 2,
+  "sourceNote": "510 teacher-review classroom trivia items. 315 new authored facts and concepts; older 195 retain three authored distractors and the game supplements for five/six-choice mode. Content is not independently curriculum-certified; teacher review is recommended, especially culturally/time-sensitive items.",
   "questions": [
     {
       "id": "middle-1-1-1",
@@ -2731,6 +2731,5046 @@
         "Making every asset identical"
       ],
       "why": "Diversification can reduce concentration risk but not all risk."
+    },
+    {
+      "id": "middle-exp-mathematics-1-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 1,
+      "clue": "What is 3/4 as a percentage?",
+      "answer": "75%",
+      "wrong": [
+        "25%",
+        "50%",
+        "60%",
+        "80%",
+        "90%"
+      ],
+      "why": "Correct answer: 75%. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-1-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 1,
+      "clue": "What is 9 × 7?",
+      "answer": "63",
+      "wrong": [
+        "54",
+        "56",
+        "64",
+        "72",
+        "79"
+      ],
+      "why": "Correct answer: 63. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-1-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 1,
+      "clue": "What is 1.2 + 0.35?",
+      "answer": "1.55",
+      "wrong": [
+        "1.25",
+        "1.45",
+        "1.65",
+        "1.75",
+        "2.55"
+      ],
+      "why": "Correct answer: 1.55. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-2-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 2,
+      "clue": "What is the perimeter of a 5 cm by 8 cm rectangle?",
+      "answer": "26 cm",
+      "wrong": [
+        "13 cm",
+        "20 cm",
+        "30 cm",
+        "40 cm",
+        "80 cm"
+      ],
+      "why": "Correct answer: 26 cm. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-2-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 2,
+      "clue": "Which number is prime?",
+      "answer": "29",
+      "wrong": [
+        "21",
+        "27",
+        "33",
+        "35",
+        "39"
+      ],
+      "why": "Correct answer: 29. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-2-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 2,
+      "clue": "What is 15% of 200?",
+      "answer": "30",
+      "wrong": [
+        "15",
+        "20",
+        "25",
+        "35",
+        "40"
+      ],
+      "why": "Correct answer: 30. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-3-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 3,
+      "clue": "What is the area of a triangle with base 10 and height 6?",
+      "answer": "30 square units",
+      "wrong": [
+        "16 square units",
+        "25 square units",
+        "40 square units",
+        "60 square units",
+        "120 square units"
+      ],
+      "why": "Correct answer: 30 square units. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-3-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 3,
+      "clue": "Solve 4x + 3 = 27.",
+      "answer": "x = 6",
+      "wrong": [
+        "x = 3",
+        "x = 5",
+        "x = 7",
+        "x = 8",
+        "x = 24"
+      ],
+      "why": "Correct answer: x = 6. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-3-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 3,
+      "clue": "What is the mean of 6, 8, 10, and 16?",
+      "answer": "10",
+      "wrong": [
+        "8",
+        "9",
+        "11",
+        "12",
+        "13"
+      ],
+      "why": "Correct answer: 10. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-4-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 4,
+      "clue": "A $40 item is discounted 25%. What is the sale price?",
+      "answer": "$30",
+      "wrong": [
+        "$10",
+        "$25",
+        "$32",
+        "$35",
+        "$45"
+      ],
+      "why": "Correct answer: $30. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-4-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 4,
+      "clue": "What is 2³ × 3?",
+      "answer": "24",
+      "wrong": [
+        "12",
+        "18",
+        "21",
+        "27",
+        "36"
+      ],
+      "why": "Correct answer: 24. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-4-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 4,
+      "clue": "Which expression is equivalent to 5(a + 2)?",
+      "answer": "5a + 10",
+      "wrong": [
+        "5a + 2",
+        "a + 10",
+        "7a",
+        "10a",
+        "5a + 7"
+      ],
+      "why": "Correct answer: 5a + 10. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-5-1",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 5,
+      "clue": "What is the slope through points (0,2) and (3,8)?",
+      "answer": "2",
+      "wrong": [
+        "1",
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "why": "Correct answer: 2. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-5-2",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 5,
+      "clue": "A coin is flipped twice. What is the chance of two heads?",
+      "answer": "1/4",
+      "wrong": [
+        "1/2",
+        "1/3",
+        "1/8",
+        "2/3",
+        "3/4"
+      ],
+      "why": "Correct answer: 1/4. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-mathematics-5-3",
+      "band": "middle",
+      "category": "Mathematics",
+      "tier": 5,
+      "clue": "A cylinder's volume uses which formula?",
+      "answer": "πr²h",
+      "wrong": [
+        "2πr",
+        "πrh",
+        "2πrh",
+        "πr²",
+        "πd"
+      ],
+      "why": "Correct answer: πr²h. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-1-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 1,
+      "clue": "What lab tool measures liquid volume accurately?",
+      "answer": "Graduated cylinder",
+      "wrong": [
+        "Ruler",
+        "Balance",
+        "Thermometer",
+        "Hand lens",
+        "Stopwatch"
+      ],
+      "why": "Correct answer: Graduated cylinder. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-1-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 1,
+      "clue": "In an experiment, what do you intentionally change?",
+      "answer": "Independent variable",
+      "wrong": [
+        "Dependent variable",
+        "Control group",
+        "Conclusion",
+        "Constant",
+        "Hypothesis"
+      ],
+      "why": "Correct answer: Independent variable. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-1-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 1,
+      "clue": "What is a testable prediction called?",
+      "answer": "Hypothesis",
+      "wrong": [
+        "Theory",
+        "Law",
+        "Observation",
+        "Conclusion",
+        "Data table"
+      ],
+      "why": "Correct answer: Hypothesis. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-2-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 2,
+      "clue": "Which tool measures mass?",
+      "answer": "Triple-beam balance",
+      "wrong": [
+        "Thermometer",
+        "Meter stick",
+        "Protractor",
+        "Beaker",
+        "Stopwatch"
+      ],
+      "why": "Correct answer: Triple-beam balance. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-2-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 2,
+      "clue": "Why wear goggles in a chemistry lab?",
+      "answer": "Protect eyes from splashes",
+      "wrong": [
+        "Keep hair neat",
+        "Measure chemicals",
+        "See tiny cells",
+        "Make reactions faster",
+        "Block sound"
+      ],
+      "why": "Correct answer: Protect eyes from splashes. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-2-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 2,
+      "clue": "What does repeating an experiment improve?",
+      "answer": "Reliability",
+      "wrong": [
+        "Gravity",
+        "Sample color",
+        "Room temperature",
+        "Brand recognition",
+        "Noise level"
+      ],
+      "why": "Correct answer: Reliability. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-3-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 3,
+      "clue": "Which unit commonly measures temperature in school labs?",
+      "answer": "Degrees Celsius",
+      "wrong": [
+        "Liters",
+        "Grams",
+        "Meters",
+        "Newtons",
+        "Watts"
+      ],
+      "why": "Correct answer: Degrees Celsius. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-3-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 3,
+      "clue": "What is the variable you measure during an experiment?",
+      "answer": "Dependent variable",
+      "wrong": [
+        "Independent variable",
+        "Control variable",
+        "Constant",
+        "Hypothesis",
+        "Trial number"
+      ],
+      "why": "Correct answer: Dependent variable. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-3-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 3,
+      "clue": "Which tool separates larger solids from smaller ones by size?",
+      "answer": "Sieve",
+      "wrong": [
+        "Thermometer",
+        "Spring scale",
+        "Magnifying glass",
+        "Compass",
+        "Funnel"
+      ],
+      "why": "Correct answer: Sieve. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-4-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 4,
+      "clue": "Which action best reduces bias?",
+      "answer": "Use consistent procedures",
+      "wrong": [
+        "Change measurements after a guess",
+        "Test only one result",
+        "Ignore unexpected data",
+        "Skip controls",
+        "Choose favorite outcome"
+      ],
+      "why": "Correct answer: Use consistent procedures. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-4-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 4,
+      "clue": "What is a control group used for?",
+      "answer": "A comparison baseline",
+      "wrong": [
+        "Storing equipment",
+        "Heating samples",
+        "Naming the project",
+        "Recording time",
+        "Testing only a prediction"
+      ],
+      "why": "Correct answer: A comparison baseline. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-4-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 4,
+      "clue": "Why does a scientist graph collected data?",
+      "answer": "Reveal patterns and trends",
+      "wrong": [
+        "Change the results",
+        "Make samples heavier",
+        "Prove every hypothesis",
+        "Remove uncertainty",
+        "Replace measurements"
+      ],
+      "why": "Correct answer: Reveal patterns and trends. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-5-1",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 5,
+      "clue": "If a scale is not zeroed before use, what error can occur?",
+      "answer": "Systematic measurement error",
+      "wrong": [
+        "Random sampling",
+        "Photosynthesis",
+        "Chemical bonding",
+        "Evaporation",
+        "Magnetization"
+      ],
+      "why": "Correct answer: Systematic measurement error. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-5-2",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 5,
+      "clue": "Which is a qualitative observation?",
+      "answer": "The solution turned blue",
+      "wrong": [
+        "It weighed 12 grams",
+        "It was 25 °C",
+        "It was 4 cm",
+        "It took 10 seconds",
+        "It held 5 mL"
+      ],
+      "why": "Correct answer: The solution turned blue. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-science-lab-5-3",
+      "band": "middle",
+      "category": "Science Lab",
+      "tier": 5,
+      "clue": "What does peer review allow scientists to do?",
+      "answer": "Evaluate methods and conclusions",
+      "wrong": [
+        "Guarantee results",
+        "Skip repetition",
+        "Change laws",
+        "Avoid evidence",
+        "Vote on natural facts"
+      ],
+      "why": "Correct answer: Evaluate methods and conclusions. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-1-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 1,
+      "clue": "What causes day and night?",
+      "answer": "Earth rotating on its axis",
+      "wrong": [
+        "Earth orbiting the Sun",
+        "Moon rotating",
+        "Ocean currents",
+        "Cloud movement",
+        "Earth's tilt alone"
+      ],
+      "why": "Correct answer: Earth rotating on its axis. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-1-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 1,
+      "clue": "Which planet is known for its prominent rings?",
+      "answer": "Saturn",
+      "wrong": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Uranus alone"
+      ],
+      "why": "Correct answer: Saturn. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-1-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 1,
+      "clue": "What is molten rock underground called?",
+      "answer": "Magma",
+      "wrong": [
+        "Lava",
+        "Sediment",
+        "Bedrock",
+        "Glacier",
+        "Basalt dust"
+      ],
+      "why": "Correct answer: Magma. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-2-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 2,
+      "clue": "Which layer of Earth is mostly liquid iron and nickel?",
+      "answer": "Outer core",
+      "wrong": [
+        "Crust",
+        "Inner core",
+        "Mantle",
+        "Atmosphere",
+        "Lithosphere"
+      ],
+      "why": "Correct answer: Outer core. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-2-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 2,
+      "clue": "What phase comes after a new moon?",
+      "answer": "Waxing crescent",
+      "wrong": [
+        "Full moon",
+        "Waning gibbous",
+        "Third quarter",
+        "Waning crescent",
+        "First quarter immediately"
+      ],
+      "why": "Correct answer: Waxing crescent. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-2-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 2,
+      "clue": "What causes ocean tides most strongly?",
+      "answer": "Moon's gravity",
+      "wrong": [
+        "Wind direction alone",
+        "Earth's magnetic field",
+        "Sunlight",
+        "Volcanic heat",
+        "Rainfall"
+      ],
+      "why": "Correct answer: Moon's gravity. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-3-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 3,
+      "clue": "What instrument detects earthquakes?",
+      "answer": "Seismograph",
+      "wrong": [
+        "Barometer",
+        "Anemometer",
+        "Hygrometer",
+        "Thermometer",
+        "Altimeter"
+      ],
+      "why": "Correct answer: Seismograph. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-3-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 3,
+      "clue": "Which type of rock forms from cooled magma or lava?",
+      "answer": "Igneous",
+      "wrong": [
+        "Sedimentary",
+        "Metamorphic",
+        "Fossil",
+        "Organic",
+        "Peat"
+      ],
+      "why": "Correct answer: Igneous. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-3-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 3,
+      "clue": "What weather instrument measures air pressure?",
+      "answer": "Barometer",
+      "wrong": [
+        "Rain gauge",
+        "Wind vane",
+        "Thermometer",
+        "Anemometer",
+        "Seismograph"
+      ],
+      "why": "Correct answer: Barometer. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-4-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 4,
+      "clue": "Why do we have seasons?",
+      "answer": "Earth's axial tilt during its orbit",
+      "wrong": [
+        "Earth's distance alone",
+        "Moon's phases",
+        "Ocean tides",
+        "Daily rotation alone",
+        "Sun changing size"
+      ],
+      "why": "Correct answer: Earth's axial tilt during its orbit. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-4-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 4,
+      "clue": "Which boundary involves tectonic plates moving apart?",
+      "answer": "Divergent boundary",
+      "wrong": [
+        "Convergent boundary",
+        "Transform boundary",
+        "Subduction zone",
+        "Fault lock",
+        "Hot spot"
+      ],
+      "why": "Correct answer: Divergent boundary. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-4-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 4,
+      "clue": "What is a star's main source of energy?",
+      "answer": "Nuclear fusion",
+      "wrong": [
+        "Burning wood",
+        "Chemical fire",
+        "Friction",
+        "Photosynthesis",
+        "Gravity alone"
+      ],
+      "why": "Correct answer: Nuclear fusion. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-5-1",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 5,
+      "clue": "What process changes water vapor into droplets?",
+      "answer": "Condensation",
+      "wrong": [
+        "Evaporation",
+        "Sublimation",
+        "Melting",
+        "Infiltration",
+        "Transpiration"
+      ],
+      "why": "Correct answer: Condensation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-5-2",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 5,
+      "clue": "Which atmospheric layer contains most weather?",
+      "answer": "Troposphere",
+      "wrong": [
+        "Mesosphere",
+        "Exosphere",
+        "Thermosphere",
+        "Ionosphere",
+        "Stratosphere"
+      ],
+      "why": "Correct answer: Troposphere. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-earth-space-5-3",
+      "band": "middle",
+      "category": "Earth & Space",
+      "tier": 5,
+      "clue": "What keeps planets moving in orbit around the Sun?",
+      "answer": "Gravity",
+      "wrong": [
+        "Air resistance",
+        "Electric charge alone",
+        "Ocean currents",
+        "Magnetism alone",
+        "Atmospheric pressure"
+      ],
+      "why": "Correct answer: Gravity. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-1-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 1,
+      "clue": "Which branch of U.S. government interprets laws?",
+      "answer": "Judicial branch",
+      "wrong": [
+        "Executive branch",
+        "Legislative branch",
+        "Cabinet",
+        "Electoral College",
+        "Federal Reserve"
+      ],
+      "why": "Correct answer: Judicial branch. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-1-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 1,
+      "clue": "What is the first ten amendments called?",
+      "answer": "Bill of Rights",
+      "wrong": [
+        "Declaration of Independence",
+        "Articles of Confederation",
+        "Preamble",
+        "Federalist Papers",
+        "Magna Carta"
+      ],
+      "why": "Correct answer: Bill of Rights. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-1-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 1,
+      "clue": "Who signs a bill into federal law, unless veto overrides occur?",
+      "answer": "The President",
+      "wrong": [
+        "Chief Justice",
+        "Speaker alone",
+        "State governor",
+        "Senate clerk",
+        "Secretary of State"
+      ],
+      "why": "Correct answer: The President. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-2-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 2,
+      "clue": "What document declared the American colonies independent?",
+      "answer": "Declaration of Independence",
+      "wrong": [
+        "U.S. Constitution",
+        "Bill of Rights",
+        "Mayflower Compact",
+        "Emancipation Proclamation",
+        "Articles of Confederation"
+      ],
+      "why": "Correct answer: Declaration of Independence. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-2-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 2,
+      "clue": "What is a primary source?",
+      "answer": "An original firsthand record",
+      "wrong": [
+        "A modern textbook summary",
+        "A later encyclopedia entry",
+        "An opinion about a book",
+        "A fictional retelling",
+        "A study guide"
+      ],
+      "why": "Correct answer: An original firsthand record. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-2-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 2,
+      "clue": "What is the purpose of checks and balances?",
+      "answer": "Limit concentration of government power",
+      "wrong": [
+        "Eliminate elections",
+        "Replace the Constitution",
+        "Make one branch supreme",
+        "Choose state capitals",
+        "Collect census data"
+      ],
+      "why": "Correct answer: Limit concentration of government power. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-3-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 3,
+      "clue": "What is the term for citizens voting on an issue directly?",
+      "answer": "Referendum",
+      "wrong": [
+        "Veto",
+        "Filibuster",
+        "Impeachment",
+        "Pardon",
+        "Census"
+      ],
+      "why": "Correct answer: Referendum. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-3-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 3,
+      "clue": "Which amendment protects freedom of speech?",
+      "answer": "First Amendment",
+      "wrong": [
+        "Second",
+        "Fourth",
+        "Fifth",
+        "Tenth",
+        "Fourteenth"
+      ],
+      "why": "Correct answer: First Amendment. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-3-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 3,
+      "clue": "What is federalism?",
+      "answer": "Power shared by national and state governments",
+      "wrong": [
+        "Rule by one king",
+        "No local government",
+        "Only courts make laws",
+        "Unelected rule",
+        "One-party government"
+      ],
+      "why": "Correct answer: Power shared by national and state governments. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-4-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 4,
+      "clue": "Which historical movement sought voting rights for women?",
+      "answer": "Women's suffrage movement",
+      "wrong": [
+        "Industrial Revolution",
+        "Scientific Revolution",
+        "Gold Rush",
+        "Renaissance",
+        "Space Race"
+      ],
+      "why": "Correct answer: Women's suffrage movement. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-4-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 4,
+      "clue": "Why did ancient civilizations often grow near rivers?",
+      "answer": "Water supported farming and transportation",
+      "wrong": [
+        "Rivers blocked all trade",
+        "No weather existed",
+        "They needed no food",
+        "Deserts were always wetter",
+        "Forests were forbidden"
+      ],
+      "why": "Correct answer: Water supported farming and transportation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-4-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 4,
+      "clue": "What does the census count?",
+      "answer": "The population",
+      "wrong": [
+        "Only elected leaders",
+        "Only taxpayers",
+        "Annual rainfall",
+        "School grades",
+        "Election winners"
+      ],
+      "why": "Correct answer: The population. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-5-1",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 5,
+      "clue": "Which document established the U.S. national government in 1789?",
+      "answer": "U.S. Constitution",
+      "wrong": [
+        "Declaration of Independence",
+        "Bill of Rights alone",
+        "Treaty of Paris",
+        "Northwest Ordinance",
+        "Mayflower Compact"
+      ],
+      "why": "Correct answer: U.S. Constitution. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-5-2",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 5,
+      "clue": "What is a veto?",
+      "answer": "Rejection of a proposed law",
+      "wrong": [
+        "Election of a judge",
+        "Approval of a budget",
+        "Court appeal",
+        "National holiday",
+        "Constitutional amendment"
+      ],
+      "why": "Correct answer: Rejection of a proposed law. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-history-civics-5-3",
+      "band": "middle",
+      "category": "History & Civics",
+      "tier": 5,
+      "clue": "What is one core responsibility of a jury?",
+      "answer": "Evaluate evidence to reach a verdict",
+      "wrong": [
+        "Propose new laws",
+        "Command the military",
+        "Collect property taxes",
+        "Run schools",
+        "Appoint senators"
+      ],
+      "why": "Correct answer: Evaluate evidence to reach a verdict. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-1-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 1,
+      "clue": "Which word is a synonym for joyful?",
+      "answer": "Delighted",
+      "wrong": [
+        "Gloomy",
+        "Angry",
+        "Tired",
+        "Worried",
+        "Furious"
+      ],
+      "why": "Correct answer: Delighted. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-1-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 1,
+      "clue": "Which is an antonym of scarce?",
+      "answer": "Abundant",
+      "wrong": [
+        "Rare",
+        "Limited",
+        "Few",
+        "Sparse",
+        "Missing"
+      ],
+      "why": "Correct answer: Abundant. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-1-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 1,
+      "clue": "What punctuation ends a direct question?",
+      "answer": "Question mark",
+      "wrong": [
+        "Period",
+        "Comma",
+        "Colon",
+        "Semicolon",
+        "Apostrophe"
+      ],
+      "why": "Correct answer: Question mark. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-2-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 2,
+      "clue": "Which prefix means 'before'?",
+      "answer": "Pre-",
+      "wrong": [
+        "Re-",
+        "Un-",
+        "Anti-",
+        "Post-",
+        "Dis-"
+      ],
+      "why": "Correct answer: Pre-. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-2-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 2,
+      "clue": "Which word is a noun?",
+      "answer": "Mountain",
+      "wrong": [
+        "Quickly",
+        "Very",
+        "Under",
+        "Blueish",
+        "Because"
+      ],
+      "why": "Correct answer: Mountain. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-2-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 2,
+      "clue": "Which sentence uses a simile?",
+      "answer": "Her smile was like sunshine.",
+      "wrong": [
+        "Her smile was sunshine.",
+        "She smiled.",
+        "The sky smiled.",
+        "Smile now.",
+        "Her smile shone brightly."
+      ],
+      "why": "Correct answer: Her smile was like sunshine.. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-3-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 3,
+      "clue": "Which sentence is written in past tense?",
+      "answer": "They walked home yesterday.",
+      "wrong": [
+        "They walk home daily.",
+        "They will walk home.",
+        "Walk home now.",
+        "They are walking.",
+        "They might walk home."
+      ],
+      "why": "Correct answer: They walked home yesterday.. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-3-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 3,
+      "clue": "What does the root 'bio' mean?",
+      "answer": "Life",
+      "wrong": [
+        "Earth",
+        "Sound",
+        "Light",
+        "Water",
+        "Book"
+      ],
+      "why": "Correct answer: Life. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-3-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 3,
+      "clue": "Which word best completes 'Neither the coach nor the players ___ ready'?",
+      "answer": "are",
+      "wrong": [
+        "is",
+        "was",
+        "be",
+        "being",
+        "has"
+      ],
+      "why": "Correct answer: are. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-4-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 4,
+      "clue": "What is a metaphor?",
+      "answer": "A direct comparison without 'like' or 'as'",
+      "wrong": [
+        "A list of facts",
+        "A spelling rule",
+        "A repeated consonant",
+        "A rhyming ending",
+        "A question"
+      ],
+      "why": "Correct answer: A direct comparison without 'like' or 'as'. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-4-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 4,
+      "clue": "Which word contains a suffix meaning 'able to be'?",
+      "answer": "Readable",
+      "wrong": [
+        "Rewrite",
+        "Preview",
+        "Reader",
+        "Reading",
+        "Booklet"
+      ],
+      "why": "Correct answer: Readable. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-4-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 4,
+      "clue": "What does context clue mean?",
+      "answer": "Nearby words hint at meaning",
+      "wrong": [
+        "A dictionary always appears",
+        "The title is the answer",
+        "Only punctuation matters",
+        "A picture is required",
+        "A word has one meaning"
+      ],
+      "why": "Correct answer: Nearby words hint at meaning. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-5-1",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 5,
+      "clue": "Which sentence uses an apostrophe for possession?",
+      "answer": "The student's notebook is blue.",
+      "wrong": [
+        "The students notebook is blue.",
+        "The students' is here.",
+        "The student notebook's blue?",
+        "Students notebook blue.",
+        "Its' notebook is blue."
+      ],
+      "why": "Correct answer: The student's notebook is blue.. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-5-2",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 5,
+      "clue": "Which literary device repeats beginning consonant sounds?",
+      "answer": "Alliteration",
+      "wrong": [
+        "Personification",
+        "Irony",
+        "Hyperbole",
+        "Onomatopoeia",
+        "Foreshadowing"
+      ],
+      "why": "Correct answer: Alliteration. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-word-workshop-5-3",
+      "band": "middle",
+      "category": "Word Workshop",
+      "tier": 5,
+      "clue": "What is the main claim in an argument called?",
+      "answer": "Thesis",
+      "wrong": [
+        "Citation",
+        "Anecdote",
+        "Transition",
+        "Footnote",
+        "Appendix"
+      ],
+      "why": "Correct answer: Thesis. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-1-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 1,
+      "clue": "What does URL stand for?",
+      "answer": "Uniform Resource Locator",
+      "wrong": [
+        "Universal Reading Link",
+        "User Record List",
+        "Unified Router Line",
+        "Upload Request Log",
+        "Utility Routing Language"
+      ],
+      "why": "Correct answer: Uniform Resource Locator. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-1-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 1,
+      "clue": "Which password is generally stronger?",
+      "answer": "A long unique passphrase",
+      "wrong": [
+        "Your birthday",
+        "12345678",
+        "Your first name",
+        "password",
+        "Your school mascot"
+      ],
+      "why": "Correct answer: A long unique passphrase. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-1-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 1,
+      "clue": "What does a browser use to load a website?",
+      "answer": "Web address",
+      "wrong": [
+        "Battery serial number",
+        "Keyboard layout",
+        "Device wallpaper",
+        "Monitor size",
+        "Printer ink"
+      ],
+      "why": "Correct answer: Web address. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-2-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 2,
+      "clue": "What is phishing?",
+      "answer": "Trying to trick people into revealing information",
+      "wrong": [
+        "A software update",
+        "Saving a bookmark",
+        "Repairing a keyboard",
+        "Using a spreadsheet",
+        "Connecting a monitor"
+      ],
+      "why": "Correct answer: Trying to trick people into revealing information. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-2-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 2,
+      "clue": "What does 'cloud storage' usually mean?",
+      "answer": "Files saved on remote servers",
+      "wrong": [
+        "Files inside weather clouds",
+        "A computer fan",
+        "Files only on paper",
+        "A local calculator",
+        "Screen brightness"
+      ],
+      "why": "Correct answer: Files saved on remote servers. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-2-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 2,
+      "clue": "Which step helps verify a news claim?",
+      "answer": "Check multiple credible sources",
+      "wrong": [
+        "Share immediately",
+        "Trust only a headline",
+        "Ignore the date",
+        "Count likes",
+        "Use only one anonymous post"
+      ],
+      "why": "Correct answer: Check multiple credible sources. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-3-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 3,
+      "clue": "What is two-factor authentication?",
+      "answer": "Using two different proof methods to sign in",
+      "wrong": [
+        "Having two usernames",
+        "Two web tabs",
+        "Two mouse clicks",
+        "Two screen locks only",
+        "Two monitors"
+      ],
+      "why": "Correct answer: Using two different proof methods to sign in. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-3-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 3,
+      "clue": "What file type is commonly used for images with transparency?",
+      "answer": "PNG",
+      "wrong": [
+        "MP3",
+        "TXT",
+        "CSV",
+        "ZIP",
+        "WAV"
+      ],
+      "why": "Correct answer: PNG. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-3-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 3,
+      "clue": "What is metadata?",
+      "answer": "Information describing other data",
+      "wrong": [
+        "A secret password",
+        "A computer virus",
+        "A type of cable",
+        "A video filter",
+        "A programming language"
+      ],
+      "why": "Correct answer: Information describing other data. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-4-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 4,
+      "clue": "What is a digital footprint?",
+      "answer": "Information left by online activity",
+      "wrong": [
+        "Footprints on a tablet screen",
+        "A computer's weight",
+        "A Wi-Fi cable",
+        "A file format",
+        "Screen pixels"
+      ],
+      "why": "Correct answer: Information left by online activity. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-4-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 4,
+      "clue": "Why are software updates important?",
+      "answer": "They often fix security vulnerabilities",
+      "wrong": [
+        "They always increase battery size",
+        "They erase the internet",
+        "They guarantee privacy",
+        "They prevent all scams",
+        "They replace passwords"
+      ],
+      "why": "Correct answer: They often fix security vulnerabilities. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-4-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 4,
+      "clue": "What is a spreadsheet cell?",
+      "answer": "One intersection of a row and column",
+      "wrong": [
+        "A website address",
+        "A folder",
+        "A line of code",
+        "An email attachment",
+        "A slide template"
+      ],
+      "why": "Correct answer: One intersection of a row and column. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-5-1",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 5,
+      "clue": "What does an algorithm describe?",
+      "answer": "A sequence of steps for a task",
+      "wrong": [
+        "A random guess",
+        "A computer monitor",
+        "A storage drive",
+        "A music genre",
+        "A screen resolution"
+      ],
+      "why": "Correct answer: A sequence of steps for a task. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-5-2",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 5,
+      "clue": "What is a source's publication date useful for?",
+      "answer": "Judging whether information is current",
+      "wrong": [
+        "Determining screen size",
+        "Measuring file weight",
+        "Resetting a password",
+        "Counting images",
+        "Testing Wi-Fi speed"
+      ],
+      "why": "Correct answer: Judging whether information is current. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-technology-media-5-3",
+      "band": "middle",
+      "category": "Technology & Media",
+      "tier": 5,
+      "clue": "Which action best respects copyright?",
+      "answer": "Use licensed or permitted material with attribution when required",
+      "wrong": [
+        "Copy any image without checking",
+        "Remove creators' names",
+        "Claim others' work as yours",
+        "Assume all images are free",
+        "Ignore license terms"
+      ],
+      "why": "Correct answer: Use licensed or permitted material with attribution when required. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-1-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 1,
+      "clue": "Solve 2x - 7 = 17.",
+      "answer": "x = 12",
+      "wrong": [
+        "x = 5",
+        "x = 10",
+        "x = 14",
+        "x = 17",
+        "x = 24"
+      ],
+      "why": "Correct answer: x = 12. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-1-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 1,
+      "clue": "What is the slope of y = -3x + 8?",
+      "answer": "-3",
+      "wrong": [
+        "3",
+        "8",
+        "-8",
+        "1/3",
+        "0"
+      ],
+      "why": "Correct answer: -3. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-1-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 1,
+      "clue": "What is the midpoint of (2,4) and (8,10)?",
+      "answer": "(5,7)",
+      "wrong": [
+        "(6,7)",
+        "(5,6)",
+        "(10,14)",
+        "(3,3)",
+        "(4,5)"
+      ],
+      "why": "Correct answer: (5,7). Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-2-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 2,
+      "clue": "Factor x² - 9.",
+      "answer": "(x-3)(x+3)",
+      "wrong": [
+        "(x-9)(x+1)",
+        "(x-3)²",
+        "(x+9)(x-1)",
+        "x(x-9)",
+        "(x+3)²"
+      ],
+      "why": "Correct answer: (x-3)(x+3). Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-2-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 2,
+      "clue": "What is the area of a circle with radius 4?",
+      "answer": "16π",
+      "wrong": [
+        "4π",
+        "8π",
+        "12π",
+        "24π",
+        "32π"
+      ],
+      "why": "Correct answer: 16π. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-2-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 2,
+      "clue": "Solve x² = 49 for real x.",
+      "answer": "x = ±7",
+      "wrong": [
+        "x = 7 only",
+        "x = -7 only",
+        "x = ±49",
+        "x = ±14",
+        "x = 0"
+      ],
+      "why": "Correct answer: x = ±7. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-3-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 3,
+      "clue": "What is the y-intercept of y = 4x - 6?",
+      "answer": "-6",
+      "wrong": [
+        "4",
+        "6",
+        "-4",
+        "0",
+        "10"
+      ],
+      "why": "Correct answer: -6. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-3-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 3,
+      "clue": "If two lines have slopes 2 and -1/2, they are what?",
+      "answer": "Perpendicular",
+      "wrong": [
+        "Parallel",
+        "Coincident",
+        "Horizontal",
+        "Vertical",
+        "Identical slope"
+      ],
+      "why": "Correct answer: Perpendicular. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-3-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 3,
+      "clue": "Simplify (a³)(a⁴).",
+      "answer": "a⁷",
+      "wrong": [
+        "a¹²",
+        "a¹",
+        "a³⁴",
+        "2a⁷",
+        "a⁴"
+      ],
+      "why": "Correct answer: a⁷. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-4-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 4,
+      "clue": "What is the sum of interior angles in a pentagon?",
+      "answer": "540°",
+      "wrong": [
+        "360°",
+        "450°",
+        "600°",
+        "720°",
+        "900°"
+      ],
+      "why": "Correct answer: 540°. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-4-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 4,
+      "clue": "Solve the system x+y=9 and x-y=3.",
+      "answer": "x=6, y=3",
+      "wrong": [
+        "x=3, y=6",
+        "x=9, y=3",
+        "x=6, y=6",
+        "x=4, y=5",
+        "x=12, y=-3"
+      ],
+      "why": "Correct answer: x=6, y=3. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-4-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 4,
+      "clue": "A right triangle's legs are 5 and 12. Find the hypotenuse.",
+      "answer": "13",
+      "wrong": [
+        "10",
+        "12",
+        "15",
+        "17",
+        "169"
+      ],
+      "why": "Correct answer: 13. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-5-1",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 5,
+      "clue": "What is log₁₀(1000)?",
+      "answer": "3",
+      "wrong": [
+        "2",
+        "10",
+        "100",
+        "30",
+        "4"
+      ],
+      "why": "Correct answer: 3. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-5-2",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 5,
+      "clue": "What are the roots of x² - 5x + 6?",
+      "answer": "2 and 3",
+      "wrong": [
+        "1 and 6",
+        "-2 and -3",
+        "2 and 4",
+        "3 and 5",
+        "-1 and -6"
+      ],
+      "why": "Correct answer: 2 and 3. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-algebra-geometry-5-3",
+      "band": "high",
+      "category": "Algebra & Geometry",
+      "tier": 5,
+      "clue": "A function passes the vertical line test when what is true?",
+      "answer": "Each x has at most one y",
+      "wrong": [
+        "Each y has one x",
+        "It is always linear",
+        "Its slope is positive",
+        "It includes the origin",
+        "It is symmetric"
+      ],
+      "why": "Correct answer: Each x has at most one y. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-1-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 1,
+      "clue": "What is the chemical symbol for sodium?",
+      "answer": "Na",
+      "wrong": [
+        "S",
+        "N",
+        "So",
+        "Sn",
+        "K"
+      ],
+      "why": "Correct answer: Na. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-1-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 1,
+      "clue": "What is the pH of a neutral aqueous solution at 25 °C?",
+      "answer": "7",
+      "wrong": [
+        "0",
+        "1",
+        "5",
+        "10",
+        "14"
+      ],
+      "why": "Correct answer: 7. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-1-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 1,
+      "clue": "How many protons does carbon have?",
+      "answer": "6",
+      "wrong": [
+        "4",
+        "8",
+        "12",
+        "14",
+        "16"
+      ],
+      "why": "Correct answer: 6. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-2-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 2,
+      "clue": "What type of bond shares electron pairs?",
+      "answer": "Covalent",
+      "wrong": [
+        "Ionic",
+        "Metallic",
+        "Hydrogen bonding",
+        "Van der Waals",
+        "Nuclear"
+      ],
+      "why": "Correct answer: Covalent. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-2-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 2,
+      "clue": "What is the formula of water?",
+      "answer": "H₂O",
+      "wrong": [
+        "HO",
+        "H₂O₂",
+        "CO₂",
+        "O₂",
+        "NaCl"
+      ],
+      "why": "Correct answer: H₂O. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-2-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 2,
+      "clue": "Which periodic-table group contains the noble gases?",
+      "answer": "Group 18",
+      "wrong": [
+        "Group 1",
+        "Group 2",
+        "Group 7",
+        "Group 12",
+        "Group 17"
+      ],
+      "why": "Correct answer: Group 18. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-3-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 3,
+      "clue": "An isotope differs by its number of what?",
+      "answer": "Neutrons",
+      "wrong": [
+        "Protons",
+        "Electrons only",
+        "Elements",
+        "Charges only",
+        "Bonds"
+      ],
+      "why": "Correct answer: Neutrons. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-3-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 3,
+      "clue": "What does a catalyst change?",
+      "answer": "Reaction rate",
+      "wrong": [
+        "Total mass",
+        "Element identity",
+        "Product atoms",
+        "Conservation laws",
+        "Initial atoms"
+      ],
+      "why": "Correct answer: Reaction rate. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-3-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 3,
+      "clue": "What is the molar mass of H₂O approximately?",
+      "answer": "18 g/mol",
+      "wrong": [
+        "10 g/mol",
+        "16 g/mol",
+        "20 g/mol",
+        "22 g/mol",
+        "36 g/mol"
+      ],
+      "why": "Correct answer: 18 g/mol. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-4-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 4,
+      "clue": "What does oxidation mean in terms of electrons?",
+      "answer": "Loss of electrons",
+      "wrong": [
+        "Gain of electrons",
+        "Gain of neutrons",
+        "Loss of protons",
+        "Split of nucleus",
+        "No charge change"
+      ],
+      "why": "Correct answer: Loss of electrons. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-4-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 4,
+      "clue": "Which gas is commonly released by acid-carbonate reactions?",
+      "answer": "Carbon dioxide",
+      "wrong": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Helium",
+        "Ozone"
+      ],
+      "why": "Correct answer: Carbon dioxide. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-4-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 4,
+      "clue": "What does an endothermic reaction absorb?",
+      "answer": "Heat from surroundings",
+      "wrong": [
+        "Light only",
+        "Mass",
+        "Electrons only",
+        "Protons",
+        "Magnetic field"
+      ],
+      "why": "Correct answer: Heat from surroundings. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-5-1",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 5,
+      "clue": "What is Avogadro's number approximately?",
+      "answer": "6.02 × 10²³",
+      "wrong": [
+        "3.14 × 10²³",
+        "6.02 × 10²",
+        "1.00 × 10¹²",
+        "9.81 × 10⁶",
+        "6.02 × 10¹⁸"
+      ],
+      "why": "Correct answer: 6.02 × 10²³. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-5-2",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 5,
+      "clue": "If a solution's [H⁺] increases, its pH typically does what?",
+      "answer": "Decreases",
+      "wrong": [
+        "Increases",
+        "Stays exactly 7",
+        "Becomes negative always",
+        "Doubles",
+        "Cannot change"
+      ],
+      "why": "Correct answer: Decreases. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-chemistry-5-3",
+      "band": "high",
+      "category": "Chemistry",
+      "tier": 5,
+      "clue": "What is the oxidation state of oxygen in most compounds?",
+      "answer": "-2",
+      "wrong": [
+        "+2",
+        "+1",
+        "-1",
+        "0",
+        "-3"
+      ],
+      "why": "Correct answer: -2. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-1-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 1,
+      "clue": "What organelle makes most ATP in eukaryotic cells?",
+      "answer": "Mitochondrion",
+      "wrong": [
+        "Ribosome",
+        "Nucleus",
+        "Golgi apparatus",
+        "Vacuole",
+        "Cell wall"
+      ],
+      "why": "Correct answer: Mitochondrion. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-1-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 1,
+      "clue": "Where is DNA primarily stored in human cells?",
+      "answer": "Nucleus",
+      "wrong": [
+        "Lysosome",
+        "Cell wall",
+        "Golgi apparatus",
+        "Cytosol only",
+        "Flagellum"
+      ],
+      "why": "Correct answer: Nucleus. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-1-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 1,
+      "clue": "Which molecule carries amino acids to ribosomes?",
+      "answer": "tRNA",
+      "wrong": [
+        "DNA",
+        "mRNA",
+        "rRNA",
+        "ATP",
+        "Glucose"
+      ],
+      "why": "Correct answer: tRNA. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-2-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 2,
+      "clue": "What is a genotype?",
+      "answer": "An organism's allele combination",
+      "wrong": [
+        "Its visible traits only",
+        "Its habitat",
+        "Its size",
+        "A food web",
+        "A tissue sample"
+      ],
+      "why": "Correct answer: An organism's allele combination. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-2-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 2,
+      "clue": "What do enzymes typically do?",
+      "answer": "Lower activation energy",
+      "wrong": [
+        "Raise activation energy",
+        "Create atoms",
+        "Replace DNA",
+        "Stop all reactions",
+        "Increase mass"
+      ],
+      "why": "Correct answer: Lower activation energy. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-2-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 2,
+      "clue": "Which process divides a body cell into genetically similar daughters?",
+      "answer": "Mitosis",
+      "wrong": [
+        "Meiosis",
+        "Fertilization",
+        "Photosynthesis",
+        "Transcription",
+        "Osmosis"
+      ],
+      "why": "Correct answer: Mitosis. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-3-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 3,
+      "clue": "What happens in meiosis?",
+      "answer": "Chromosome number is halved",
+      "wrong": [
+        "Chromosome number doubles in gametes",
+        "Only bacteria divide",
+        "Proteins become DNA",
+        "Cells never divide",
+        "Water is produced"
+      ],
+      "why": "Correct answer: Chromosome number is halved. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-3-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 3,
+      "clue": "Which macromolecule stores genetic instructions?",
+      "answer": "Nucleic acids",
+      "wrong": [
+        "Lipids",
+        "Carbohydrates",
+        "Steroids",
+        "Minerals",
+        "Vitamins"
+      ],
+      "why": "Correct answer: Nucleic acids. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-3-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 3,
+      "clue": "What is natural selection?",
+      "answer": "Heritable advantageous traits can become more common",
+      "wrong": [
+        "Organisms choose mutations",
+        "Every individual changes instantly",
+        "No reproduction occurs",
+        "All traits become identical",
+        "Species never change"
+      ],
+      "why": "Correct answer: Heritable advantageous traits can become more common. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-4-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 4,
+      "clue": "Where does photosynthesis's light-dependent stage occur?",
+      "answer": "Thylakoid membranes",
+      "wrong": [
+        "Cytoplasm",
+        "Mitochondrial matrix",
+        "Nucleus",
+        "Golgi sacs",
+        "Ribosome"
+      ],
+      "why": "Correct answer: Thylakoid membranes. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-4-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 4,
+      "clue": "A heterozygote has what?",
+      "answer": "Two different alleles for a gene",
+      "wrong": [
+        "Two identical alleles",
+        "No chromosomes",
+        "Only recessive traits",
+        "Extra nuclei",
+        "One cell membrane"
+      ],
+      "why": "Correct answer: Two different alleles for a gene. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-4-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 4,
+      "clue": "Which stage of protein synthesis builds a polypeptide?",
+      "answer": "Translation",
+      "wrong": [
+        "Replication",
+        "Transcription",
+        "Osmosis",
+        "Fermentation",
+        "Diffusion"
+      ],
+      "why": "Correct answer: Translation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-5-1",
+      "band": "high",
+      "category": "Biology",
+      "tier": 5,
+      "clue": "What is a keystone species?",
+      "answer": "A species with a disproportionately large ecosystem impact",
+      "wrong": [
+        "Always the most abundant species",
+        "Only a predator",
+        "Always a tree",
+        "An extinct species",
+        "A lab-created organism"
+      ],
+      "why": "Correct answer: A species with a disproportionately large ecosystem impact. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-5-2",
+      "band": "high",
+      "category": "Biology",
+      "tier": 5,
+      "clue": "What can cause genetic variation during meiosis?",
+      "answer": "Crossing over",
+      "wrong": [
+        "Binary fission",
+        "Photosynthesis",
+        "Digestion",
+        "Sweating",
+        "Diffusion"
+      ],
+      "why": "Correct answer: Crossing over. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-biology-5-3",
+      "band": "high",
+      "category": "Biology",
+      "tier": 5,
+      "clue": "What is homeostasis?",
+      "answer": "Maintaining stable internal conditions",
+      "wrong": [
+        "Increasing body temperature endlessly",
+        "Preventing cell division",
+        "Excreting DNA",
+        "Destroying enzymes",
+        "Stopping breathing"
+      ],
+      "why": "Correct answer: Maintaining stable internal conditions. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-1-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 1,
+      "clue": "What is the SI unit of force?",
+      "answer": "Newton",
+      "wrong": [
+        "Joule",
+        "Watt",
+        "Pascal",
+        "Volt",
+        "Ampere"
+      ],
+      "why": "Correct answer: Newton. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-1-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 1,
+      "clue": "If speed doubles while time stays constant, distance does what?",
+      "answer": "Doubles",
+      "wrong": [
+        "Halves",
+        "Stays unchanged",
+        "Triples",
+        "Quadruples",
+        "Becomes zero"
+      ],
+      "why": "Correct answer: Doubles. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-1-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 1,
+      "clue": "Which equation represents Newton's second law?",
+      "answer": "F = ma",
+      "wrong": [
+        "E = mc²",
+        "V = IR",
+        "P = IV",
+        "v = d/t",
+        "W = Fd"
+      ],
+      "why": "Correct answer: F = ma. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-2-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 2,
+      "clue": "What is electrical resistance measured in?",
+      "answer": "Ohms",
+      "wrong": [
+        "Volts",
+        "Amperes",
+        "Watts",
+        "Joules",
+        "Newtons"
+      ],
+      "why": "Correct answer: Ohms. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-2-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 2,
+      "clue": "What is acceleration measured in?",
+      "answer": "m/s²",
+      "wrong": [
+        "m/s",
+        "meters",
+        "seconds",
+        "kg",
+        "J/s"
+      ],
+      "why": "Correct answer: m/s². Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-2-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 2,
+      "clue": "Which energy is stored in a stretched spring?",
+      "answer": "Elastic potential energy",
+      "wrong": [
+        "Kinetic energy",
+        "Thermal radiation",
+        "Nuclear energy",
+        "Sound energy",
+        "Chemical energy"
+      ],
+      "why": "Correct answer: Elastic potential energy. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-3-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 3,
+      "clue": "A wave's frequency is measured in what?",
+      "answer": "Hertz",
+      "wrong": [
+        "Watts",
+        "Newtons",
+        "Ohms",
+        "Meters",
+        "Pascal"
+      ],
+      "why": "Correct answer: Hertz. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-3-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 3,
+      "clue": "What increases when an object's mass increases at constant acceleration?",
+      "answer": "Force",
+      "wrong": [
+        "Velocity necessarily",
+        "Time",
+        "Temperature",
+        "Height",
+        "Volume necessarily"
+      ],
+      "why": "Correct answer: Force. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-3-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 3,
+      "clue": "Which circuit has only one path for current?",
+      "answer": "Series circuit",
+      "wrong": [
+        "Parallel circuit",
+        "Open branch",
+        "Bridge circuit",
+        "Short circuit",
+        "Multipath network"
+      ],
+      "why": "Correct answer: Series circuit. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-4-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 4,
+      "clue": "What is the SI unit of power?",
+      "answer": "Watt",
+      "wrong": [
+        "Joule",
+        "Newton",
+        "Pascal",
+        "Coulomb",
+        "Ohm"
+      ],
+      "why": "Correct answer: Watt. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-4-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 4,
+      "clue": "In a vacuum, light travels at approximately what speed?",
+      "answer": "3 × 10⁸ m/s",
+      "wrong": [
+        "3 × 10⁶ m/s",
+        "340 m/s",
+        "3 × 10⁴ m/s",
+        "1 × 10⁸ m/s",
+        "3 × 10¹⁰ m/s"
+      ],
+      "why": "Correct answer: 3 × 10⁸ m/s. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-4-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 4,
+      "clue": "What physical quantity equals mass times velocity?",
+      "answer": "Momentum",
+      "wrong": [
+        "Force",
+        "Work",
+        "Power",
+        "Pressure",
+        "Density"
+      ],
+      "why": "Correct answer: Momentum. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-5-1",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 5,
+      "clue": "For an ideal transformer, what changes between coils?",
+      "answer": "Voltage",
+      "wrong": [
+        "Frequency",
+        "Total energy magically grows",
+        "Electrical charge sign",
+        "Mass",
+        "Speed of light"
+      ],
+      "why": "Correct answer: Voltage. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-5-2",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 5,
+      "clue": "What is the principle behind hydraulic brakes?",
+      "answer": "Pascal's principle",
+      "wrong": [
+        "Archimedes' principle",
+        "Snell's law",
+        "Ohm's law",
+        "Boyle's law",
+        "Hooke's law"
+      ],
+      "why": "Correct answer: Pascal's principle. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-physics-engineering-5-3",
+      "band": "high",
+      "category": "Physics & Engineering",
+      "tier": 5,
+      "clue": "What does a free-body diagram show?",
+      "answer": "Forces acting on an object",
+      "wrong": [
+        "All nearby atoms",
+        "Only kinetic energy",
+        "A chemical formula",
+        "Circuit voltage",
+        "Temperature graph"
+      ],
+      "why": "Correct answer: Forces acting on an object. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-1-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 1,
+      "clue": "What ancient civilization built the Parthenon?",
+      "answer": "Ancient Greeks",
+      "wrong": [
+        "Romans",
+        "Egyptians",
+        "Persians",
+        "Aztecs",
+        "Mongols"
+      ],
+      "why": "Correct answer: Ancient Greeks. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-1-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 1,
+      "clue": "Where did the Renaissance first flourish?",
+      "answer": "Italian city-states",
+      "wrong": [
+        "Japan",
+        "Canada",
+        "Australia",
+        "Russia",
+        "Brazil"
+      ],
+      "why": "Correct answer: Italian city-states. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-1-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 1,
+      "clue": "What document limited English monarchs' power in 1215?",
+      "answer": "Magna Carta",
+      "wrong": [
+        "U.S. Constitution",
+        "Treaty of Versailles",
+        "Code of Hammurabi",
+        "Bill of Rights 1791",
+        "Edict of Nantes"
+      ],
+      "why": "Correct answer: Magna Carta. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-2-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 2,
+      "clue": "What was the Silk Road?",
+      "answer": "Trade routes linking Asia and other regions",
+      "wrong": [
+        "A single paved Roman highway",
+        "A modern airline",
+        "An ocean-only route",
+        "A religious holiday",
+        "A military weapon"
+      ],
+      "why": "Correct answer: Trade routes linking Asia and other regions. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-2-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 2,
+      "clue": "Which event began in 1789?",
+      "answer": "French Revolution",
+      "wrong": [
+        "American Revolution",
+        "Russian Revolution",
+        "World War I",
+        "Industrial Revolution in Britain",
+        "Chinese Civil War"
+      ],
+      "why": "Correct answer: French Revolution. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-2-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 2,
+      "clue": "What is a parliamentary system?",
+      "answer": "A government responsible to an elected legislature",
+      "wrong": [
+        "A government without elections",
+        "Direct monarchy only",
+        "Judges appoint all voters",
+        "A single-candidate referendum",
+        "Military rule by default"
+      ],
+      "why": "Correct answer: A government responsible to an elected legislature. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-3-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 3,
+      "clue": "What was a major result of the printing press in Europe?",
+      "answer": "Wider circulation of printed ideas",
+      "wrong": [
+        "End of all wars",
+        "Instant global literacy",
+        "Invention of electricity",
+        "No religious debate",
+        "Closure of schools"
+      ],
+      "why": "Correct answer: Wider circulation of printed ideas. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-3-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 3,
+      "clue": "What was the main purpose of the United Nations' founding in 1945?",
+      "answer": "Support international peace and cooperation",
+      "wrong": [
+        "Create a world monarchy",
+        "Replace all national governments",
+        "Set one global tax",
+        "Ban every military",
+        "Run all elections"
+      ],
+      "why": "Correct answer: Support international peace and cooperation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-3-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 3,
+      "clue": "Which revolution began in Russia in 1917?",
+      "answer": "Russian Revolution",
+      "wrong": [
+        "French Revolution",
+        "Glorious Revolution",
+        "Haitian Revolution",
+        "Cuban Revolution",
+        "American Revolution"
+      ],
+      "why": "Correct answer: Russian Revolution. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-4-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 4,
+      "clue": "What does sovereignty mean?",
+      "answer": "A state's supreme authority over its territory",
+      "wrong": [
+        "A tax on imports",
+        "A trade barrier",
+        "A protest method",
+        "A colony's currency",
+        "A military alliance"
+      ],
+      "why": "Correct answer: A state's supreme authority over its territory. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-4-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 4,
+      "clue": "What is the term for government ruled by elected representatives?",
+      "answer": "Representative democracy",
+      "wrong": [
+        "Absolute monarchy",
+        "Oligarchy by birth",
+        "Military junta",
+        "Feudalism",
+        "Theocracy by definition"
+      ],
+      "why": "Correct answer: Representative democracy. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-4-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 4,
+      "clue": "Why is the Treaty of Versailles historically important?",
+      "answer": "It formally ended war between Germany and the Allies after WWI",
+      "wrong": [
+        "It ended WWII",
+        "It formed the EU",
+        "It began the Crusades",
+        "It signed U.S. independence",
+        "It created the Roman Empire"
+      ],
+      "why": "Correct answer: It formally ended war between Germany and the Allies after WWI. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-5-1",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 5,
+      "clue": "What system used lords, vassals, and land obligations in medieval Europe?",
+      "answer": "Feudalism",
+      "wrong": [
+        "Mercantilism",
+        "Communism",
+        "Capitalism",
+        "Direct democracy",
+        "Imperialism"
+      ],
+      "why": "Correct answer: Feudalism. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-5-2",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 5,
+      "clue": "Which 20th-century movement challenged racial segregation in the U.S.?",
+      "answer": "Civil Rights Movement",
+      "wrong": [
+        "Enlightenment",
+        "Reformation",
+        "Renaissance",
+        "Scientific Revolution",
+        "Temperance movement"
+      ],
+      "why": "Correct answer: Civil Rights Movement. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-world-history-civics-5-3",
+      "band": "high",
+      "category": "World History & Civics",
+      "tier": 5,
+      "clue": "What is an embargo?",
+      "answer": "A restriction or ban on trade",
+      "wrong": [
+        "A popular election",
+        "A peace treaty",
+        "A judicial appeal",
+        "A type of currency",
+        "A constitutional amendment"
+      ],
+      "why": "Correct answer: A restriction or ban on trade. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-1-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 1,
+      "clue": "What narrative perspective uses 'I' and 'me'?",
+      "answer": "First person",
+      "wrong": [
+        "Second person",
+        "Third person limited",
+        "Third person omniscient",
+        "Objective only",
+        "Epistolary only"
+      ],
+      "why": "Correct answer: First person. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-1-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 1,
+      "clue": "What is foreshadowing?",
+      "answer": "Hints about later events",
+      "wrong": [
+        "A random flashback",
+        "A list of chapters",
+        "A rhyme scheme",
+        "A direct quotation",
+        "A new narrator"
+      ],
+      "why": "Correct answer: Hints about later events. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-1-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 1,
+      "clue": "Which term describes a character's central struggle?",
+      "answer": "Conflict",
+      "wrong": [
+        "Setting",
+        "Meter",
+        "Allusion",
+        "Footnote",
+        "Stanza"
+      ],
+      "why": "Correct answer: Conflict. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-2-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 2,
+      "clue": "What is an unreliable narrator?",
+      "answer": "A storyteller whose account may be inaccurate",
+      "wrong": [
+        "A narrator who never speaks",
+        "A poet",
+        "The author always",
+        "An omniscient narrator",
+        "A character with no name"
+      ],
+      "why": "Correct answer: A storyteller whose account may be inaccurate. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-2-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 2,
+      "clue": "Which figure of speech exaggerates for emphasis?",
+      "answer": "Hyperbole",
+      "wrong": [
+        "Understatement",
+        "Alliteration",
+        "Onomatopoeia",
+        "Metonymy",
+        "Irony"
+      ],
+      "why": "Correct answer: Hyperbole. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-2-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 2,
+      "clue": "What does 'in medias res' mean?",
+      "answer": "Beginning in the middle of action",
+      "wrong": [
+        "Ending with a moral",
+        "Starting with a dictionary",
+        "Using only dialogue",
+        "Writing without a plot",
+        "Using no narrator"
+      ],
+      "why": "Correct answer: Beginning in the middle of action. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-3-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 3,
+      "clue": "What is an iamb in poetry?",
+      "answer": "An unstressed syllable followed by a stressed one",
+      "wrong": [
+        "Two stressed syllables",
+        "Three unstressed syllables",
+        "A rhyme pair",
+        "A stanza with five lines",
+        "A prose paragraph"
+      ],
+      "why": "Correct answer: An unstressed syllable followed by a stressed one. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-3-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 3,
+      "clue": "What is dramatic irony?",
+      "answer": "Audience knows something characters do not",
+      "wrong": [
+        "An accidental rhyme",
+        "An obvious simile",
+        "A recurring motif",
+        "A character speaking alone",
+        "A plot without conflict"
+      ],
+      "why": "Correct answer: Audience knows something characters do not. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-3-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 3,
+      "clue": "What is a motif?",
+      "answer": "A recurring meaningful element",
+      "wrong": [
+        "The author's biography",
+        "A book's ISBN",
+        "A single typo",
+        "The title only",
+        "A publisher logo"
+      ],
+      "why": "Correct answer: A recurring meaningful element. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-4-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 4,
+      "clue": "What is the purpose of a citation in academic writing?",
+      "answer": "Credit and locate sources",
+      "wrong": [
+        "Replace analysis",
+        "Guarantee accuracy",
+        "Create a conclusion",
+        "Add fictional evidence",
+        "Avoid reading"
+      ],
+      "why": "Correct answer: Credit and locate sources. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-4-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 4,
+      "clue": "What is free indirect discourse?",
+      "answer": "Third-person narration blending character thoughts",
+      "wrong": [
+        "Dialogue in quotation marks only",
+        "A rhyme scheme",
+        "Second-person instructions",
+        "A footnote style",
+        "A formal bibliography"
+      ],
+      "why": "Correct answer: Third-person narration blending character thoughts. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-4-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 4,
+      "clue": "What is an allegory?",
+      "answer": "A story with a sustained symbolic second meaning",
+      "wrong": [
+        "A random pun",
+        "A literal science report",
+        "An index",
+        "A transcription",
+        "A plot summary"
+      ],
+      "why": "Correct answer: A story with a sustained symbolic second meaning. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-5-1",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 5,
+      "clue": "What does 'syntax' refer to?",
+      "answer": "Arrangement of words in sentences",
+      "wrong": [
+        "Meaning of words alone",
+        "Punctuation only",
+        "Spelling only",
+        "Sound of vowels",
+        "Handwriting"
+      ],
+      "why": "Correct answer: Arrangement of words in sentences. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-5-2",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 5,
+      "clue": "What is a thesis statement?",
+      "answer": "The central claim an essay supports",
+      "wrong": [
+        "The source list",
+        "A page number",
+        "A decorative title",
+        "A dictionary definition",
+        "A topic sentence only"
+      ],
+      "why": "Correct answer: The central claim an essay supports. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-literature-language-5-3",
+      "band": "high",
+      "category": "Literature & Language",
+      "tier": 5,
+      "clue": "What is a juxtaposition?",
+      "answer": "Placing contrasting elements side by side",
+      "wrong": [
+        "Repeating a phrase exactly",
+        "Changing rhyme",
+        "Using first person",
+        "Describing weather",
+        "Writing a footnote"
+      ],
+      "why": "Correct answer: Placing contrasting elements side by side. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-1-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 1,
+      "clue": "What is a budget deficit?",
+      "answer": "Expenses exceed income",
+      "wrong": [
+        "Income exceeds expenses",
+        "Assets exceed debts",
+        "Interest is zero",
+        "Taxes decrease",
+        "Savings double"
+      ],
+      "why": "Correct answer: Expenses exceed income. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-1-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 1,
+      "clue": "What does APR commonly describe?",
+      "answer": "Annual percentage rate",
+      "wrong": [
+        "Average payment ratio",
+        "Asset protection rule",
+        "Adjusted principal reserve",
+        "Annual portfolio return exactly",
+        "Automatic payment refund"
+      ],
+      "why": "Correct answer: Annual percentage rate. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-1-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 1,
+      "clue": "What is diversification in investing?",
+      "answer": "Spreading investments across assets",
+      "wrong": [
+        "Buying one stock only",
+        "Borrowing to invest",
+        "Timing each price peak",
+        "Avoiding all risk",
+        "Holding only cash"
+      ],
+      "why": "Correct answer: Spreading investments across assets. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-2-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 2,
+      "clue": "What is the median of 2, 4, 9, 15, 100?",
+      "answer": "9",
+      "wrong": [
+        "4",
+        "15",
+        "26",
+        "2",
+        "100"
+      ],
+      "why": "Correct answer: 9. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-2-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 2,
+      "clue": "What is compound interest?",
+      "answer": "Interest earned on principal and accumulated interest",
+      "wrong": [
+        "Interest only on initial principal",
+        "A fee with no rate",
+        "A flat sales tax",
+        "A one-time rebate",
+        "A fixed asset price"
+      ],
+      "why": "Correct answer: Interest earned on principal and accumulated interest. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-2-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 2,
+      "clue": "Which measure is most affected by an extreme outlier?",
+      "answer": "Mean",
+      "wrong": [
+        "Median",
+        "Mode",
+        "Minimum always",
+        "Quartiles always",
+        "Count"
+      ],
+      "why": "Correct answer: Mean. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-3-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 3,
+      "clue": "What is an emergency fund designed for?",
+      "answer": "Unexpected necessary expenses",
+      "wrong": [
+        "Luxury spending only",
+        "Stock speculation",
+        "Guaranteed profit",
+        "Avoiding budgets",
+        "Paying no taxes"
+      ],
+      "why": "Correct answer: Unexpected necessary expenses. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-3-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 3,
+      "clue": "What is net worth?",
+      "answer": "Assets minus liabilities",
+      "wrong": [
+        "Income minus tax only",
+        "Total credit limit",
+        "Annual sales",
+        "Monthly rent",
+        "Cash only"
+      ],
+      "why": "Correct answer: Assets minus liabilities. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-3-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 3,
+      "clue": "What does a positive correlation imply?",
+      "answer": "Variables tend to rise together",
+      "wrong": [
+        "One variable causes the other",
+        "No relationship exists",
+        "Both always equal",
+        "They must be identical",
+        "One falls whenever other rises"
+      ],
+      "why": "Correct answer: Variables tend to rise together. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-4-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 4,
+      "clue": "What is inflation?",
+      "answer": "A sustained rise in the general price level",
+      "wrong": [
+        "A guaranteed rise in wages",
+        "A reduction in all prices",
+        "Only stock prices falling",
+        "A savings account fee",
+        "A budget surplus"
+      ],
+      "why": "Correct answer: A sustained rise in the general price level. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-4-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 4,
+      "clue": "If $100 grows by 10% once, what is the new amount?",
+      "answer": "$110",
+      "wrong": [
+        "$90",
+        "$100",
+        "$105",
+        "$120",
+        "$150"
+      ],
+      "why": "Correct answer: $110. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-4-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 4,
+      "clue": "What is a credit score primarily used to estimate?",
+      "answer": "Credit repayment risk",
+      "wrong": [
+        "Height",
+        "School grade",
+        "Bank account balance",
+        "Annual income exactly",
+        "Political affiliation"
+      ],
+      "why": "Correct answer: Credit repayment risk. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-5-1",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 5,
+      "clue": "What does liquidity mean for an asset?",
+      "answer": "How easily it can be converted to cash",
+      "wrong": [
+        "Its physical weight",
+        "Its risk-free status",
+        "Its annual return",
+        "Its tax bracket",
+        "Its age"
+      ],
+      "why": "Correct answer: How easily it can be converted to cash. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-5-2",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 5,
+      "clue": "What is a nominal interest rate?",
+      "answer": "Rate not adjusted for inflation",
+      "wrong": [
+        "Rate after inflation adjustment",
+        "A guaranteed profit",
+        "A one-time fee",
+        "A tax deduction",
+        "A loan principal"
+      ],
+      "why": "Correct answer: Rate not adjusted for inflation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-personal-finance-data-5-3",
+      "band": "high",
+      "category": "Personal Finance & Data",
+      "tier": 5,
+      "clue": "What is opportunity cost?",
+      "answer": "Value of the best alternative forgone",
+      "wrong": [
+        "The total money in a budget",
+        "A past expense only",
+        "A guaranteed loss",
+        "Sales tax",
+        "A credit limit"
+      ],
+      "why": "Correct answer: Value of the best alternative forgone. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-1-1",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 1,
+      "clue": "What block-building game has a hostile creature called a Creeper?",
+      "answer": "Minecraft",
+      "wrong": [
+        "Roblox",
+        "Terraria",
+        "Stardew Valley",
+        "Tetris",
+        "Animal Crossing"
+      ],
+      "why": "Correct answer: Minecraft. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-1-2",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 1,
+      "clue": "Which character is famous for collecting gold rings?",
+      "answer": "Sonic the Hedgehog",
+      "wrong": [
+        "Mario",
+        "Kirby",
+        "Pikachu",
+        "Pac-Man",
+        "Donkey Kong"
+      ],
+      "why": "Correct answer: Sonic the Hedgehog. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-1-3",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 1,
+      "clue": "What is an NPC in a video game?",
+      "answer": "Non-player character",
+      "wrong": [
+        "New power collectible",
+        "Network player code",
+        "Next play checkpoint",
+        "Non-playable console",
+        "New puzzle challenge"
+      ],
+      "why": "Correct answer: Non-player character. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-2-1",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 2,
+      "clue": "Which game series features the Triforce?",
+      "answer": "The Legend of Zelda",
+      "wrong": [
+        "Pokémon",
+        "Minecraft",
+        "Mario Kart",
+        "Splatoon",
+        "Fortnite"
+      ],
+      "why": "Correct answer: The Legend of Zelda. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-2-2",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 2,
+      "clue": "Which movie franchise features the fictional planet Pandora and Na'vi people?",
+      "answer": "Avatar",
+      "wrong": [
+        "Star Wars",
+        "Jurassic Park",
+        "Toy Story",
+        "Frozen",
+        "The Matrix"
+      ],
+      "why": "Correct answer: Avatar. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-2-3",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 2,
+      "clue": "What is 'co-op' gameplay?",
+      "answer": "Players cooperate toward a shared goal",
+      "wrong": [
+        "Only one player competes",
+        "Players watch a movie",
+        "Everyone plays separately",
+        "A timed solo challenge",
+        "A random reward"
+      ],
+      "why": "Correct answer: Players cooperate toward a shared goal. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-3-1",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 3,
+      "clue": "What does 'speedrun' describe?",
+      "answer": "Finishing a game as fast as possible",
+      "wrong": [
+        "Moving only at walking speed",
+        "Using the largest screen",
+        "Playing without sound",
+        "Collecting every item slowly",
+        "A multiplayer tournament only"
+      ],
+      "why": "Correct answer: Finishing a game as fast as possible. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-3-2",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 3,
+      "clue": "What is a 'boss battle' in games?",
+      "answer": "Fight against a powerful major opponent",
+      "wrong": [
+        "The opening menu",
+        "A character creator",
+        "A save file",
+        "A side quest only",
+        "A loading screen"
+      ],
+      "why": "Correct answer: Fight against a powerful major opponent. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-3-3",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 3,
+      "clue": "Which animated movie features a family with magical gifts in a Colombian home?",
+      "answer": "Encanto",
+      "wrong": [
+        "Coco",
+        "Frozen",
+        "Moana",
+        "Up",
+        "Brave"
+      ],
+      "why": "Correct answer: Encanto. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-4-1",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 4,
+      "clue": "What is 'cross-platform play'?",
+      "answer": "Players on different systems can play together",
+      "wrong": [
+        "One controller uses two buttons",
+        "Only phone users play",
+        "One person uses several accounts",
+        "All games are identical",
+        "A game that needs two monitors"
+      ],
+      "why": "Correct answer: Players on different systems can play together. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-4-2",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 4,
+      "clue": "What does 'patch notes' explain?",
+      "answer": "Changes in a game update",
+      "wrong": [
+        "The original game's box art",
+        "A character biography",
+        "A team's score",
+        "Console battery life",
+        "A list of cheat codes only"
+      ],
+      "why": "Correct answer: Changes in a game update. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-4-3",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 4,
+      "clue": "What is a 'sandbox' video game?",
+      "answer": "A game emphasizing open-ended experimentation",
+      "wrong": [
+        "A mandatory linear quiz",
+        "A game played only on beaches",
+        "A chess clock",
+        "An arcade cabinet",
+        "A game without rules of any kind"
+      ],
+      "why": "Correct answer: A game emphasizing open-ended experimentation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-5-1",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 5,
+      "clue": "Which game genre involves managing crops and daily village life?",
+      "answer": "Farming simulation",
+      "wrong": [
+        "Racing",
+        "Battle royale",
+        "Rhythm",
+        "Fighting",
+        "Platformer"
+      ],
+      "why": "Correct answer: Farming simulation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-5-2",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 5,
+      "clue": "What does 'procedural generation' mean in game design?",
+      "answer": "Content is created using algorithms",
+      "wrong": [
+        "Every level is drawn by hand",
+        "A player must buy expansions",
+        "Only audio is created",
+        "No code is involved",
+        "The same fixed map repeats"
+      ],
+      "why": "Correct answer: Content is created using algorithms. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-pop-culture-gaming-5-3",
+      "band": "middle",
+      "category": "Pop Culture & Gaming",
+      "tier": 5,
+      "clue": "What is 'lag' in online gaming?",
+      "answer": "Delay between an action and its response",
+      "wrong": [
+        "Extra health",
+        "A hidden bonus",
+        "An invisible character",
+        "A new weapon",
+        "A faster graphics card"
+      ],
+      "why": "Correct answer: Delay between an action and its response. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-1-1",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 1,
+      "clue": "What does a chorus usually do in a song?",
+      "answer": "Repeats a central musical idea",
+      "wrong": [
+        "Lists all instrument names",
+        "Ends all melodies",
+        "Changes singer every beat",
+        "Removes the rhythm",
+        "Always has no lyrics"
+      ],
+      "why": "Correct answer: Repeats a central musical idea. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-1-2",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 1,
+      "clue": "Which instrument commonly has six strings?",
+      "answer": "Guitar",
+      "wrong": [
+        "Trumpet",
+        "Flute",
+        "Clarinet",
+        "Drum",
+        "Trombone"
+      ],
+      "why": "Correct answer: Guitar. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-1-3",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 1,
+      "clue": "What is tempo?",
+      "answer": "The speed of the beat",
+      "wrong": [
+        "How high a note sounds",
+        "How loud a room is",
+        "The song's language",
+        "A type of guitar",
+        "The number of singers"
+      ],
+      "why": "Correct answer: The speed of the beat. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-2-1",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 2,
+      "clue": "What does a DJ often do?",
+      "answer": "Select and mix recorded music",
+      "wrong": [
+        "Tune only violins",
+        "Build movie sets",
+        "Draw comic panels",
+        "Write sports rules",
+        "Direct traffic"
+      ],
+      "why": "Correct answer: Select and mix recorded music. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-2-2",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 2,
+      "clue": "Which instrument belongs to the percussion family?",
+      "answer": "Snare drum",
+      "wrong": [
+        "Oboe",
+        "Trumpet",
+        "Violin",
+        "Flute",
+        "Cello"
+      ],
+      "why": "Correct answer: Snare drum. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-2-3",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 2,
+      "clue": "What is a soundtrack?",
+      "answer": "Music associated with a film or game",
+      "wrong": [
+        "Only a music-video image",
+        "A book cover",
+        "A video subtitle",
+        "A stage ticket",
+        "An instrument case"
+      ],
+      "why": "Correct answer: Music associated with a film or game. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-3-1",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 3,
+      "clue": "What is a duet?",
+      "answer": "Music performed by two people",
+      "wrong": [
+        "A solo",
+        "A trio",
+        "A quartet",
+        "A choir of ten",
+        "An instrumental break"
+      ],
+      "why": "Correct answer: Music performed by two people. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-3-2",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 3,
+      "clue": "What do sheet-music rests indicate?",
+      "answer": "Periods of silence",
+      "wrong": [
+        "Notes to play louder",
+        "Instrument changes",
+        "New lyrics",
+        "Higher pitches",
+        "Faster beats"
+      ],
+      "why": "Correct answer: Periods of silence. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-3-3",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 3,
+      "clue": "What is a remix?",
+      "answer": "A modified version of an existing recording",
+      "wrong": [
+        "A concert ticket",
+        "A new guitar string",
+        "A playlist title",
+        "An album sleeve",
+        "A radio antenna"
+      ],
+      "why": "Correct answer: A modified version of an existing recording. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-4-1",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 4,
+      "clue": "What is syncopation?",
+      "answer": "Accent on unexpected beats",
+      "wrong": [
+        "Only slow music",
+        "The loudest final chord",
+        "A repeated lyric",
+        "Perfectly steady emphasis",
+        "Playing in a different key only"
+      ],
+      "why": "Correct answer: Accent on unexpected beats. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-4-2",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 4,
+      "clue": "Which term means gradually getting louder?",
+      "answer": "Crescendo",
+      "wrong": [
+        "Diminuendo",
+        "Staccato",
+        "Legato",
+        "Adagio",
+        "Piano"
+      ],
+      "why": "Correct answer: Crescendo. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-4-3",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 4,
+      "clue": "What is a cover song?",
+      "answer": "A new performance of another artist's song",
+      "wrong": [
+        "An unreleased instrumental",
+        "A live interview",
+        "Only karaoke",
+        "A music award",
+        "A silent video"
+      ],
+      "why": "Correct answer: A new performance of another artist's song. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-5-1",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 5,
+      "clue": "Which role typically arranges shots and performances in a film?",
+      "answer": "Director",
+      "wrong": [
+        "Ticket seller",
+        "Projectionist",
+        "Audience",
+        "Critic",
+        "Usher"
+      ],
+      "why": "Correct answer: Director. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-5-2",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 5,
+      "clue": "In music, what does 'a cappella' mean?",
+      "answer": "Singing without instrumental accompaniment",
+      "wrong": [
+        "Playing only drums",
+        "Whispering lyrics",
+        "Playing at maximum volume",
+        "A song in a minor key",
+        "Singing only one note"
+      ],
+      "why": "Correct answer: Singing without instrumental accompaniment. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-music-entertainment-5-3",
+      "band": "middle",
+      "category": "Music & Entertainment",
+      "tier": 5,
+      "clue": "What is the bridge of a pop song often used for?",
+      "answer": "Provide contrast before returning to familiar sections",
+      "wrong": [
+        "Replace every chorus",
+        "Mark the end of the album",
+        "Change the singer's name",
+        "Start a commercial",
+        "Silence the melody permanently"
+      ],
+      "why": "Correct answer: Provide contrast before returning to familiar sections. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-1-1",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 1,
+      "clue": "In common online slang, what does 'BRB' mean?",
+      "answer": "Be right back",
+      "wrong": [
+        "Bring real books",
+        "Be really brave",
+        "Big red button",
+        "Best record beat",
+        "Back round base"
+      ],
+      "why": "Correct answer: Be right back. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-1-2",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 1,
+      "clue": "What does 'IRL' mean in messages?",
+      "answer": "In real life",
+      "wrong": [
+        "I read later",
+        "Instant reply link",
+        "Internet rules list",
+        "I really laughed",
+        "In review line"
+      ],
+      "why": "Correct answer: In real life. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-1-3",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 1,
+      "clue": "What does 'low-key' often mean informally?",
+      "answer": "Somewhat or quietly",
+      "wrong": [
+        "At maximum volume",
+        "A music key only",
+        "Urgently",
+        "Completely impossible",
+        "Officially confirmed"
+      ],
+      "why": "Correct answer: Somewhat or quietly. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-2-1",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 2,
+      "clue": "What is an emoji?",
+      "answer": "A small graphic expressing an idea or feeling",
+      "wrong": [
+        "A computer virus",
+        "A password",
+        "A file extension",
+        "A web address",
+        "A keyboard language"
+      ],
+      "why": "Correct answer: A small graphic expressing an idea or feeling. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-2-2",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 2,
+      "clue": "What does 'DM' usually mean on social media?",
+      "answer": "Direct message",
+      "wrong": [
+        "Daily meeting",
+        "Data module",
+        "Device manager only",
+        "Document merge",
+        "Double meaning"
+      ],
+      "why": "Correct answer: Direct message. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-2-3",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 2,
+      "clue": "What does it mean to 'ghost' someone in casual conversation?",
+      "answer": "Stop responding without explanation",
+      "wrong": [
+        "Send a friendly invitation",
+        "Reply immediately",
+        "Share a funny picture",
+        "Change a profile photo",
+        "Start a group chat"
+      ],
+      "why": "Correct answer: Stop responding without explanation. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-3-1",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 3,
+      "clue": "In casual gaming, what does 'GG' mean?",
+      "answer": "Good game",
+      "wrong": [
+        "Great goal",
+        "Go get",
+        "General guide",
+        "Golden gear",
+        "Game glitch"
+      ],
+      "why": "Correct answer: Good game. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-3-2",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 3,
+      "clue": "What is a meme?",
+      "answer": "A widely shared cultural joke or idea, often adapted",
+      "wrong": [
+        "A secure password",
+        "A school grade",
+        "A paid subscription",
+        "A camera model",
+        "An audio cable"
+      ],
+      "why": "Correct answer: A widely shared cultural joke or idea, often adapted. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-3-3",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 3,
+      "clue": "What does 'sus' often suggest?",
+      "answer": "Suspicious",
+      "wrong": [
+        "Successful",
+        "Super-fast",
+        "Silent",
+        "Supportive",
+        "Sunny"
+      ],
+      "why": "Correct answer: Suspicious. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-4-1",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 4,
+      "clue": "What does 'no cap' commonly mean?",
+      "answer": "I'm being truthful",
+      "wrong": [
+        "I have no hat",
+        "I'm out of memory",
+        "No maximum points",
+        "Never compete",
+        "There are no captions"
+      ],
+      "why": "Correct answer: I'm being truthful. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-4-2",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 4,
+      "clue": "What does it mean to 'flex' in slang?",
+      "answer": "Show off",
+      "wrong": [
+        "Take a break",
+        "Change teams",
+        "Lose deliberately",
+        "Tell a secret",
+        "Return a purchase"
+      ],
+      "why": "Correct answer: Show off. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-4-3",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 4,
+      "clue": "What does 'OP' often mean in gaming when describing a character?",
+      "answer": "Overpowered",
+      "wrong": [
+        "Offline player",
+        "Original poster only",
+        "Open profile",
+        "Online privacy",
+        "Optional prize"
+      ],
+      "why": "Correct answer: Overpowered. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-5-1",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 5,
+      "clue": "What does 'AFK' mean in multiplayer games?",
+      "answer": "Away from keyboard",
+      "wrong": [
+        "Always first knockout",
+        "A free key",
+        "All friends know",
+        "Active final kit",
+        "Advanced fast kill"
+      ],
+      "why": "Correct answer: Away from keyboard. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-5-2",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 5,
+      "clue": "What is 'context' in understanding slang?",
+      "answer": "The surrounding situation that affects meaning",
+      "wrong": [
+        "Only the dictionary page",
+        "A hidden keyboard setting",
+        "The speaker's age alone",
+        "A music beat",
+        "A punctuation mark"
+      ],
+      "why": "Correct answer: The surrounding situation that affects meaning. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-slang-language-5-3",
+      "band": "middle",
+      "category": "Slang & Language",
+      "tier": 5,
+      "clue": "Why can slang be hard to interpret across generations?",
+      "answer": "Meanings change by community and time",
+      "wrong": [
+        "Words never change",
+        "Everyone uses the same expressions",
+        "All slang is invented by companies",
+        "Only one country uses language",
+        "All slang has one meaning"
+      ],
+      "why": "Correct answer: Meanings change by community and time. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-1-1",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 1,
+      "clue": "How many points is a free throw worth in basketball?",
+      "answer": "1",
+      "wrong": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "why": "Correct answer: 1. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-1-2",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 1,
+      "clue": "What sport uses a puck?",
+      "answer": "Ice hockey",
+      "wrong": [
+        "Soccer",
+        "Baseball",
+        "Tennis",
+        "Volleyball",
+        "Golf"
+      ],
+      "why": "Correct answer: Ice hockey. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-1-3",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 1,
+      "clue": "In soccer, who may normally use hands in the penalty area?",
+      "answer": "Goalkeeper",
+      "wrong": [
+        "Any defender",
+        "Any striker",
+        "Referee's assistant",
+        "Team captain",
+        "Coach"
+      ],
+      "why": "Correct answer: Goalkeeper. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-2-1",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 2,
+      "clue": "What is a 'strike' in baseball?",
+      "answer": "A pitch or swing meeting strike criteria",
+      "wrong": [
+        "Every batted ball",
+        "A home run",
+        "A base stolen",
+        "A walk",
+        "A foul always counted as a third strike"
+      ],
+      "why": "Correct answer: A pitch or swing meeting strike criteria. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-2-2",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 2,
+      "clue": "How many players per team are on court in standard volleyball?",
+      "answer": "6",
+      "wrong": [
+        "4",
+        "5",
+        "7",
+        "8",
+        "11"
+      ],
+      "why": "Correct answer: 6. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-2-3",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 2,
+      "clue": "What is a marathon's official distance?",
+      "answer": "26.2 miles approximately",
+      "wrong": [
+        "5 miles",
+        "10 miles",
+        "13.1 miles",
+        "20 miles",
+        "30 miles"
+      ],
+      "why": "Correct answer: 26.2 miles approximately. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-3-1",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 3,
+      "clue": "What is the purpose of warming up before exercise?",
+      "answer": "Prepare muscles and raise activity gradually",
+      "wrong": [
+        "Guarantee no injury",
+        "Reduce all sweating",
+        "Replace water",
+        "Eliminate fatigue",
+        "Double strength instantly"
+      ],
+      "why": "Correct answer: Prepare muscles and raise activity gradually. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-3-2",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 3,
+      "clue": "What sport uses the term 'birdie' for one under par?",
+      "answer": "Golf",
+      "wrong": [
+        "Basketball",
+        "Football",
+        "Soccer",
+        "Hockey",
+        "Volleyball"
+      ],
+      "why": "Correct answer: Golf. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-3-3",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 3,
+      "clue": "What does a quarterback usually do?",
+      "answer": "Direct and throw or hand off offensive plays",
+      "wrong": [
+        "Serve the tennis ball",
+        "Guard the soccer goal",
+        "Pitch in baseball",
+        "Set a volleyball",
+        "Referee the game"
+      ],
+      "why": "Correct answer: Direct and throw or hand off offensive plays. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-4-1",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 4,
+      "clue": "What is a 'relay' race?",
+      "answer": "Teammates take turns covering segments",
+      "wrong": [
+        "Everyone runs solo at once",
+        "A race only on bicycles",
+        "An endurance swim only",
+        "No baton or handoff possible",
+        "A stationary exercise"
+      ],
+      "why": "Correct answer: Teammates take turns covering segments. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-4-2",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 4,
+      "clue": "In basketball, how many points is a shot made beyond the three-point arc worth?",
+      "answer": "3",
+      "wrong": [
+        "1",
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "why": "Correct answer: 3. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-4-3",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 4,
+      "clue": "What is a tie-break used for?",
+      "answer": "Decide a winner when scores are tied under certain rules",
+      "wrong": [
+        "Award extra practice time",
+        "Cancel the game",
+        "Choose a uniform",
+        "Replace all referees",
+        "Make a game shorter before it starts"
+      ],
+      "why": "Correct answer: Decide a winner when scores are tied under certain rules. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-5-1",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 5,
+      "clue": "What does 'cardio' exercise primarily train?",
+      "answer": "Heart and lung endurance",
+      "wrong": [
+        "Only finger strength",
+        "Only eyesight",
+        "Only flexibility",
+        "Only balance",
+        "Only memory"
+      ],
+      "why": "Correct answer: Heart and lung endurance. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-5-2",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 5,
+      "clue": "What is a personal best in athletics?",
+      "answer": "An athlete's best recorded performance",
+      "wrong": [
+        "A team penalty",
+        "An opponent's record",
+        "An equipment brand",
+        "A rule violation",
+        "A warmup lap"
+      ],
+      "why": "Correct answer: An athlete's best recorded performance. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "middle-exp-sports-recreation-5-3",
+      "band": "middle",
+      "category": "Sports & Recreation",
+      "tier": 5,
+      "clue": "Why is hydration important during extended activity?",
+      "answer": "Replace fluids lost through sweat",
+      "wrong": [
+        "Prevent every injury",
+        "Make muscles instantly larger",
+        "Replace food entirely",
+        "Stop heart rate changes",
+        "Eliminate the need for rest"
+      ],
+      "why": "Correct answer: Replace fluids lost through sweat. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-1-1",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 1,
+      "clue": "What does 'indie game' usually mean?",
+      "answer": "Made by an independent developer or studio",
+      "wrong": [
+        "A game set in India only",
+        "Only a phone game",
+        "A game without code",
+        "A first-party console exclusive",
+        "A multiplayer-only title"
+      ],
+      "why": "Correct answer: Made by an independent developer or studio. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-1-2",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 1,
+      "clue": "What is 'early access' software?",
+      "answer": "A playable pre-release version with ongoing development",
+      "wrong": [
+        "A finished game with no updates",
+        "A lifetime free license",
+        "An offline-only mode",
+        "A game tutorial",
+        "An age restriction"
+      ],
+      "why": "Correct answer: A playable pre-release version with ongoing development. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-1-3",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 1,
+      "clue": "What is a game engine?",
+      "answer": "Software tools for building and running games",
+      "wrong": [
+        "A car engine in a game",
+        "A graphics card model",
+        "A single character",
+        "An online store",
+        "A controller shell"
+      ],
+      "why": "Correct answer: Software tools for building and running games. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-2-1",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 2,
+      "clue": "What does FPS mean when describing game performance?",
+      "answer": "Frames per second",
+      "wrong": [
+        "First-person shooter only",
+        "Fast player score",
+        "Final play session",
+        "Frequency per signal",
+        "File processing size"
+      ],
+      "why": "Correct answer: Frames per second. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-2-2",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 2,
+      "clue": "What does a spoiler reveal?",
+      "answer": "Important plot information before someone experiences it",
+      "wrong": [
+        "Only a release date",
+        "A controller price",
+        "A game's file size",
+        "A genre label",
+        "The studio name"
+      ],
+      "why": "Correct answer: Important plot information before someone experiences it. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-2-3",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 2,
+      "clue": "What is a live-service game?",
+      "answer": "One continually supported with ongoing content or events",
+      "wrong": [
+        "A game that must be played outdoors",
+        "A game with no patches",
+        "A game that cannot save",
+        "Only a physical cartridge",
+        "A one-time board game"
+      ],
+      "why": "Correct answer: One continually supported with ongoing content or events. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-3-1",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 3,
+      "clue": "What is accessibility in game design?",
+      "answer": "Making games usable by people with varied abilities",
+      "wrong": [
+        "Raising difficulty for everyone",
+        "Limiting controls to a mouse",
+        "Requiring high-end hardware",
+        "Removing captions",
+        "Making fonts smaller"
+      ],
+      "why": "Correct answer: Making games usable by people with varied abilities. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-3-2",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 3,
+      "clue": "What is a game's 'meta' in competitive play?",
+      "answer": "Currently effective strategies and choices",
+      "wrong": [
+        "Its file extension",
+        "Its cover art",
+        "A hidden menu only",
+        "A level's length",
+        "Its controller battery"
+      ],
+      "why": "Correct answer: Currently effective strategies and choices. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-3-3",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 3,
+      "clue": "What does 'cosplay' involve?",
+      "answer": "Dressing as a character, often from media",
+      "wrong": [
+        "Writing game code",
+        "Designing a motherboard",
+        "Only watching cartoons",
+        "Creating subtitles",
+        "Playing online chess"
+      ],
+      "why": "Correct answer: Dressing as a character, often from media. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-4-1",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 4,
+      "clue": "What is a 'roguelike' often known for?",
+      "answer": "Procedural levels and run-based restarts",
+      "wrong": [
+        "A fixed race track",
+        "Only sports teams",
+        "A guaranteed identical playthrough",
+        "No random systems",
+        "No player choices"
+      ],
+      "why": "Correct answer: Procedural levels and run-based restarts. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-4-2",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 4,
+      "clue": "What does 'cross-save' mean?",
+      "answer": "Progress transfers between supported systems",
+      "wrong": [
+        "Players share a single button",
+        "Saving only screenshots",
+        "A forced daily reset",
+        "Copying another player's answers",
+        "Disabling cloud sync"
+      ],
+      "why": "Correct answer: Progress transfers between supported systems. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-4-3",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 4,
+      "clue": "What is a 'mod' in gaming?",
+      "answer": "User-created modification to a game",
+      "wrong": [
+        "The game publisher's legal name",
+        "A console controller",
+        "An official game award",
+        "A network cable",
+        "A standard menu setting only"
+      ],
+      "why": "Correct answer: User-created modification to a game. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-5-1",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 5,
+      "clue": "What is 'latency' in a networked game?",
+      "answer": "Delay in communication",
+      "wrong": [
+        "Screen resolution",
+        "Brightness",
+        "Download size only",
+        "Number of team members",
+        "Storage capacity"
+      ],
+      "why": "Correct answer: Delay in communication. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-5-2",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 5,
+      "clue": "Why are loot-box mechanics debated?",
+      "answer": "They may resemble chance-based monetization",
+      "wrong": [
+        "They always guarantee the same reward",
+        "They are required for offline play",
+        "They eliminate purchases",
+        "They cannot involve money",
+        "They improve all games"
+      ],
+      "why": "Correct answer: They may resemble chance-based monetization. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-pop-culture-gaming-5-3",
+      "band": "high",
+      "category": "Pop Culture & Gaming",
+      "tier": 5,
+      "clue": "What does 'emergent gameplay' describe?",
+      "answer": "Unexpected experiences arising from interacting systems",
+      "wrong": [
+        "A mandatory cutscene",
+        "Only a sequel's story",
+        "A game without physics",
+        "A fixed tutorial",
+        "A predetermined animation"
+      ],
+      "why": "Correct answer: Unexpected experiences arising from interacting systems. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-1-1",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 1,
+      "clue": "What is a time signature in music?",
+      "answer": "Notation describing beats per measure",
+      "wrong": [
+        "A singer's autograph",
+        "A track's copyright date",
+        "A concert ticket",
+        "A song's title",
+        "A microphone model"
+      ],
+      "why": "Correct answer: Notation describing beats per measure. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-1-2",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 1,
+      "clue": "What does BPM measure?",
+      "answer": "Beats per minute",
+      "wrong": [
+        "Bass pitches maximum",
+        "Band practice months",
+        "Broadcast power meter",
+        "Balanced percussion mix",
+        "Background pitch movement"
+      ],
+      "why": "Correct answer: Beats per minute. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-1-3",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 1,
+      "clue": "What is a minor key often associated with?",
+      "answer": "A different scale pattern that can sound somber",
+      "wrong": [
+        "Only faster tempos",
+        "Always louder songs",
+        "A specific instrument",
+        "No sharps or flats",
+        "Silence"
+      ],
+      "why": "Correct answer: A different scale pattern that can sound somber. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-2-1",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 2,
+      "clue": "What is 'diegetic' sound in film?",
+      "answer": "Sound originating within the story world",
+      "wrong": [
+        "Background score heard only by audience",
+        "Muted dialogue",
+        "A director's commentary",
+        "A trailer soundtrack",
+        "A sound added in subtitles"
+      ],
+      "why": "Correct answer: Sound originating within the story world. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-2-2",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 2,
+      "clue": "What is a leitmotif?",
+      "answer": "A recurring musical theme linked to an idea or character",
+      "wrong": [
+        "An instrument tuning app",
+        "A film cut",
+        "A bass amplifier",
+        "A concert hall",
+        "A stage cue only"
+      ],
+      "why": "Correct answer: A recurring musical theme linked to an idea or character. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-2-3",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 2,
+      "clue": "What does a compressor commonly control in audio production?",
+      "answer": "Dynamic range",
+      "wrong": [
+        "Song length only",
+        "Artist credits",
+        "Lyrics",
+        "File names",
+        "Tempo directly"
+      ],
+      "why": "Correct answer: Dynamic range. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-3-1",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 3,
+      "clue": "What is Foley in film production?",
+      "answer": "Performed sound effects synchronized to action",
+      "wrong": [
+        "Music licensing",
+        "Camera framing",
+        "Color grading",
+        "Subtitling",
+        "Set construction"
+      ],
+      "why": "Correct answer: Performed sound effects synchronized to action. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-3-2",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 3,
+      "clue": "What is the difference between harmony and melody?",
+      "answer": "Harmony combines notes supporting a tune",
+      "wrong": [
+        "Harmony is only the lead tune",
+        "They mean exactly the same",
+        "Melody only contains drums",
+        "Harmony has no pitches",
+        "Neither uses rhythm"
+      ],
+      "why": "Correct answer: Harmony combines notes supporting a tune. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-3-3",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 3,
+      "clue": "What is a key change in a song?",
+      "answer": "Shift to a different tonal center",
+      "wrong": [
+        "Replacing the keyboard instrument",
+        "Turning off the sound",
+        "Changing album covers",
+        "Changing microphones",
+        "Adding subtitles"
+      ],
+      "why": "Correct answer: Shift to a different tonal center. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-4-1",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 4,
+      "clue": "What does sampling in music involve?",
+      "answer": "Reusing a portion of an existing recording",
+      "wrong": [
+        "Only playing live acoustic instruments",
+        "Changing tempo without audio",
+        "A song's title",
+        "A ticket presale",
+        "Removing all effects"
+      ],
+      "why": "Correct answer: Reusing a portion of an existing recording. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-4-2",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 4,
+      "clue": "What is 'ADR' in film?",
+      "answer": "Re-recording dialogue after filming",
+      "wrong": [
+        "Automatic drum rhythm",
+        "A special camera lens",
+        "A movie release rating",
+        "Audience-driven review",
+        "An audio file extension"
+      ],
+      "why": "Correct answer: Re-recording dialogue after filming. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-4-3",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 4,
+      "clue": "What is a film's mise-en-scène?",
+      "answer": "Everything arranged within the shot",
+      "wrong": [
+        "The soundtrack only",
+        "The box-office total",
+        "The release schedule",
+        "The screenplay's page count",
+        "Only post-credit scenes"
+      ],
+      "why": "Correct answer: Everything arranged within the shot. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-5-1",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 5,
+      "clue": "What is mastering in recorded music?",
+      "answer": "Final processing for consistent distribution",
+      "wrong": [
+        "Writing the original lyrics",
+        "Booking the venue",
+        "Tuning only one guitar",
+        "Buying music rights",
+        "Designing a logo"
+      ],
+      "why": "Correct answer: Final processing for consistent distribution. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-5-2",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 5,
+      "clue": "What is a polyrhythm?",
+      "answer": "Two or more contrasting rhythmic patterns played together",
+      "wrong": [
+        "A song without drums",
+        "A single sustained note",
+        "A slow melody",
+        "A fixed four-beat count only",
+        "One player improvising freely"
+      ],
+      "why": "Correct answer: Two or more contrasting rhythmic patterns played together. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-music-entertainment-5-3",
+      "band": "high",
+      "category": "Music & Entertainment",
+      "tier": 5,
+      "clue": "What is a montage in filmmaking?",
+      "answer": "A sequence of shots edited to convey time or ideas",
+      "wrong": [
+        "A single uncut shot",
+        "A microphone technique",
+        "A stage prop",
+        "A type of animation software",
+        "A legal credit"
+      ],
+      "why": "Correct answer: A sequence of shots edited to convey time or ideas. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-1-1",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 1,
+      "clue": "What does 'register' mean in linguistics?",
+      "answer": "Language style suited to a situation or audience",
+      "wrong": [
+        "A store cash drawer only",
+        "A dictionary size",
+        "The number of vowels",
+        "A legal signature only",
+        "A writing app"
+      ],
+      "why": "Correct answer: Language style suited to a situation or audience. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-1-2",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 1,
+      "clue": "What does 'code-switching' mean?",
+      "answer": "Alternating language varieties according to context",
+      "wrong": [
+        "Writing computer code only",
+        "Changing a device password",
+        "Using a secret alphabet",
+        "Translating only numbers",
+        "Replacing every noun"
+      ],
+      "why": "Correct answer: Alternating language varieties according to context. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-1-3",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 1,
+      "clue": "What is semantic drift?",
+      "answer": "A word's meaning changes over time",
+      "wrong": [
+        "Language stops changing",
+        "Speech becomes louder",
+        "A word loses its letters",
+        "Only spelling changes",
+        "A song changes key"
+      ],
+      "why": "Correct answer: A word's meaning changes over time. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-2-1",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 2,
+      "clue": "What is 'internet vernacular'?",
+      "answer": "Informal language common in online communities",
+      "wrong": [
+        "A required legal dialect",
+        "A secret programming language",
+        "Only technical manuals",
+        "Classical Latin",
+        "A speech disorder"
+      ],
+      "why": "Correct answer: Informal language common in online communities. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-2-2",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 2,
+      "clue": "What is a portmanteau word?",
+      "answer": "A blend of parts of two words",
+      "wrong": [
+        "An acronym made from initials only",
+        "A borrowed word only",
+        "A rhyme",
+        "A proper noun",
+        "An emoji"
+      ],
+      "why": "Correct answer: A blend of parts of two words. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-2-3",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 2,
+      "clue": "What does 'connotation' refer to?",
+      "answer": "Associated feelings or ideas beyond literal meaning",
+      "wrong": [
+        "Exact dictionary definition only",
+        "Word length",
+        "Phonetic spelling",
+        "Syllable count",
+        "Punctuation"
+      ],
+      "why": "Correct answer: Associated feelings or ideas beyond literal meaning. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-3-1",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 3,
+      "clue": "What is an acronym?",
+      "answer": "A term formed from initial letters and said as a word",
+      "wrong": [
+        "Any slang word",
+        "A loanword",
+        "A homophone",
+        "An idiom",
+        "An antonym"
+      ],
+      "why": "Correct answer: A term formed from initial letters and said as a word. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-3-2",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 3,
+      "clue": "What is a backronym?",
+      "answer": "A phrase invented to fit an existing word's letters",
+      "wrong": [
+        "The opposite of a synonym",
+        "A word ending in -ing",
+        "A borrowed suffix",
+        "A poem",
+        "A written citation"
+      ],
+      "why": "Correct answer: A phrase invented to fit an existing word's letters. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-3-3",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 3,
+      "clue": "Why might the same slang word mean different things in different groups?",
+      "answer": "Meaning depends on shared context",
+      "wrong": [
+        "Every word has a global fixed definition",
+        "Translation is impossible",
+        "Groups cannot share language",
+        "Spelling determines meaning alone",
+        "Dictionary size varies"
+      ],
+      "why": "Correct answer: Meaning depends on shared context. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-4-1",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 4,
+      "clue": "What is a loanword?",
+      "answer": "A word borrowed from another language",
+      "wrong": [
+        "A word used only by banks",
+        "A word with no vowels",
+        "A false cognate always",
+        "A newly invented number",
+        "A password"
+      ],
+      "why": "Correct answer: A word borrowed from another language. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-4-2",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 4,
+      "clue": "What is a false friend between languages?",
+      "answer": "Words that look similar but have different meanings",
+      "wrong": [
+        "Two identical synonyms",
+        "A rhyming pair",
+        "A compound noun",
+        "Two scripts with matching letters",
+        "An acronym"
+      ],
+      "why": "Correct answer: Words that look similar but have different meanings. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-4-3",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 4,
+      "clue": "What is a neologism?",
+      "answer": "A newly coined word or expression",
+      "wrong": [
+        "An extinct dialect",
+        "A misspelled noun",
+        "An ancient language only",
+        "An unspoken gesture",
+        "A scientific instrument"
+      ],
+      "why": "Correct answer: A newly coined word or expression. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-5-1",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 5,
+      "clue": "What is pragmatic meaning?",
+      "answer": "Meaning shaped by speaker intention and context",
+      "wrong": [
+        "Letter shapes",
+        "Word count only",
+        "The font color",
+        "Punctuation size",
+        "Random noise"
+      ],
+      "why": "Correct answer: Meaning shaped by speaker intention and context. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-5-2",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 5,
+      "clue": "What is an idiom?",
+      "answer": "A phrase whose meaning is not fully literal",
+      "wrong": [
+        "Any sentence with a verb",
+        "A legal contract",
+        "A mathematical formula",
+        "A vowel sound",
+        "A technical abbreviation only"
+      ],
+      "why": "Correct answer: A phrase whose meaning is not fully literal. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-slang-language-5-3",
+      "band": "high",
+      "category": "Slang & Language",
+      "tier": 5,
+      "clue": "Which is an example of language changing through technology?",
+      "answer": "Texting popularizes new abbreviations",
+      "wrong": [
+        "All dictionaries freeze forever",
+        "Words cannot be invented",
+        "Only spoken sounds matter",
+        "The alphabet stops working",
+        "Grammar rules become universal"
+      ],
+      "why": "Correct answer: Texting popularizes new abbreviations. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-1-1",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 1,
+      "clue": "What is VO₂ max used to estimate?",
+      "answer": "Maximum oxygen uptake during intense exercise",
+      "wrong": [
+        "A shoe's size",
+        "Number of push-ups only",
+        "Blood type",
+        "Hydration level exactly",
+        "Body temperature alone"
+      ],
+      "why": "Correct answer: Maximum oxygen uptake during intense exercise. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-1-2",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 1,
+      "clue": "In basketball, what is a double-double?",
+      "answer": "Double digits in two statistical categories",
+      "wrong": [
+        "Two fouls in a row",
+        "Two halves of play",
+        "Two free throws made",
+        "Two timeouts",
+        "A double dribble"
+      ],
+      "why": "Correct answer: Double digits in two statistical categories. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-1-3",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 1,
+      "clue": "What does 'offside' generally regulate in soccer?",
+      "answer": "Attacker position relative to defenders when play develops",
+      "wrong": [
+        "All throw-ins",
+        "Ball pressure",
+        "How long halftime lasts",
+        "Goalkeeper uniform",
+        "Number of substitutions only"
+      ],
+      "why": "Correct answer: Attacker position relative to defenders when play develops. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-2-1",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 2,
+      "clue": "What is interval training?",
+      "answer": "Alternating periods of harder effort and recovery",
+      "wrong": [
+        "Only stretching",
+        "Exercising once monthly",
+        "One constant pace forever",
+        "Working out without breaks",
+        "A single long sprint only"
+      ],
+      "why": "Correct answer: Alternating periods of harder effort and recovery. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-2-2",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 2,
+      "clue": "In baseball, what is an earned run?",
+      "answer": "A run not attributable to specified defensive errors",
+      "wrong": [
+        "Every run automatically",
+        "Only a home run",
+        "A run scored in extra innings",
+        "A stolen base",
+        "A walk"
+      ],
+      "why": "Correct answer: A run not attributable to specified defensive errors. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-2-3",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 2,
+      "clue": "What is periodization in training?",
+      "answer": "Planned variation in training load over time",
+      "wrong": [
+        "Exercising without a plan",
+        "A fixed daily maximum",
+        "Counting only calories",
+        "Only warmups",
+        "Training at random"
+      ],
+      "why": "Correct answer: Planned variation in training load over time. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-3-1",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 3,
+      "clue": "What is the primary purpose of a football offensive line?",
+      "answer": "Block defenders to protect plays and create running lanes",
+      "wrong": [
+        "Kick field goals only",
+        "Officiate catches",
+        "Call timeouts",
+        "Keep score",
+        "Guard the sideline"
+      ],
+      "why": "Correct answer: Block defenders to protect plays and create running lanes. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-3-2",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 3,
+      "clue": "In golf, what is an eagle?",
+      "answer": "Two strokes under par on a hole",
+      "wrong": [
+        "One under par",
+        "Par",
+        "One over par",
+        "Two over par",
+        "Three under par"
+      ],
+      "why": "Correct answer: Two strokes under par on a hole. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-3-3",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 3,
+      "clue": "What does RPE measure in fitness training?",
+      "answer": "Rating of perceived exertion",
+      "wrong": [
+        "Resting pulse exclusively",
+        "Running pace exact",
+        "Recovery protein efficiency",
+        "Repetition performance error",
+        "Risk prevention estimate"
+      ],
+      "why": "Correct answer: Rating of perceived exertion. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-4-1",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 4,
+      "clue": "In tennis, what does 'deuce' mean?",
+      "answer": "Score tied at 40–40 in a game",
+      "wrong": [
+        "Winning a set 6–0",
+        "An ace serve",
+        "A replayed point",
+        "A double fault",
+        "A tie in a match's final set only"
+      ],
+      "why": "Correct answer: Score tied at 40–40 in a game. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-4-2",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 4,
+      "clue": "What is anaerobic exercise characterized by?",
+      "answer": "Short high-intensity effort with energy supply not requiring oxygen directly",
+      "wrong": [
+        "Only sleeping",
+        "Steady walking forever",
+        "Zero muscle work",
+        "Only flexibility",
+        "Low effort by definition"
+      ],
+      "why": "Correct answer: Short high-intensity effort with energy supply not requiring oxygen directly. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-4-3",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 4,
+      "clue": "What is a sport's 'home-field advantage'?",
+      "answer": "Potential benefit of playing in a familiar home venue",
+      "wrong": [
+        "A guaranteed win",
+        "A bonus point required by rules",
+        "More players allowed",
+        "A bigger ball",
+        "No traveling team"
+      ],
+      "why": "Correct answer: Potential benefit of playing in a familiar home venue. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-5-1",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 5,
+      "clue": "What does a pace split represent?",
+      "answer": "Time for a segment of a race",
+      "wrong": [
+        "Total calories consumed",
+        "Number of teammates",
+        "Warmup duration only",
+        "Distance between stadiums",
+        "Athlete's age"
+      ],
+      "why": "Correct answer: Time for a segment of a race. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-5-2",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 5,
+      "clue": "What is an assist in basketball?",
+      "answer": "Pass contributing directly to a made basket",
+      "wrong": [
+        "A blocked shot",
+        "A technical foul",
+        "A jump ball",
+        "A timeout",
+        "A missed free throw"
+      ],
+      "why": "Correct answer: Pass contributing directly to a made basket. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "high-exp-sports-recreation-5-3",
+      "band": "high",
+      "category": "Sports & Recreation",
+      "tier": 5,
+      "clue": "What does a negative split mean in distance racing?",
+      "answer": "The second part is faster than the first",
+      "wrong": [
+        "The runner stops early",
+        "Every mile gets slower",
+        "A disqualification",
+        "The race goes downhill only",
+        "The first part is faster"
+      ],
+      "why": "Correct answer: The second part is faster than the first. Review the topic to explain why the alternatives are incorrect."
     }
   ]
 }
