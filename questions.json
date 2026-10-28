@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "sourceNote": "510 teacher-review classroom trivia items. 315 new authored facts and concepts; older 195 retain three authored distractors and the game supplements for five/six-choice mode. Content is not independently curriculum-certified; teacher review is recommended, especially culturally/time-sensitive items.",
+  "version": 3,
+  "sourceNote": "160 new original Social Studies questions for grades 5–8, organized as eight selectable subtopics per grade (five tiers per subtopic); 510 existing questions preserved. Curriculum alignment is approximate; teachers should review, particularly tribal history and constitutional interpretations. No real-time event or political trivia.",
   "questions": [
     {
       "id": "middle-1-1-1",
@@ -7771,6 +7771,2246 @@
         "The first part is faster"
       ],
       "why": "Correct answer: The second part is faster than the first. Review the topic to explain why the alternatives are incorrect."
+    },
+    {
+      "id": "ss-g5-01-1",
+      "band": "ss5",
+      "category": "First Peoples and Homelands",
+      "tier": 1,
+      "clue": "Who lived in North America long before European colonization?",
+      "answer": "Indigenous peoples",
+      "wrong": [
+        "European monarchs",
+        "Roman legions",
+        "Viking kingdoms"
+      ],
+      "why": "Indigenous nations have lived in North America for thousands of years."
+    },
+    {
+      "id": "ss-g5-01-2",
+      "band": "ss5",
+      "category": "First Peoples and Homelands",
+      "tier": 2,
+      "clue": "What is a homeland?",
+      "answer": "An area a people have longstanding ties to",
+      "wrong": [
+        "A temporary roadside stop",
+        "A ship from Europe",
+        "A new national flag"
+      ],
+      "why": "Homelands carry cultural, historical, and geographic connections."
+    },
+    {
+      "id": "ss-g5-01-3",
+      "band": "ss5",
+      "category": "First Peoples and Homelands",
+      "tier": 3,
+      "clue": "Which statement about Indigenous nations is most accurate?",
+      "answer": "They have distinct cultures, languages, and governments",
+      "wrong": [
+        "They all speak one language",
+        "They have no history before colonization",
+        "They all lived in identical houses"
+      ],
+      "why": "Indigenous nations have diverse histories and living cultures."
+    },
+    {
+      "id": "ss-g5-01-4",
+      "band": "ss5",
+      "category": "First Peoples and Homelands",
+      "tier": 4,
+      "clue": "Why might a river be important to a community?",
+      "answer": "It can support food, travel, and trade",
+      "wrong": [
+        "It always prevents settlement",
+        "It ends all trade",
+        "It makes farming impossible"
+      ],
+      "why": "Rivers often shape settlement, travel routes, and resource use."
+    },
+    {
+      "id": "ss-g5-01-5",
+      "band": "ss5",
+      "category": "First Peoples and Homelands",
+      "tier": 5,
+      "clue": "A historical map labels an Indigenous homeland as empty land. What is the strongest criticism?",
+      "answer": "It ignores people already living there",
+      "wrong": [
+        "It proves no one lived there",
+        "It identifies every tribal boundary accurately",
+        "It shows population numbers"
+      ],
+      "why": "Maps can reflect the mapmaker's assumptions and omit communities."
+    },
+    {
+      "id": "ss-g5-02-1",
+      "band": "ss5",
+      "category": "Exploration and Encounters",
+      "tier": 1,
+      "clue": "Which ocean separated Europe from eastern North America?",
+      "answer": "Atlantic Ocean",
+      "wrong": [
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "why": "The Atlantic lies between Europe and the eastern Americas."
+    },
+    {
+      "id": "ss-g5-02-2",
+      "band": "ss5",
+      "category": "Exploration and Encounters",
+      "tier": 2,
+      "clue": "What is an exchange of goods between communities called?",
+      "answer": "Trade",
+      "wrong": [
+        "Migration",
+        "Election",
+        "Treaty violation"
+      ],
+      "why": "Trade moves goods or services between people."
+    },
+    {
+      "id": "ss-g5-02-3",
+      "band": "ss5",
+      "category": "Exploration and Encounters",
+      "tier": 3,
+      "clue": "Which was one consequence of contact between Europeans and Indigenous peoples?",
+      "answer": "Diseases caused devastating population losses",
+      "wrong": [
+        "All communities gained equal power",
+        "Trade stopped everywhere",
+        "No cultures changed"
+      ],
+      "why": "Introduced diseases had severe effects on many Indigenous populations."
+    },
+    {
+      "id": "ss-g5-02-4",
+      "band": "ss5",
+      "category": "Exploration and Encounters",
+      "tier": 4,
+      "clue": "Why did many European powers sponsor voyages overseas?",
+      "answer": "To seek trade routes, wealth, and influence",
+      "wrong": [
+        "To end competition among kingdoms",
+        "To avoid all navigation",
+        "To establish identical governments"
+      ],
+      "why": "Trade, empire, and geopolitical competition motivated voyages."
+    },
+    {
+      "id": "ss-g5-02-5",
+      "band": "ss5",
+      "category": "Exploration and Encounters",
+      "tier": 5,
+      "clue": "What is a responsible way to study first encounters?",
+      "answer": "Compare Indigenous and European accounts",
+      "wrong": [
+        "Use only a European captain's diary",
+        "Treat a painting as a photograph",
+        "Ignore the date of sources"
+      ],
+      "why": "Multiple perspectives help reveal limits and bias in accounts."
+    },
+    {
+      "id": "ss-g5-03-1",
+      "band": "ss5",
+      "category": "The 13 Colonies",
+      "tier": 1,
+      "clue": "How many British colonies are usually called the original American colonies?",
+      "answer": "Thirteen",
+      "wrong": [
+        "Ten",
+        "Fifteen",
+        "Twenty"
+      ],
+      "why": "Thirteen British mainland colonies later declared independence."
+    },
+    {
+      "id": "ss-g5-03-2",
+      "band": "ss5",
+      "category": "The 13 Colonies",
+      "tier": 2,
+      "clue": "On which coast were the 13 colonies located?",
+      "answer": "Atlantic coast",
+      "wrong": [
+        "Pacific coast",
+        "Gulf coast only",
+        "Great Lakes only"
+      ],
+      "why": "The original thirteen stretched along the Atlantic seaboard."
+    },
+    {
+      "id": "ss-g5-03-3",
+      "band": "ss5",
+      "category": "The 13 Colonies",
+      "tier": 3,
+      "clue": "Which colonial region included Massachusetts?",
+      "answer": "New England",
+      "wrong": [
+        "Middle Colonies",
+        "Southern Colonies",
+        "Pacific Colonies"
+      ],
+      "why": "Massachusetts was one of the New England colonies."
+    },
+    {
+      "id": "ss-g5-03-4",
+      "band": "ss5",
+      "category": "The 13 Colonies",
+      "tier": 4,
+      "clue": "Which crop was especially associated with plantation agriculture in parts of the Southern Colonies?",
+      "answer": "Tobacco",
+      "wrong": [
+        "Coffee",
+        "Bananas",
+        "Tea"
+      ],
+      "why": "Tobacco was a major cash crop in several southern colonies."
+    },
+    {
+      "id": "ss-g5-03-5",
+      "band": "ss5",
+      "category": "The 13 Colonies",
+      "tier": 5,
+      "clue": "Why did colonial economies differ by region?",
+      "answer": "Climate, resources, and geography differed",
+      "wrong": [
+        "Every colony had identical land",
+        "All colonies banned trade",
+        "Each colony used the same crops"
+      ],
+      "why": "Regional geography influenced farming, trade, and livelihoods."
+    },
+    {
+      "id": "ss-g5-04-1",
+      "band": "ss5",
+      "category": "Colonial Life",
+      "tier": 1,
+      "clue": "What is an apprentice?",
+      "answer": "Someone learning a trade from an experienced worker",
+      "wrong": [
+        "A governor elected by all citizens",
+        "A ship's compass",
+        "A colonial tax"
+      ],
+      "why": "Apprentices learned specialized skills through work and instruction."
+    },
+    {
+      "id": "ss-g5-04-2",
+      "band": "ss5",
+      "category": "Colonial Life",
+      "tier": 2,
+      "clue": "What was a town meeting in many New England communities?",
+      "answer": "A gathering to discuss local decisions",
+      "wrong": [
+        "A royal coronation",
+        "A military invasion",
+        "A harvest tax"
+      ],
+      "why": "Town meetings were a form of local civic participation."
+    },
+    {
+      "id": "ss-g5-04-3",
+      "band": "ss5",
+      "category": "Colonial Life",
+      "tier": 3,
+      "clue": "Which statement about colonial voting is accurate?",
+      "answer": "Voting rights were restricted and unequal",
+      "wrong": [
+        "All residents could vote equally",
+        "Only children voted",
+        "Enslaved people voted in every colony"
+      ],
+      "why": "Voting privileges were limited by factors such as gender, race, and property."
+    },
+    {
+      "id": "ss-g5-04-4",
+      "band": "ss5",
+      "category": "Colonial Life",
+      "tier": 4,
+      "clue": "Why did enslaved Africans and their descendants play a major role in colonial economies?",
+      "answer": "Their forced labor was exploited for profit",
+      "wrong": [
+        "They all chose paid plantation jobs",
+        "They controlled colonial governments",
+        "They were exempt from agricultural work"
+      ],
+      "why": "Slavery was a coercive labor system central to many colonial enterprises."
+    },
+    {
+      "id": "ss-g5-04-5",
+      "band": "ss5",
+      "category": "Colonial Life",
+      "tier": 5,
+      "clue": "A diary describes an affluent merchant family. What should a historian remember?",
+      "answer": "One family's experience cannot represent everyone",
+      "wrong": [
+        "All colonists lived identically",
+        "Diaries always include all perspectives",
+        "The diary proves no poverty existed"
+      ],
+      "why": "Sources reflect the particular circumstances of their authors."
+    },
+    {
+      "id": "ss-g5-05-1",
+      "band": "ss5",
+      "category": "The American Revolution",
+      "tier": 1,
+      "clue": "In which year was the Declaration of Independence adopted?",
+      "answer": "1776",
+      "wrong": [
+        "1787",
+        "1812",
+        "1607"
+      ],
+      "why": "Congress adopted the Declaration on July 4, 1776."
+    },
+    {
+      "id": "ss-g5-05-2",
+      "band": "ss5",
+      "category": "The American Revolution",
+      "tier": 2,
+      "clue": "Which country did the colonies declare independence from?",
+      "answer": "Great Britain",
+      "wrong": [
+        "France",
+        "Spain",
+        "Portugal"
+      ],
+      "why": "The colonies declared independence from British rule."
+    },
+    {
+      "id": "ss-g5-05-3",
+      "band": "ss5",
+      "category": "The American Revolution",
+      "tier": 3,
+      "clue": "What phrase summarized objections to British taxation without colonial representation?",
+      "answer": "No taxation without representation",
+      "wrong": [
+        "Liberty is a monarchy",
+        "All taxes are voluntary",
+        "No trade without tariffs"
+      ],
+      "why": "Colonists protested being taxed by a Parliament where they lacked elected representatives."
+    },
+    {
+      "id": "ss-g5-05-4",
+      "band": "ss5",
+      "category": "The American Revolution",
+      "tier": 4,
+      "clue": "What event preceded the Revolutionary War and involved protestors throwing tea into a harbor?",
+      "answer": "Boston Tea Party",
+      "wrong": [
+        "Constitutional Convention",
+        "Louisiana Purchase",
+        "Battle of Gettysburg"
+      ],
+      "why": "The Boston Tea Party was a 1773 protest against British tea policy."
+    },
+    {
+      "id": "ss-g5-05-5",
+      "band": "ss5",
+      "category": "The American Revolution",
+      "tier": 5,
+      "clue": "Why is the Revolution often described as involving competing ideas about liberty?",
+      "answer": "People disagreed about independence and who received rights",
+      "wrong": [
+        "Everyone agreed on independence immediately",
+        "Enslavement ended during the war everywhere",
+        "Indigenous nations had no interests in the conflict"
+      ],
+      "why": "Revolutionary ideals and actual rights and allegiances were unequal and contested."
+    },
+    {
+      "id": "ss-g5-06-1",
+      "band": "ss5",
+      "category": "Founding Documents",
+      "tier": 1,
+      "clue": "What document declared the colonies independent?",
+      "answer": "Declaration of Independence",
+      "wrong": [
+        "Bill of Rights",
+        "Mayflower Compact",
+        "Emancipation Proclamation"
+      ],
+      "why": "The Declaration explained the decision to separate from Britain."
+    },
+    {
+      "id": "ss-g5-06-2",
+      "band": "ss5",
+      "category": "Founding Documents",
+      "tier": 2,
+      "clue": "What is the purpose of a constitution?",
+      "answer": "To establish a government's basic framework",
+      "wrong": [
+        "To list all natural resources",
+        "To name every local mayor",
+        "To schedule yearly elections only"
+      ],
+      "why": "A constitution establishes governing structures and principles."
+    },
+    {
+      "id": "ss-g5-06-3",
+      "band": "ss5",
+      "category": "Founding Documents",
+      "tier": 3,
+      "clue": "Which document begins with the words We the People?",
+      "answer": "U.S. Constitution",
+      "wrong": [
+        "Declaration of Independence",
+        "Articles of Confederation",
+        "Treaty of Paris"
+      ],
+      "why": "The Constitution's preamble starts with those words."
+    },
+    {
+      "id": "ss-g5-06-4",
+      "band": "ss5",
+      "category": "Founding Documents",
+      "tier": 4,
+      "clue": "What was one weakness of the Articles of Confederation?",
+      "answer": "The national government had limited power to raise revenue",
+      "wrong": [
+        "It gave Congress unlimited taxation power",
+        "It abolished state governments",
+        "It created a powerful president"
+      ],
+      "why": "The Articles left the central government relatively weak."
+    },
+    {
+      "id": "ss-g5-06-5",
+      "band": "ss5",
+      "category": "Founding Documents",
+      "tier": 5,
+      "clue": "What is a key distinction between the Declaration and Constitution?",
+      "answer": "One argues for independence; the other establishes government",
+      "wrong": [
+        "Both are lists of the ten amendments",
+        "Both were ratified the same day",
+        "The Constitution declared independence in 1776"
+      ],
+      "why": "They served different functions at different points in U.S. history."
+    },
+    {
+      "id": "ss-g5-07-1",
+      "band": "ss5",
+      "category": "Early U.S. Government",
+      "tier": 1,
+      "clue": "Who was the first U.S. president?",
+      "answer": "George Washington",
+      "wrong": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "why": "Washington became president in 1789."
+    },
+    {
+      "id": "ss-g5-07-2",
+      "band": "ss5",
+      "category": "Early U.S. Government",
+      "tier": 2,
+      "clue": "What are the three branches of the federal government?",
+      "answer": "Legislative, executive, and judicial",
+      "wrong": [
+        "Local, city, and state",
+        "Army, navy, and air force",
+        "House, senate, and governor"
+      ],
+      "why": "The Constitution divides federal power among three branches."
+    },
+    {
+      "id": "ss-g5-07-3",
+      "band": "ss5",
+      "category": "Early U.S. Government",
+      "tier": 3,
+      "clue": "What does Congress mainly do?",
+      "answer": "Makes federal laws",
+      "wrong": [
+        "Interprets every state law",
+        "Commands state juries",
+        "Runs local schools directly"
+      ],
+      "why": "Congress exercises federal legislative power."
+    },
+    {
+      "id": "ss-g5-07-4",
+      "band": "ss5",
+      "category": "Early U.S. Government",
+      "tier": 4,
+      "clue": "What is a check or balance in government?",
+      "answer": "A power one branch uses to limit another",
+      "wrong": [
+        "A fee paid at elections",
+        "A promise no branch can be questioned",
+        "A type of official currency"
+      ],
+      "why": "Checks and balances help limit concentration of power."
+    },
+    {
+      "id": "ss-g5-07-5",
+      "band": "ss5",
+      "category": "Early U.S. Government",
+      "tier": 5,
+      "clue": "Which example illustrates federalism?",
+      "answer": "Federal and state governments each have powers",
+      "wrong": [
+        "Only the president makes every local rule",
+        "Each state prints its own U.S. dollars",
+        "Courts replace all legislatures"
+      ],
+      "why": "Federalism divides governmental authority across national and state levels."
+    },
+    {
+      "id": "ss-g5-08-1",
+      "band": "ss5",
+      "category": "Historical Sources",
+      "tier": 1,
+      "clue": "Which is a primary source for a past event?",
+      "answer": "A letter written by someone who witnessed it",
+      "wrong": [
+        "A modern trivia game",
+        "A history textbook chapter",
+        "A later encyclopedia entry"
+      ],
+      "why": "A firsthand letter can be evidence from the period studied."
+    },
+    {
+      "id": "ss-g5-08-2",
+      "band": "ss5",
+      "category": "Historical Sources",
+      "tier": 2,
+      "clue": "What should a student check when studying an old photograph?",
+      "answer": "Who took it, when, and why",
+      "wrong": [
+        "Only its colors",
+        "Whether it looks dramatic",
+        "How many likes it has"
+      ],
+      "why": "Source context helps a historian interpret photographs."
+    },
+    {
+      "id": "ss-g5-08-3",
+      "band": "ss5",
+      "category": "Historical Sources",
+      "tier": 3,
+      "clue": "Why compare two accounts of an event?",
+      "answer": "They may reveal different experiences and viewpoints",
+      "wrong": [
+        "They always contain identical details",
+        "One must be thrown away without reading",
+        "Dates no longer matter"
+      ],
+      "why": "Comparing accounts reveals perspective and possible omissions."
+    },
+    {
+      "id": "ss-g5-08-4",
+      "band": "ss5",
+      "category": "Historical Sources",
+      "tier": 4,
+      "clue": "A source was written decades after an event. Why does that matter?",
+      "answer": "Memory and later knowledge may affect the account",
+      "wrong": [
+        "It cannot contain any useful information",
+        "It must be completely fictional",
+        "It automatically outranks contemporary sources"
+      ],
+      "why": "Time between an event and an account affects how evidence is evaluated."
+    },
+    {
+      "id": "ss-g5-08-5",
+      "band": "ss5",
+      "category": "Historical Sources",
+      "tier": 5,
+      "clue": "What best supports a historical claim?",
+      "answer": "Relevant evidence from credible sources",
+      "wrong": [
+        "An unsupported guess",
+        "A colorful headline only",
+        "The longest possible paragraph"
+      ],
+      "why": "Historical arguments should be grounded in evaluated evidence."
+    },
+    {
+      "id": "ss-g6-01-1",
+      "band": "ss6",
+      "category": "Geography and Maps",
+      "tier": 1,
+      "clue": "Which line divides Earth into Northern and Southern Hemispheres?",
+      "answer": "Equator",
+      "wrong": [
+        "Prime Meridian",
+        "Tropic of Capricorn",
+        "International Date Line"
+      ],
+      "why": "The equator is at zero degrees latitude."
+    },
+    {
+      "id": "ss-g6-01-2",
+      "band": "ss6",
+      "category": "Geography and Maps",
+      "tier": 2,
+      "clue": "Which map feature explains symbols and colors?",
+      "answer": "Legend or key",
+      "wrong": [
+        "Compass needle",
+        "Title only",
+        "Scale bar only"
+      ],
+      "why": "A legend identifies a map's symbols."
+    },
+    {
+      "id": "ss-g6-01-3",
+      "band": "ss6",
+      "category": "Geography and Maps",
+      "tier": 3,
+      "clue": "What do latitude lines measure?",
+      "answer": "Distance north or south of the equator",
+      "wrong": [
+        "Time in seconds",
+        "Height above the sea",
+        "Distance east of the prime meridian"
+      ],
+      "why": "Latitude expresses angular position north or south."
+    },
+    {
+      "id": "ss-g6-01-4",
+      "band": "ss6",
+      "category": "Geography and Maps",
+      "tier": 4,
+      "clue": "Which map tool helps estimate real distance?",
+      "answer": "Scale",
+      "wrong": [
+        "Legend",
+        "Inset portrait",
+        "Border decoration"
+      ],
+      "why": "A map scale connects map measurements with real-world distance."
+    },
+    {
+      "id": "ss-g6-01-5",
+      "band": "ss6",
+      "category": "Geography and Maps",
+      "tier": 5,
+      "clue": "Why are river valleys often sites of early civilizations?",
+      "answer": "Water and fertile soils support settlements",
+      "wrong": [
+        "They prevent farming",
+        "They eliminate flooding",
+        "They isolate all trade"
+      ],
+      "why": "Water access and fertile floodplains supported many settlements."
+    },
+    {
+      "id": "ss-g6-02-1",
+      "band": "ss6",
+      "category": "Mesopotamia",
+      "tier": 1,
+      "clue": "Mesopotamia developed between which two major rivers?",
+      "answer": "Tigris and Euphrates",
+      "wrong": [
+        "Nile and Congo",
+        "Amazon and Orinoco",
+        "Danube and Rhine"
+      ],
+      "why": "The name refers to land between the Tigris and Euphrates rivers."
+    },
+    {
+      "id": "ss-g6-02-2",
+      "band": "ss6",
+      "category": "Mesopotamia",
+      "tier": 2,
+      "clue": "What is cuneiform?",
+      "answer": "A system of writing with wedge-shaped marks",
+      "wrong": [
+        "A Roman road",
+        "An Egyptian pyramid",
+        "A Greek theater"
+      ],
+      "why": "Scribes pressed wedge-shaped symbols into clay tablets."
+    },
+    {
+      "id": "ss-g6-02-3",
+      "band": "ss6",
+      "category": "Mesopotamia",
+      "tier": 3,
+      "clue": "What was a ziggurat?",
+      "answer": "A monumental stepped temple structure",
+      "wrong": [
+        "A kind of ship",
+        "A Roman aqueduct",
+        "A Chinese compass"
+      ],
+      "why": "Ziggurats were prominent religious structures in Mesopotamian cities."
+    },
+    {
+      "id": "ss-g6-02-4",
+      "band": "ss6",
+      "category": "Mesopotamia",
+      "tier": 4,
+      "clue": "Why did some Mesopotamian cities construct irrigation canals?",
+      "answer": "To move water to fields",
+      "wrong": [
+        "To prevent all international trade",
+        "To replace every road",
+        "To stop rainfall"
+      ],
+      "why": "Irrigation helped support agriculture in dry regions."
+    },
+    {
+      "id": "ss-g6-02-5",
+      "band": "ss6",
+      "category": "Mesopotamia",
+      "tier": 5,
+      "clue": "Why is Hammurabi's Code useful to historians?",
+      "answer": "It offers evidence about laws and social hierarchy",
+      "wrong": [
+        "It proves all people had equal rights",
+        "It lists modern human rights",
+        "It is a complete diary of every resident"
+      ],
+      "why": "The code records legal expectations and social distinctions."
+    },
+    {
+      "id": "ss-g6-03-1",
+      "band": "ss6",
+      "category": "Ancient Egypt",
+      "tier": 1,
+      "clue": "Which river was central to ancient Egypt?",
+      "answer": "Nile",
+      "wrong": [
+        "Ganges",
+        "Tigris",
+        "Yellow River"
+      ],
+      "why": "The Nile supported farming and transportation."
+    },
+    {
+      "id": "ss-g6-03-2",
+      "band": "ss6",
+      "category": "Ancient Egypt",
+      "tier": 2,
+      "clue": "What was a pharaoh?",
+      "answer": "A ruler of ancient Egypt",
+      "wrong": [
+        "A Roman senator",
+        "A Greek athlete",
+        "A Chinese philosopher"
+      ],
+      "why": "Pharaohs ruled ancient Egypt."
+    },
+    {
+      "id": "ss-g6-03-3",
+      "band": "ss6",
+      "category": "Ancient Egypt",
+      "tier": 3,
+      "clue": "What writing system used pictorial signs in ancient Egypt?",
+      "answer": "Hieroglyphs",
+      "wrong": [
+        "Cuneiform only",
+        "Latin alphabet",
+        "Morse code"
+      ],
+      "why": "Hieroglyphs were one Egyptian writing system."
+    },
+    {
+      "id": "ss-g6-03-4",
+      "band": "ss6",
+      "category": "Ancient Egypt",
+      "tier": 4,
+      "clue": "Why did the annual Nile flood matter to farming?",
+      "answer": "It often deposited fertile silt on fields",
+      "wrong": [
+        "It always destroyed every harvest",
+        "It dried all canals",
+        "It stopped all river transportation"
+      ],
+      "why": "Flooding could renew fertile agricultural land."
+    },
+    {
+      "id": "ss-g6-03-5",
+      "band": "ss6",
+      "category": "Ancient Egypt",
+      "tier": 5,
+      "clue": "Why did Egyptians practice mummification in some burials?",
+      "answer": "Beliefs about the afterlife shaped burial practices",
+      "wrong": [
+        "It was required for all people equally",
+        "It created paper",
+        "It replaced every temple"
+      ],
+      "why": "Religious beliefs influenced embalming and burial traditions."
+    },
+    {
+      "id": "ss-g6-04-1",
+      "band": "ss6",
+      "category": "Ancient Greece",
+      "tier": 1,
+      "clue": "Which Greek city-state is associated with early democracy?",
+      "answer": "Athens",
+      "wrong": [
+        "Sparta",
+        "Babylon",
+        "Carthage"
+      ],
+      "why": "Athens developed a form of direct citizen government."
+    },
+    {
+      "id": "ss-g6-04-2",
+      "band": "ss6",
+      "category": "Ancient Greece",
+      "tier": 2,
+      "clue": "What is a city-state?",
+      "answer": "An independent city and its surrounding territory",
+      "wrong": [
+        "A continent with one capital",
+        "A modern school district",
+        "A large sea route"
+      ],
+      "why": "Many Greek communities were independent poleis or city-states."
+    },
+    {
+      "id": "ss-g6-04-3",
+      "band": "ss6",
+      "category": "Ancient Greece",
+      "tier": 3,
+      "clue": "Which Greek city-state emphasized military training?",
+      "answer": "Sparta",
+      "wrong": [
+        "Athens",
+        "Alexandria",
+        "Rome"
+      ],
+      "why": "Sparta was known for its military-oriented society."
+    },
+    {
+      "id": "ss-g6-04-4",
+      "band": "ss6",
+      "category": "Ancient Greece",
+      "tier": 4,
+      "clue": "Which statement about Athenian democracy is accurate?",
+      "answer": "Women, enslaved people, and foreigners lacked citizen voting rights",
+      "wrong": [
+        "All residents voted equally",
+        "Kings voted for everyone",
+        "Citizens selected only Roman senators"
+      ],
+      "why": "Participation was restricted, despite the system's democratic features."
+    },
+    {
+      "id": "ss-g6-04-5",
+      "band": "ss6",
+      "category": "Ancient Greece",
+      "tier": 5,
+      "clue": "How did Greece's mountains affect its political development?",
+      "answer": "They contributed to separate city-states",
+      "wrong": [
+        "They created one uniform empire at once",
+        "They prevented sea trade",
+        "They ended competition among cities"
+      ],
+      "why": "Geographic barriers shaped regional independence."
+    },
+    {
+      "id": "ss-g6-05-1",
+      "band": "ss6",
+      "category": "Ancient Rome",
+      "tier": 1,
+      "clue": "What language was widely used in ancient Rome?",
+      "answer": "Latin",
+      "wrong": [
+        "Mandarin",
+        "Sanskrit",
+        "Swahili"
+      ],
+      "why": "Latin was the language of Roman administration and culture."
+    },
+    {
+      "id": "ss-g6-05-2",
+      "band": "ss6",
+      "category": "Ancient Rome",
+      "tier": 2,
+      "clue": "What was a Roman republic?",
+      "answer": "A government with elected officials rather than a king",
+      "wrong": [
+        "A government with no laws",
+        "An Egyptian temple",
+        "A Greek mountain range"
+      ],
+      "why": "The Roman Republic used elected magistrates and a senate."
+    },
+    {
+      "id": "ss-g6-05-3",
+      "band": "ss6",
+      "category": "Ancient Rome",
+      "tier": 3,
+      "clue": "What was a Roman aqueduct mainly built to carry?",
+      "answer": "Water",
+      "wrong": [
+        "Gold coins",
+        "Soldiers",
+        "Grain on railroads"
+      ],
+      "why": "Aqueducts transported water to settlements."
+    },
+    {
+      "id": "ss-g6-05-4",
+      "band": "ss6",
+      "category": "Ancient Rome",
+      "tier": 4,
+      "clue": "Why were Roman roads important?",
+      "answer": "They supported travel, trade, and military movement",
+      "wrong": [
+        "They stopped communication",
+        "They made ships unnecessary everywhere",
+        "They were used only for ceremonies"
+      ],
+      "why": "Road networks connected far-flung Roman territories."
+    },
+    {
+      "id": "ss-g6-05-5",
+      "band": "ss6",
+      "category": "Ancient Rome",
+      "tier": 5,
+      "clue": "Which change marks a key difference between Rome's republic and empire?",
+      "answer": "Power increasingly centered on emperors",
+      "wrong": [
+        "All regional governments disappeared instantly",
+        "Roman law ceased to exist",
+        "The empire had no armies"
+      ],
+      "why": "Emperors held dominant authority during the imperial period."
+    },
+    {
+      "id": "ss-g6-06-1",
+      "band": "ss6",
+      "category": "Ancient China",
+      "tier": 1,
+      "clue": "Which river is also called the Huang He?",
+      "answer": "Yellow River",
+      "wrong": [
+        "Nile River",
+        "Amazon River",
+        "Tigris River"
+      ],
+      "why": "Huang He is commonly called the Yellow River."
+    },
+    {
+      "id": "ss-g6-06-2",
+      "band": "ss6",
+      "category": "Ancient China",
+      "tier": 2,
+      "clue": "What material did early Chinese inventors develop for writing?",
+      "answer": "Paper",
+      "wrong": [
+        "Plastic",
+        "Aluminum foil",
+        "Rubber tires"
+      ],
+      "why": "Paper-making developed in ancient China."
+    },
+    {
+      "id": "ss-g6-06-3",
+      "band": "ss6",
+      "category": "Ancient China",
+      "tier": 3,
+      "clue": "Which philosophy emphasized social relationships and ethical conduct?",
+      "answer": "Confucianism",
+      "wrong": [
+        "Stoicism only",
+        "Mercantilism",
+        "Existentialism"
+      ],
+      "why": "Confucian teachings stressed ethics and responsibilities."
+    },
+    {
+      "id": "ss-g6-06-4",
+      "band": "ss6",
+      "category": "Ancient China",
+      "tier": 4,
+      "clue": "Why was the Great Wall built in different periods?",
+      "answer": "To help defend northern frontiers",
+      "wrong": [
+        "To stop all river flooding",
+        "To divide every farming plot",
+        "To make a world-wide trading highway"
+      ],
+      "why": "Different rulers extended defensive walls for security."
+    },
+    {
+      "id": "ss-g6-06-5",
+      "band": "ss6",
+      "category": "Ancient China",
+      "tier": 5,
+      "clue": "How did the Silk Roads connect societies?",
+      "answer": "They moved goods, ideas, and technologies across regions",
+      "wrong": [
+        "They carried only silk in one direction",
+        "They linked only one village",
+        "They eliminated cultural exchange"
+      ],
+      "why": "Trade networks transmitted both products and cultural influences."
+    },
+    {
+      "id": "ss-g6-07-1",
+      "band": "ss6",
+      "category": "Trade and Technology",
+      "tier": 1,
+      "clue": "What is barter?",
+      "answer": "Exchanging goods or services without money",
+      "wrong": [
+        "Paying a modern sales tax",
+        "Voting in an election",
+        "Building a temple"
+      ],
+      "why": "Barter means trading directly."
+    },
+    {
+      "id": "ss-g6-07-2",
+      "band": "ss6",
+      "category": "Trade and Technology",
+      "tier": 2,
+      "clue": "What technology helped sailors determine direction?",
+      "answer": "Compass",
+      "wrong": [
+        "Aqueduct",
+        "Printing press only",
+        "Sundial only"
+      ],
+      "why": "Compasses indicate direction using magnetic principles."
+    },
+    {
+      "id": "ss-g6-07-3",
+      "band": "ss6",
+      "category": "Trade and Technology",
+      "tier": 3,
+      "clue": "What is a trade route?",
+      "answer": "A path used to exchange goods between places",
+      "wrong": [
+        "A city wall",
+        "An official calendar",
+        "A farming tool"
+      ],
+      "why": "Trade routes connected people and markets."
+    },
+    {
+      "id": "ss-g6-07-4",
+      "band": "ss6",
+      "category": "Trade and Technology",
+      "tier": 4,
+      "clue": "Why might a society specialize in producing certain goods?",
+      "answer": "Local skills and resources can make production efficient",
+      "wrong": [
+        "Every region has identical resources",
+        "Trade requires no transportation",
+        "Specialization prevents exchange"
+      ],
+      "why": "Different resources and expertise encouraged specialization."
+    },
+    {
+      "id": "ss-g6-07-5",
+      "band": "ss6",
+      "category": "Trade and Technology",
+      "tier": 5,
+      "clue": "What is one possible consequence of increased trade?",
+      "answer": "Ideas and diseases can spread along with goods",
+      "wrong": [
+        "Cultures stop influencing one another",
+        "Every product becomes free",
+        "Geographic distance disappears"
+      ],
+      "why": "Exchange networks can carry both knowledge and pathogens."
+    },
+    {
+      "id": "ss-g6-08-1",
+      "band": "ss6",
+      "category": "Compare Civilizations",
+      "tier": 1,
+      "clue": "Which feature appeared in many early river-valley societies?",
+      "answer": "Farming communities near reliable water",
+      "wrong": [
+        "Only nomadic hunting",
+        "Modern electrical grids",
+        "Universal voting rights"
+      ],
+      "why": "Rivers supported farming and settlement in many areas."
+    },
+    {
+      "id": "ss-g6-08-2",
+      "band": "ss6",
+      "category": "Compare Civilizations",
+      "tier": 2,
+      "clue": "What is a primary source for ancient history?",
+      "answer": "An ancient inscription",
+      "wrong": [
+        "A modern documentary only",
+        "A recent blog summary",
+        "A tourist brochure"
+      ],
+      "why": "Artifacts and texts from the period are primary evidence."
+    },
+    {
+      "id": "ss-g6-08-3",
+      "band": "ss6",
+      "category": "Compare Civilizations",
+      "tier": 3,
+      "clue": "How might archaeologists learn about daily life?",
+      "answer": "Study tools, buildings, pottery, and remains",
+      "wrong": [
+        "Guess solely from myths",
+        "Ignore excavated objects",
+        "Use only modern movies"
+      ],
+      "why": "Material remains offer clues about activities and societies."
+    },
+    {
+      "id": "ss-g6-08-4",
+      "band": "ss6",
+      "category": "Compare Civilizations",
+      "tier": 4,
+      "clue": "Why might two civilizations develop different governments?",
+      "answer": "Geography, resources, and historical circumstances differed",
+      "wrong": [
+        "All societies faced identical experiences",
+        "Writing forces every society to have a king",
+        "No cultures adapt over time"
+      ],
+      "why": "Social and environmental contexts influence political systems."
+    },
+    {
+      "id": "ss-g6-08-5",
+      "band": "ss6",
+      "category": "Compare Civilizations",
+      "tier": 5,
+      "clue": "Which statement best avoids treating civilizations as identical?",
+      "answer": "Compare both shared patterns and important differences",
+      "wrong": [
+        "Assume all societies had one religion",
+        "Judge each society only by its monuments",
+        "Ignore ordinary people's lives"
+      ],
+      "why": "Responsible comparison studies similarities while recognizing variation."
+    },
+    {
+      "id": "ss-g7-01-1",
+      "band": "ss7",
+      "category": "Washington Geography",
+      "tier": 1,
+      "clue": "Which mountain range separates much of western and eastern Washington?",
+      "answer": "Cascade Range",
+      "wrong": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Sierra Nevada"
+      ],
+      "why": "The Cascades form a major geographic divide in Washington."
+    },
+    {
+      "id": "ss-g7-01-2",
+      "band": "ss7",
+      "category": "Washington Geography",
+      "tier": 2,
+      "clue": "Which major river forms part of Washington's southern boundary?",
+      "answer": "Columbia River",
+      "wrong": [
+        "Mississippi River",
+        "Colorado River",
+        "Hudson River"
+      ],
+      "why": "The Columbia runs along much of the Oregon-Washington boundary."
+    },
+    {
+      "id": "ss-g7-01-3",
+      "band": "ss7",
+      "category": "Washington Geography",
+      "tier": 3,
+      "clue": "Which city is Washington's state capital?",
+      "answer": "Olympia",
+      "wrong": [
+        "Seattle",
+        "Spokane",
+        "Yakima"
+      ],
+      "why": "Olympia is the state capital."
+    },
+    {
+      "id": "ss-g7-01-4",
+      "band": "ss7",
+      "category": "Washington Geography",
+      "tier": 4,
+      "clue": "What produces a rain shadow east of the Cascades?",
+      "answer": "Moist air loses precipitation as it crosses mountains",
+      "wrong": [
+        "Ocean tides stop all clouds",
+        "Rivers eliminate storms",
+        "Volcanoes create year-round drought"
+      ],
+      "why": "Mountain uplift leaves relatively drier conditions to the east."
+    },
+    {
+      "id": "ss-g7-01-5",
+      "band": "ss7",
+      "category": "Washington Geography",
+      "tier": 5,
+      "clue": "Why does geography influence agriculture in the Yakima Valley?",
+      "answer": "Water availability, irrigation, climate, and soils shape crops",
+      "wrong": [
+        "No irrigation is ever needed",
+        "The region receives constant tropical rain",
+        "Growing seasons are identical statewide"
+      ],
+      "why": "Yakima Valley farming relies heavily on climate and irrigation."
+    },
+    {
+      "id": "ss-g7-02-1",
+      "band": "ss7",
+      "category": "Yakama and Tribal Nations",
+      "tier": 1,
+      "clue": "The Yakama Nation is an example of what?",
+      "answer": "A sovereign tribal nation",
+      "wrong": [
+        "A county government",
+        "A European kingdom",
+        "A state legislature"
+      ],
+      "why": "The Yakama Nation exercises tribal self-government."
+    },
+    {
+      "id": "ss-g7-02-2",
+      "band": "ss7",
+      "category": "Yakama and Tribal Nations",
+      "tier": 2,
+      "clue": "Which statement about Washington's tribal nations is accurate?",
+      "answer": "They are distinct nations with their own histories and governments",
+      "wrong": [
+        "They are all one government",
+        "They have no living cultural practices",
+        "They are counties of Washington"
+      ],
+      "why": "Each tribal nation has its own identity and governance."
+    },
+    {
+      "id": "ss-g7-02-3",
+      "band": "ss7",
+      "category": "Yakama and Tribal Nations",
+      "tier": 3,
+      "clue": "Why is it important to use sources created by tribal communities?",
+      "answer": "They convey tribal perspectives and knowledge directly",
+      "wrong": [
+        "Only nontribal sources count as history",
+        "They are always identical to federal documents",
+        "They eliminate the need to verify facts"
+      ],
+      "why": "Tribal-authored sources are crucial for understanding Indigenous history."
+    },
+    {
+      "id": "ss-g7-02-4",
+      "band": "ss7",
+      "category": "Yakama and Tribal Nations",
+      "tier": 4,
+      "clue": "Which statement best explains tribal sovereignty?",
+      "answer": "Tribal nations possess inherent powers of self-government",
+      "wrong": [
+        "Tribal governments are identical to city councils",
+        "Sovereignty means no laws apply anywhere",
+        "Tribal membership is decided by the state governor"
+      ],
+      "why": "Tribal sovereignty is grounded in inherent political authority."
+    },
+    {
+      "id": "ss-g7-02-5",
+      "band": "ss7",
+      "category": "Yakama and Tribal Nations",
+      "tier": 5,
+      "clue": "How should a student describe a tribal tradition?",
+      "answer": "As a living practice shaped by a specific community",
+      "wrong": [
+        "As identical across all tribes",
+        "As something that ended in 1850",
+        "As a costume without history"
+      ],
+      "why": "Avoid generalizing about different Indigenous cultures and living communities."
+    },
+    {
+      "id": "ss-g7-03-1",
+      "band": "ss7",
+      "category": "Treaties and Sovereignty",
+      "tier": 1,
+      "clue": "What is a treaty?",
+      "answer": "A formal agreement between governments or nations",
+      "wrong": [
+        "A type of mountain",
+        "A yearly weather report",
+        "A school election"
+      ],
+      "why": "Treaties are negotiated agreements with legal significance."
+    },
+    {
+      "id": "ss-g7-03-2",
+      "band": "ss7",
+      "category": "Treaties and Sovereignty",
+      "tier": 2,
+      "clue": "In what year was the Treaty with the Yakama signed?",
+      "answer": "1855",
+      "wrong": [
+        "1776",
+        "1889",
+        "1912"
+      ],
+      "why": "The Treaty with the Yakama was signed in 1855."
+    },
+    {
+      "id": "ss-g7-03-3",
+      "band": "ss7",
+      "category": "Treaties and Sovereignty",
+      "tier": 3,
+      "clue": "Why are treaty-reserved rights important today?",
+      "answer": "Treaties can protect rights such as fishing at usual and accustomed places",
+      "wrong": [
+        "Treaties automatically disappear after ten years",
+        "Treaties only explain past clothing styles",
+        "Treaties never affect land or resources"
+      ],
+      "why": "Treaty rights remain significant legal and political issues."
+    },
+    {
+      "id": "ss-g7-03-4",
+      "band": "ss7",
+      "category": "Treaties and Sovereignty",
+      "tier": 4,
+      "clue": "What does ceded land refer to in treaty history?",
+      "answer": "Land transferred under a treaty's terms",
+      "wrong": [
+        "Land with no prior residents",
+        "Only land inside a city",
+        "Land always bought from a private railroad"
+      ],
+      "why": "Treaty terms and historical circumstances are central to understanding land cessions."
+    },
+    {
+      "id": "ss-g7-03-5",
+      "band": "ss7",
+      "category": "Treaties and Sovereignty",
+      "tier": 5,
+      "clue": "Why should treaty history be examined from multiple perspectives?",
+      "answer": "Negotiations involved unequal power and different understandings",
+      "wrong": [
+        "All parties always had the same goals",
+        "Treaties were never translated",
+        "Modern communities have no connection to treaties"
+      ],
+      "why": "Historical interpretation requires attention to power, language, and lived effects."
+    },
+    {
+      "id": "ss-g7-04-1",
+      "band": "ss7",
+      "category": "Washington Territory",
+      "tier": 1,
+      "clue": "In what year was Washington Territory created?",
+      "answer": "1853",
+      "wrong": [
+        "1776",
+        "1889",
+        "1900"
+      ],
+      "why": "Congress established Washington Territory in 1853."
+    },
+    {
+      "id": "ss-g7-04-2",
+      "band": "ss7",
+      "category": "Washington Territory",
+      "tier": 2,
+      "clue": "Washington Territory was carved from which earlier territory?",
+      "answer": "Oregon Territory",
+      "wrong": [
+        "Alaska Territory",
+        "New Mexico Territory",
+        "Utah Territory"
+      ],
+      "why": "Congress separated Washington from Oregon Territory."
+    },
+    {
+      "id": "ss-g7-04-3",
+      "band": "ss7",
+      "category": "Washington Territory",
+      "tier": 3,
+      "clue": "Who was Washington Territory's first governor?",
+      "answer": "Isaac Stevens",
+      "wrong": [
+        "George Washington",
+        "Elisha Ferry",
+        "Abraham Lincoln"
+      ],
+      "why": "Isaac Stevens became the territory's first governor."
+    },
+    {
+      "id": "ss-g7-04-4",
+      "band": "ss7",
+      "category": "Washington Territory",
+      "tier": 4,
+      "clue": "What is a U.S. territory?",
+      "answer": "An area under U.S. jurisdiction not yet admitted as a state",
+      "wrong": [
+        "A neighboring country",
+        "A county with a governor",
+        "A fully independent republic"
+      ],
+      "why": "Territories and states have different political arrangements."
+    },
+    {
+      "id": "ss-g7-04-5",
+      "band": "ss7",
+      "category": "Washington Territory",
+      "tier": 5,
+      "clue": "Why does the territorial period matter to Washington history?",
+      "answer": "It shaped settlement, laws, and relationships with tribal nations",
+      "wrong": [
+        "The entire region became uninhabited",
+        "Statehood occurred before the territory existed",
+        "Every law was locally written without federal authority"
+      ],
+      "why": "Territorial decisions influenced later political and social developments."
+    },
+    {
+      "id": "ss-g7-05-1",
+      "band": "ss7",
+      "category": "Statehood and Government",
+      "tier": 1,
+      "clue": "In what year did Washington become a state?",
+      "answer": "1889",
+      "wrong": [
+        "1853",
+        "1776",
+        "1917"
+      ],
+      "why": "Washington entered the Union in 1889."
+    },
+    {
+      "id": "ss-g7-05-2",
+      "band": "ss7",
+      "category": "Statehood and Government",
+      "tier": 2,
+      "clue": "Washington became which state in the United States?",
+      "answer": "42nd",
+      "wrong": [
+        "13th",
+        "30th",
+        "50th"
+      ],
+      "why": "Washington was admitted as the 42nd state."
+    },
+    {
+      "id": "ss-g7-05-3",
+      "band": "ss7",
+      "category": "Statehood and Government",
+      "tier": 3,
+      "clue": "Which branch of Washington state government passes state laws?",
+      "answer": "State Legislature",
+      "wrong": [
+        "State Supreme Court",
+        "State Patrol alone",
+        "County libraries"
+      ],
+      "why": "The legislature is Washington's lawmaking branch."
+    },
+    {
+      "id": "ss-g7-05-4",
+      "band": "ss7",
+      "category": "Statehood and Government",
+      "tier": 4,
+      "clue": "Why does Washington have a state constitution?",
+      "answer": "It establishes the structure and powers of state government",
+      "wrong": [
+        "It replaces the entire U.S. Constitution",
+        "It sets every grocery price",
+        "It is only a tourist guide"
+      ],
+      "why": "Washington's constitution organizes state government under federal constitutional limits."
+    },
+    {
+      "id": "ss-g7-05-5",
+      "band": "ss7",
+      "category": "Statehood and Government",
+      "tier": 5,
+      "clue": "Which example shows the difference between state and federal powers?",
+      "answer": "Washington manages state policies while Congress makes federal laws",
+      "wrong": [
+        "Only cities pass federal laws",
+        "The state governor can amend the U.S. Constitution alone",
+        "The national government runs every school classroom"
+      ],
+      "why": "The U.S. has shared but distinct levels of government."
+    },
+    {
+      "id": "ss-g7-06-1",
+      "band": "ss7",
+      "category": "Natural Resources and Economy",
+      "tier": 1,
+      "clue": "Which Washington industry relies heavily on trees?",
+      "answer": "Forestry",
+      "wrong": [
+        "Deep-sea oil drilling",
+        "Desert pearl farming",
+        "Tropical sugar production"
+      ],
+      "why": "Forestry has long been important in parts of Washington."
+    },
+    {
+      "id": "ss-g7-06-2",
+      "band": "ss7",
+      "category": "Natural Resources and Economy",
+      "tier": 2,
+      "clue": "Which crop is associated with orchards in central Washington?",
+      "answer": "Apples",
+      "wrong": [
+        "Cocoa",
+        "Coffee",
+        "Bananas"
+      ],
+      "why": "Central Washington is an important apple-growing region."
+    },
+    {
+      "id": "ss-g7-06-3",
+      "band": "ss7",
+      "category": "Natural Resources and Economy",
+      "tier": 3,
+      "clue": "Why are hydroelectric dams used on rivers like the Columbia?",
+      "answer": "Flowing water can generate electricity",
+      "wrong": [
+        "They convert deserts into oceans",
+        "They stop all irrigation",
+        "They are built only for tourism"
+      ],
+      "why": "Hydroelectric systems use moving water to produce power."
+    },
+    {
+      "id": "ss-g7-06-4",
+      "band": "ss7",
+      "category": "Natural Resources and Economy",
+      "tier": 4,
+      "clue": "What is a tradeoff associated with dams?",
+      "answer": "They can provide power while affecting fish migrations",
+      "wrong": [
+        "They have no environmental effects",
+        "They remove the need for all other energy",
+        "They cannot store or influence water"
+      ],
+      "why": "Dams bring benefits and ecological costs."
+    },
+    {
+      "id": "ss-g7-06-5",
+      "band": "ss7",
+      "category": "Natural Resources and Economy",
+      "tier": 5,
+      "clue": "How can resource use create conflict between groups?",
+      "answer": "Communities may value the same river for different purposes",
+      "wrong": [
+        "All resources are unlimited",
+        "Every stakeholder has identical priorities",
+        "Economies never affect ecosystems"
+      ],
+      "why": "Decision-making must weigh different needs and rights."
+    },
+    {
+      "id": "ss-g7-07-1",
+      "band": "ss7",
+      "category": "Migration and Communities",
+      "tier": 1,
+      "clue": "What is migration?",
+      "answer": "Movement of people from one place to another",
+      "wrong": [
+        "Only shipping goods",
+        "Changing a law",
+        "An annual parade"
+      ],
+      "why": "Migration includes movements within and across borders."
+    },
+    {
+      "id": "ss-g7-07-2",
+      "band": "ss7",
+      "category": "Migration and Communities",
+      "tier": 2,
+      "clue": "What is a push factor in migration?",
+      "answer": "A condition that encourages people to leave",
+      "wrong": [
+        "A reason to stay forever",
+        "A school subject",
+        "A trade currency"
+      ],
+      "why": "Push factors include hardship, conflict, and other pressures."
+    },
+    {
+      "id": "ss-g7-07-3",
+      "band": "ss7",
+      "category": "Migration and Communities",
+      "tier": 3,
+      "clue": "Which is an example of a pull factor?",
+      "answer": "Job opportunities in another place",
+      "wrong": [
+        "Crop failure at home",
+        "A flood at home",
+        "Political persecution at home"
+      ],
+      "why": "Pull factors attract migrants to destinations."
+    },
+    {
+      "id": "ss-g7-07-4",
+      "band": "ss7",
+      "category": "Migration and Communities",
+      "tier": 4,
+      "clue": "How did railroad development affect parts of Washington?",
+      "answer": "It linked communities and supported trade and migration",
+      "wrong": [
+        "It eliminated every other form of travel",
+        "It prevented towns from growing",
+        "It ended all farming"
+      ],
+      "why": "Rail connections shaped transport, settlement, and markets."
+    },
+    {
+      "id": "ss-g7-07-5",
+      "band": "ss7",
+      "category": "Migration and Communities",
+      "tier": 5,
+      "clue": "Why should regional histories include more than one community?",
+      "answer": "Different groups experienced change and opportunity differently",
+      "wrong": [
+        "Only government officials count",
+        "Everyone experienced settlement equally",
+        "Historical evidence is identical across communities"
+      ],
+      "why": "Inclusive histories consider multiple perspectives and consequences."
+    },
+    {
+      "id": "ss-g7-08-1",
+      "band": "ss7",
+      "category": "Washington History Sources",
+      "tier": 1,
+      "clue": "Which is a primary source about Washington statehood?",
+      "answer": "An 1889 newspaper article",
+      "wrong": [
+        "A modern quiz answer",
+        "A current textbook summary",
+        "A recent fictional novel"
+      ],
+      "why": "A contemporary newspaper can document how people described the event."
+    },
+    {
+      "id": "ss-g7-08-2",
+      "band": "ss7",
+      "category": "Washington History Sources",
+      "tier": 2,
+      "clue": "What is a treaty text useful for studying?",
+      "answer": "Agreements and language recorded at the time",
+      "wrong": [
+        "Tomorrow's weather forecast",
+        "Every person's private opinion",
+        "The exact views of everyone who attended"
+      ],
+      "why": "Treaty texts are important documents but require context and other perspectives."
+    },
+    {
+      "id": "ss-g7-08-3",
+      "band": "ss7",
+      "category": "Washington History Sources",
+      "tier": 3,
+      "clue": "Why is the date on a historical map important?",
+      "answer": "Boundaries and place names change over time",
+      "wrong": [
+        "Maps never change",
+        "Older maps are always more accurate",
+        "Dates do not affect interpretation"
+      ],
+      "why": "The date establishes the historical situation represented."
+    },
+    {
+      "id": "ss-g7-08-4",
+      "band": "ss7",
+      "category": "Washington History Sources",
+      "tier": 4,
+      "clue": "Why might a tribal oral history add insight to an official archive?",
+      "answer": "It may preserve community experiences overlooked in government records",
+      "wrong": [
+        "Oral accounts can never be checked",
+        "Only written sources are valid",
+        "It replaces all other evidence"
+      ],
+      "why": "Different forms of historical knowledge illuminate different perspectives."
+    },
+    {
+      "id": "ss-g7-08-5",
+      "band": "ss7",
+      "category": "Washington History Sources",
+      "tier": 5,
+      "clue": "Which claim about Washington settlement is best supported?",
+      "answer": "A claim citing specific maps, accounts, and records",
+      "wrong": [
+        "A claim based on one anonymous rumor",
+        "A claim supported only by a movie scene",
+        "A claim without dates or context"
+      ],
+      "why": "Strong historical claims use relevant evidence and source evaluation."
+    },
+    {
+      "id": "ss-g8-01-1",
+      "band": "ss8",
+      "category": "The Constitution",
+      "tier": 1,
+      "clue": "In what year was the U.S. Constitution signed?",
+      "answer": "1787",
+      "wrong": [
+        "1776",
+        "1865",
+        "1803"
+      ],
+      "why": "Delegates signed the Constitution in Philadelphia in 1787."
+    },
+    {
+      "id": "ss-g8-01-2",
+      "band": "ss8",
+      "category": "The Constitution",
+      "tier": 2,
+      "clue": "What is the Constitution's preamble?",
+      "answer": "The introduction stating the government's purposes",
+      "wrong": [
+        "A list of state capitals",
+        "A Supreme Court ruling",
+        "A presidential campaign speech"
+      ],
+      "why": "The preamble introduces the Constitution's aims."
+    },
+    {
+      "id": "ss-g8-01-3",
+      "band": "ss8",
+      "category": "The Constitution",
+      "tier": 3,
+      "clue": "What is separation of powers?",
+      "answer": "Dividing authority among different branches",
+      "wrong": [
+        "Giving one branch every power",
+        "Separating the states into different countries",
+        "Banning local elections"
+      ],
+      "why": "Separate branches limit concentration of national power."
+    },
+    {
+      "id": "ss-g8-01-4",
+      "band": "ss8",
+      "category": "The Constitution",
+      "tier": 4,
+      "clue": "Which principle means government gets authority from the people?",
+      "answer": "Popular sovereignty",
+      "wrong": [
+        "Monarchy",
+        "Imperial rule",
+        "Hereditary succession"
+      ],
+      "why": "Popular sovereignty places ultimate political authority with the people."
+    },
+    {
+      "id": "ss-g8-01-5",
+      "band": "ss8",
+      "category": "The Constitution",
+      "tier": 5,
+      "clue": "What did the Great Compromise establish for Congress?",
+      "answer": "House representation by population and equal Senate representation",
+      "wrong": [
+        "One house with only equal votes",
+        "A lifetime presidency",
+        "An elected national king"
+      ],
+      "why": "The compromise helped shape the bicameral legislature."
+    },
+    {
+      "id": "ss-g8-02-1",
+      "band": "ss8",
+      "category": "Bill of Rights",
+      "tier": 1,
+      "clue": "What are the first ten amendments called?",
+      "answer": "Bill of Rights",
+      "wrong": [
+        "Articles of Confederation",
+        "Federalist Papers",
+        "Declaration of Independence"
+      ],
+      "why": "The first ten amendments make up the Bill of Rights."
+    },
+    {
+      "id": "ss-g8-02-2",
+      "band": "ss8",
+      "category": "Bill of Rights",
+      "tier": 2,
+      "clue": "Which amendment protects freedom of speech and religion?",
+      "answer": "First Amendment",
+      "wrong": [
+        "Second Amendment",
+        "Fourth Amendment",
+        "Tenth Amendment"
+      ],
+      "why": "The First Amendment protects several freedoms of expression and religion."
+    },
+    {
+      "id": "ss-g8-02-3",
+      "band": "ss8",
+      "category": "Bill of Rights",
+      "tier": 3,
+      "clue": "Which amendment protects against unreasonable searches and seizures?",
+      "answer": "Fourth Amendment",
+      "wrong": [
+        "Third Amendment",
+        "Sixth Amendment",
+        "Eighth Amendment"
+      ],
+      "why": "The Fourth Amendment limits unreasonable government searches."
+    },
+    {
+      "id": "ss-g8-02-4",
+      "band": "ss8",
+      "category": "Bill of Rights",
+      "tier": 4,
+      "clue": "Which amendment protects against compelled self-incrimination?",
+      "answer": "Fifth Amendment",
+      "wrong": [
+        "First Amendment",
+        "Seventh Amendment",
+        "Tenth Amendment"
+      ],
+      "why": "The Fifth Amendment includes protection against self-incrimination."
+    },
+    {
+      "id": "ss-g8-02-5",
+      "band": "ss8",
+      "category": "Bill of Rights",
+      "tier": 5,
+      "clue": "Which amendment reserves undelegated powers to the states or the people?",
+      "answer": "Tenth Amendment",
+      "wrong": [
+        "Second Amendment",
+        "Fourth Amendment",
+        "Sixth Amendment"
+      ],
+      "why": "The Tenth Amendment addresses powers not delegated to the federal government."
+    },
+    {
+      "id": "ss-g8-03-1",
+      "band": "ss8",
+      "category": "Three Branches",
+      "tier": 1,
+      "clue": "Which branch includes Congress?",
+      "answer": "Legislative",
+      "wrong": [
+        "Executive",
+        "Judicial",
+        "Military"
+      ],
+      "why": "Congress is the legislative branch."
+    },
+    {
+      "id": "ss-g8-03-2",
+      "band": "ss8",
+      "category": "Three Branches",
+      "tier": 2,
+      "clue": "What branch is headed by the U.S. president?",
+      "answer": "Executive",
+      "wrong": [
+        "Judicial",
+        "Legislative",
+        "Municipal"
+      ],
+      "why": "The president heads the federal executive branch."
+    },
+    {
+      "id": "ss-g8-03-3",
+      "band": "ss8",
+      "category": "Three Branches",
+      "tier": 3,
+      "clue": "What is the highest U.S. federal court?",
+      "answer": "Supreme Court",
+      "wrong": [
+        "Senate",
+        "Cabinet",
+        "House of Representatives"
+      ],
+      "why": "The Supreme Court is the top court in the federal judiciary."
+    },
+    {
+      "id": "ss-g8-03-4",
+      "band": "ss8",
+      "category": "Three Branches",
+      "tier": 4,
+      "clue": "What is the president's veto?",
+      "answer": "A power to reject a bill passed by Congress",
+      "wrong": [
+        "A decision made only by state juries",
+        "A law passed by the Court",
+        "A new amendment to the Constitution"
+      ],
+      "why": "A veto can block legislation unless Congress overrides it."
+    },
+    {
+      "id": "ss-g8-03-5",
+      "band": "ss8",
+      "category": "Three Branches",
+      "tier": 5,
+      "clue": "Which branch may declare a federal law unconstitutional in a case?",
+      "answer": "Judicial",
+      "wrong": [
+        "Executive only",
+        "Legislative only",
+        "State governors collectively"
+      ],
+      "why": "Federal courts exercise judicial review in cases before them."
+    },
+    {
+      "id": "ss-g8-04-1",
+      "band": "ss8",
+      "category": "Federalism and Elections",
+      "tier": 1,
+      "clue": "What is federalism?",
+      "answer": "Division of power between national and state governments",
+      "wrong": [
+        "Rule by a single monarch",
+        "Government without elections",
+        "Control by one city"
+      ],
+      "why": "Federalism divides government power across levels."
+    },
+    {
+      "id": "ss-g8-04-2",
+      "band": "ss8",
+      "category": "Federalism and Elections",
+      "tier": 2,
+      "clue": "Who usually administers elections in the United States?",
+      "answer": "State and local election officials",
+      "wrong": [
+        "The U.S. military",
+        "The Supreme Court alone",
+        "Foreign governments"
+      ],
+      "why": "Election administration is primarily state and local."
+    },
+    {
+      "id": "ss-g8-04-3",
+      "band": "ss8",
+      "category": "Federalism and Elections",
+      "tier": 3,
+      "clue": "What is an amendment?",
+      "answer": "A formal change or addition to a constitution",
+      "wrong": [
+        "An unofficial rumor",
+        "An annual federal budget",
+        "A presidential speech"
+      ],
+      "why": "Amendments modify constitutional text."
+    },
+    {
+      "id": "ss-g8-04-4",
+      "band": "ss8",
+      "category": "Federalism and Elections",
+      "tier": 4,
+      "clue": "Which constitutional amendment lowered the voting age to 18?",
+      "answer": "Twenty-sixth",
+      "wrong": [
+        "Nineteenth",
+        "Fifteenth",
+        "Twenty-second"
+      ],
+      "why": "The Twenty-sixth Amendment sets 18 as the minimum voting age for otherwise eligible citizens."
+    },
+    {
+      "id": "ss-g8-04-5",
+      "band": "ss8",
+      "category": "Federalism and Elections",
+      "tier": 5,
+      "clue": "What is one example of shared federal-state responsibilities?",
+      "answer": "Both levels collect certain taxes",
+      "wrong": [
+        "Only the federal government has any courts",
+        "States may ignore federal constitutional rights",
+        "Only cities regulate interstate commerce"
+      ],
+      "why": "Different levels have powers that may overlap."
+    },
+    {
+      "id": "ss-g8-05-1",
+      "band": "ss8",
+      "category": "Westward Expansion",
+      "tier": 1,
+      "clue": "What was the Louisiana Purchase?",
+      "answer": "U.S. acquisition of territory from France in 1803",
+      "wrong": [
+        "A treaty ending the Civil War",
+        "Alaska becoming a state",
+        "The founding of Washington Territory"
+      ],
+      "why": "The U.S. bought Louisiana Territory from France."
+    },
+    {
+      "id": "ss-g8-05-2",
+      "band": "ss8",
+      "category": "Westward Expansion",
+      "tier": 2,
+      "clue": "What trail was used by many nineteenth-century migrants heading to Oregon Country?",
+      "answer": "Oregon Trail",
+      "wrong": [
+        "Silk Road",
+        "Appian Way",
+        "Santa Fe Trail only"
+      ],
+      "why": "The Oregon Trail was a major overland migration route."
+    },
+    {
+      "id": "ss-g8-05-3",
+      "band": "ss8",
+      "category": "Westward Expansion",
+      "tier": 3,
+      "clue": "What was one major effect of westward settlement on Indigenous nations?",
+      "answer": "Displacement and loss of land",
+      "wrong": [
+        "Automatic protection of all homelands",
+        "An end to U.S. expansion",
+        "Equal treaty enforcement everywhere"
+      ],
+      "why": "Expansion often dispossessed Indigenous communities."
+    },
+    {
+      "id": "ss-g8-05-4",
+      "band": "ss8",
+      "category": "Westward Expansion",
+      "tier": 4,
+      "clue": "What did the Indian Removal Act of 1830 authorize?",
+      "answer": "Federal removal policies targeting eastern Indigenous nations",
+      "wrong": [
+        "Immediate nationwide equal citizenship",
+        "An end to land treaties",
+        "The creation of the Bill of Rights"
+      ],
+      "why": "The law facilitated forced removals, including the Trail of Tears."
+    },
+    {
+      "id": "ss-g8-05-5",
+      "band": "ss8",
+      "category": "Westward Expansion",
+      "tier": 5,
+      "clue": "What is a useful way to evaluate manifest destiny as an idea?",
+      "answer": "Examine its claims alongside consequences for affected peoples",
+      "wrong": [
+        "Treat it as an uncontested fact of nature",
+        "Ignore Indigenous viewpoints",
+        "Assume all settlers shared identical motives"
+      ],
+      "why": "Manifest destiny was an expansionist ideology with contested consequences."
+    },
+    {
+      "id": "ss-g8-06-1",
+      "band": "ss8",
+      "category": "Slavery and Abolition",
+      "tier": 1,
+      "clue": "What does abolition mean in U.S. history?",
+      "answer": "Movement to end slavery",
+      "wrong": [
+        "The purchase of new territory",
+        "The start of a trade route",
+        "The creation of a colony"
+      ],
+      "why": "Abolitionists worked to end slavery."
+    },
+    {
+      "id": "ss-g8-06-2",
+      "band": "ss8",
+      "category": "Slavery and Abolition",
+      "tier": 2,
+      "clue": "Who was Frederick Douglass?",
+      "answer": "An abolitionist writer and speaker who escaped slavery",
+      "wrong": [
+        "The first U.S. president",
+        "A Civil War Confederate general",
+        "A Roman emperor"
+      ],
+      "why": "Douglass was an influential antislavery advocate."
+    },
+    {
+      "id": "ss-g8-06-3",
+      "band": "ss8",
+      "category": "Slavery and Abolition",
+      "tier": 3,
+      "clue": "What was the Underground Railroad?",
+      "answer": "A network assisting people escaping slavery",
+      "wrong": [
+        "A literal underground train system",
+        "A western gold mine",
+        "A government railroad company"
+      ],
+      "why": "It was a network of people and routes, not a railroad."
+    },
+    {
+      "id": "ss-g8-06-4",
+      "band": "ss8",
+      "category": "Slavery and Abolition",
+      "tier": 4,
+      "clue": "What did the Emancipation Proclamation declare in 1863?",
+      "answer": "Freedom for enslaved people in areas then in rebellion against the U.S.",
+      "wrong": [
+        "The abolition of slavery everywhere immediately",
+        "Voting rights for all women",
+        "The end of the Civil War that day"
+      ],
+      "why": "Its geographic and legal reach was limited but historically significant."
+    },
+    {
+      "id": "ss-g8-06-5",
+      "band": "ss8",
+      "category": "Slavery and Abolition",
+      "tier": 5,
+      "clue": "Which amendment abolished slavery except as punishment for a crime?",
+      "answer": "Thirteenth Amendment",
+      "wrong": [
+        "Tenth Amendment",
+        "First Amendment",
+        "Twenty-sixth Amendment"
+      ],
+      "why": "The Thirteenth Amendment abolished slavery with a constitutional exception for criminal punishment."
+    },
+    {
+      "id": "ss-g8-07-1",
+      "band": "ss8",
+      "category": "The Civil War",
+      "tier": 1,
+      "clue": "In what years was the U.S. Civil War fought?",
+      "answer": "1861–1865",
+      "wrong": [
+        "1775–1783",
+        "1914–1918",
+        "1846–1848"
+      ],
+      "why": "The Civil War lasted from 1861 to 1865."
+    },
+    {
+      "id": "ss-g8-07-2",
+      "band": "ss8",
+      "category": "The Civil War",
+      "tier": 2,
+      "clue": "Who was president of the United States during the Civil War?",
+      "answer": "Abraham Lincoln",
+      "wrong": [
+        "George Washington",
+        "Ulysses S. Grant",
+        "Theodore Roosevelt"
+      ],
+      "why": "Lincoln served as president from 1861 to 1865."
+    },
+    {
+      "id": "ss-g8-07-3",
+      "band": "ss8",
+      "category": "The Civil War",
+      "tier": 3,
+      "clue": "What was a central cause of the Civil War?",
+      "answer": "The conflict over slavery and its expansion",
+      "wrong": [
+        "Disagreement over the metric system",
+        "The building of the Panama Canal",
+        "The Cold War"
+      ],
+      "why": "Slavery was the central cause, alongside related sectional conflicts."
+    },
+    {
+      "id": "ss-g8-07-4",
+      "band": "ss8",
+      "category": "The Civil War",
+      "tier": 4,
+      "clue": "Which battle is often called a turning point of the Civil War?",
+      "answer": "Gettysburg",
+      "wrong": [
+        "Lexington and Concord",
+        "Yorktown",
+        "New Orleans in 1815"
+      ],
+      "why": "Gettysburg was a major 1863 Union victory."
+    },
+    {
+      "id": "ss-g8-07-5",
+      "band": "ss8",
+      "category": "The Civil War",
+      "tier": 5,
+      "clue": "What is the difference between the Union and Confederacy?",
+      "answer": "The Union fought to preserve the U.S.; seceding states formed the Confederacy",
+      "wrong": [
+        "They were two names for the same government",
+        "The Union consisted only of western territories",
+        "The Confederacy was created in 1787"
+      ],
+      "why": "Secession divided the United States, leading to war."
+    },
+    {
+      "id": "ss-g8-08-1",
+      "band": "ss8",
+      "category": "Reconstruction",
+      "tier": 1,
+      "clue": "What is Reconstruction in U.S. history?",
+      "answer": "The period of rebuilding and political change after the Civil War",
+      "wrong": [
+        "The time before the 13 Colonies",
+        "The building of the Roman roads",
+        "The founding of ancient Egypt"
+      ],
+      "why": "Reconstruction followed the Civil War, roughly 1865–1877."
+    },
+    {
+      "id": "ss-g8-08-2",
+      "band": "ss8",
+      "category": "Reconstruction",
+      "tier": 2,
+      "clue": "Which amendment guarantees equal protection of the laws?",
+      "answer": "Fourteenth Amendment",
+      "wrong": [
+        "First Amendment",
+        "Third Amendment",
+        "Tenth Amendment"
+      ],
+      "why": "The Fourteenth Amendment includes equal protection and due process provisions."
+    },
+    {
+      "id": "ss-g8-08-3",
+      "band": "ss8",
+      "category": "Reconstruction",
+      "tier": 3,
+      "clue": "Which amendment prohibits denying voting rights because of race, color, or previous servitude?",
+      "answer": "Fifteenth Amendment",
+      "wrong": [
+        "Eighth Amendment",
+        "Twelfth Amendment",
+        "Twenty-first Amendment"
+      ],
+      "why": "The Fifteenth Amendment addresses race-based voting exclusions."
+    },
+    {
+      "id": "ss-g8-08-4",
+      "band": "ss8",
+      "category": "Reconstruction",
+      "tier": 4,
+      "clue": "What was one role of the Freedmen's Bureau?",
+      "answer": "Supporting formerly enslaved people and refugees with aid and education",
+      "wrong": [
+        "Writing the U.S. Constitution",
+        "Building the Great Wall",
+        "Creating the first colonies"
+      ],
+      "why": "The bureau provided support during the Reconstruction era."
+    },
+    {
+      "id": "ss-g8-08-5",
+      "band": "ss8",
+      "category": "Reconstruction",
+      "tier": 5,
+      "clue": "Why did Reconstruction's gains face severe resistance?",
+      "answer": "Violence and discriminatory policies undermined expanded rights",
+      "wrong": [
+        "Everyone agreed on equality",
+        "The Constitution ceased to apply",
+        "Federal elections were canceled permanently"
+      ],
+      "why": "White supremacist violence and restrictive laws curtailed many advances."
     }
   ]
 }
